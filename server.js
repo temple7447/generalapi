@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const connectDB = require('./db')
 const State = require('./component/State')
-const DailyDevotion = require('./Router/Dailyform')
+const DailyDevotional = require('./Router/Dailyform')
 const cors = require('cors')
 const SermonDetails = require('./component/Sermons')
 const axios = require("axios");
@@ -11,7 +11,7 @@ app.use(cors())
 
 connectDB()
 
-app.use('/', DailyDevotion)
+app.use('/', DailyDevotional)
 app.get('/sermon',(req,res)=>{
 res.send(SermonDetails)
 })

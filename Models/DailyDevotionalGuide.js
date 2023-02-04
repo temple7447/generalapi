@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const Schema = mongoose.Schema();
+const Schema = mongoose.Schema;
 
 const DailyDevotion = new Schema({
     title:{
@@ -9,9 +9,6 @@ const DailyDevotion = new Schema({
     content:{
         type:String,
         required:true
-    },
-    createdAt:{
-        Date: new Date().toLocaleString(),
     }
 })
 

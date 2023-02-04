@@ -2,10 +2,10 @@ const mongoose = require('mongoose');
 
 const MONGOOSEPORT = ''
 const parameters = {
-    useUnif
+
 }
 
-const connet = mongoose.connet(MONGOOSEPORT,parameters)
+const connet = mongoose.connet(MONGOOSEPORT)
 .then((respons)=>{
     console.log(`DataBase was connect...`)
     console.log(respons)

@@ -11,3 +11,7 @@ const connet = mongoose.connet(MONGOOSEPORT)
     console.log(respons)
 })
 .catch((err)=>{ console.log(err)})
+
+
+
+module.exports = connet;

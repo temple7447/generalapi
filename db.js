@@ -1,17 +1,32 @@
-const mongoose = require('mongoose');
+const mongoose = require('mongoose')
+const MONGODB = process.env.MONGODB || "mongodb://localhost:27017/MrRached"
+const ONLINEMONGODB = process.env.ONLINEMONGODB || "mongodb+srv://MrComputer:1234567890@cluster0.ohii5.mongodb.net/?retryWrites=true&w=majority"
 
-const MONGOOSEPORT = ''
-const parameters = {
+const MONGODBE = process.env.MONGODBE 
+
+mongoose.set('strictQuery', false);
+const connectDB = async ()=>{
+    try {
+        
+       const conn = await mongoose.connect(ONLINEMONGODB,{
+            useUnifiedTopology:true,
+            useNewUrlParser:true,
+
+       })
+       .then(()=>{
+        console.log("mongoose is connected the database")
+       })
+       .catch((err)=>{
+        console.log(err)
+       })
+
+    } catch (error) {
+        console.log(error)
+        
+    }
 
 }
 
-const connet = mongoose.connet(MONGOOSEPORT)
-.then((respons)=>{
-    console.log(`DataBase was connect...`)
-    console.log(respons)
-})
-.catch((err)=>{ console.log(err)})
 
 
-
-module.exports = connet;
+module.exports = connectDB

@@ -2,11 +2,11 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const DailyDevotion = new Schema({
-    title:{
+    titleValue:{
         type:String,
         required:true
     },
-    content:{
+    contentValue:{
         type:String,
         required:true
     }

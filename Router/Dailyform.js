@@ -3,13 +3,27 @@ const router  = express.Router()
 const DailyDevotion  = require('../Models/DailyDevotionalGuide')
 
 
-router.get('/DailyDevotional', (req,res)=>{
-res.send('daily')
+router.get('/dailydevotional', (req,res)=>{
+
+    DailyDevotion.find({},(err, inform)=>{
+        if(err) return err
+
+        res.send(inform)
+    })
 })
 
 
-router.post('/DailyDevotional', (req,res)=>{
-res.send('daily')
+router.post('/dailydevotional', (req,res)=>{
+const {titleValue,contentValue } = req.body;
+
+const Dailynew = new DailyDevotion({
+    titleValue,
+    contentValue
+})
+
+Dailynew.save()
+.then((res)=>{console.log("it was sucess" , res)})
+.catch((err)=> console.log(err))
 })
 
 router.get('/',(req,res)=>{

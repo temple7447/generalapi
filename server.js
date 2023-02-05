@@ -11,11 +11,12 @@ app.use(cors())
 
 connectDB()
 
+app.use(express.json())
+
 app.use('/', DailyDevotional)
 app.get('/sermon',(req,res)=>{
 res.send(SermonDetails)
 })
-
 
 
 app.get('/state',(req,res)=>{

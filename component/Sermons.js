@@ -1,8 +1,5 @@
 
 const SermonDetails = [
-   {
- WEEKLY_SERMON_VOLUME_ONE:[
-  
  {key:1,
      content:`THE salvation of God that would come to all repentant sinners through  Jesus Christ as of grace was, since the days of Moses the prophet, typified by a very significant incident when a serpent of brass was set up for the Israelites.
      The children of Israel were a stubborn people. Because of their faithlessness, in spite of the wonders of the Almighty God they saw in Egypt, they continued to sin. On several occasions while they were journeying to Canaan they provoked God by reason of their abominable deeds, and they were justly punished. But when they repented and turned to God they received mercy.
@@ -1458,15 +1455,8 @@ Yes, heaven is a place and it is there God in His Kingdom dwells!`,
  {key:25, 
     content:`nbjdsjndjsdjsdjnjdsjnksjdcscsc ssjsjcskd`, 
     title:"heloo s"},
- ]
-   },
-   {
-      WEEKLY_SERMON_VOLUME_TWO:[
-         {key:25, 
-            content:`nbjdsjndjsdjsdjnjdsjnksjdcscsc ssjsjcskd`, 
-            title:"heloo s"},
-      ]
-   }
+
+ 
 ]
 
 module.exports = SermonDetails;

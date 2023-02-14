@@ -9,14 +9,14 @@ const SermonDetails = require('./component/Sermons')
 const axios = require("axios");
 app.use(cors())
 
-
+const weekone = SermonDetails[0].WEEKLY_SERMON_VOLUME_ONE
 
 app.use(express.json())
 
 app.use('/', DailyDevotional)
 app.use('/', MelodyRouter)
 app.get('/sermon',(req,res)=>{
-res.send(SermonDetails)
+res.send(weekone)
 })
 
 

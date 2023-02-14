@@ -1,24 +1,19 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
-const DailyDevotion = new Schema({
-    titleValue:{
+const Melody= new Schema({
+    name:{
         type:String,
         required:true
     },
-    contentValue:{
+    desc:{
         type:String,
         required:true
     },
-    themeValue:{
-        type:String,
-        required:true 
-    },
-    dateValue:{
+    linkImg:{
         type:String,
         required:true 
     }
-
 })
 
-module.exports = mongoose.model('GKS', DailyDevotion);
+module.exports = mongoose.model('Melody', Melody);

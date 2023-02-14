@@ -3,6 +3,8 @@ const router  = express.Router()
 const DailyDevotion  = require('../Models/DailyDevotionalGuide')
 
 
+
+
 router.get('/dailydevotional', (req,res)=>{
 
     DailyDevotion.find({},(err, inform)=>{
@@ -14,11 +16,13 @@ router.get('/dailydevotional', (req,res)=>{
 
 
 router.post('/dailydevotional', (req,res)=>{
-const {titleValue,contentValue } = req.body;
+const {titleValue,contentValue, themeValue,dateValue } = req.body;
 
 const Dailynew = new DailyDevotion({
     titleValue,
-    contentValue
+    contentValue,
+    themeValue,
+    dateValue
 })
 
 Dailynew.save()

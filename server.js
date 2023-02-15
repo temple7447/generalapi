@@ -7,6 +7,10 @@ const MelodyRouter = require('./Router/Melody')
 const cors = require('cors')
 const SermonDetails = require('./component/Sermons')
 const axios = require("axios");
+const songs = require('./component/Song')
+const path=  require("path")
+
+app.use(express.static(path.join(__dirname, 'public')));
 app.use(cors())
 
 
@@ -20,6 +24,10 @@ app.get('/sermon',(req,res)=>{
 res.send(SermonDetails)
 })
 
+
+app.get("/music", (req,res)=>{
+    res.send(songs)
+})
 
 app.get('/state',(req,res)=>{
     res.send(State)

@@ -42,17 +42,17 @@ const upload = multer({ storage: storage });
 
 app.post('/musicm', upload.single('musicFile'), (req, res) => {
   console.log(req.file)
-  // const { originalname, path } = req.file;
-  // console.log(originalname)
-  // const music = new Music({ name: originalname, path });
-  // music.save((err) => {
-  //   if (err) {
-  //     console.log('Error saving music file to database:', err);
-  //     return res.status(500).send(err);
-  //   }
-  //   console.log('Music file saved to database:', music);
-  //   res.send(music);
-  // });
+  const { originalname, path } = req.file;
+  console.log(originalname)
+  const music = new Music({ name: originalname, path });
+  music.save((err) => {
+    if (err) {
+      console.log('Error saving music file to database:', err);
+      return res.status(500).send(err);
+    }
+    console.log('Music file saved to database:', music);
+    res.send(music);
+  });
 });
 
 app.use('/', DailyDevotional)

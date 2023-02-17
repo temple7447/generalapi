@@ -18,6 +18,7 @@ router.get('/dailydevotional', (req,res)=>{
 router.post('/dailydevotional', (req,res)=>{
 const {titleValue,contentValue, themeValue,dateValue } = req.body;
 
+console.log(titleValue)
 const Dailynew = new DailyDevotion({
     titleValue,
     contentValue,

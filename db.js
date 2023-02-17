@@ -9,8 +9,8 @@ const connectDB = async ()=>{
     try {
         
        const conn = await mongoose.connect(ONLINEMONGODB,{
-            useUnifiedTopology:true,
-            useNewUrlParser:true,
+        useNewUrlParser: true,
+        useUnifiedTopology: true,
 
        })
        .then(()=>{

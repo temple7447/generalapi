@@ -11,6 +11,7 @@ const mongoose = require('mongoose');
 const songs = require('./component/Song')
 const path=  require("path")
 const multer = require('multer');
+const MusicRouter = require('./Router/Music')
 
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(cors())
@@ -21,42 +22,14 @@ connectDB()
 app.use(express.json())
 
 
-const musicSchema = new mongoose.Schema({
-  name: String,
-  path: String,
-});
-
-const Music = mongoose.model('Music', musicSchema);
-
-const storage = multer.diskStorage({
-  destination: function (req, file, cb) {
-    cb(null, './uploads');
-  },
-  filename: function (req, file, cb) {
-    cb(null, file.originalname);
-  },
-});
 
 
-const upload = multer({ storage: storage });
 
-app.post('/musicm', upload.single('musicFile'), (req, res) => {
-  console.log(req.file)
-  const { originalname, path } = req.file;
-  console.log(originalname)
-  const music = new Music({ name: originalname, path });
-  music.save((err) => {
-    if (err) {
-      console.log('Error saving music file to database:', err);
-      return res.status(500).send(err);
-    }
-    console.log('Music file saved to database:', music);
-    res.send(music);
-  });
-});
+
 
 app.use('/', DailyDevotional)
 app.use('/', MelodyRouter)
+app.use('/', MusicRouter)
 app.get('/sermon',(req,res)=>{
 res.send(SermonDetails)
 })

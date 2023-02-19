@@ -8,7 +8,6 @@ const cors = require('cors')
 const SermonDetails = require('./component/Sermons')
 const axios = require("axios");
 const mongoose = require('mongoose');
-const songs = require('./component/Song')
 const path=  require("path")
 const multer = require('multer');
 const MusicRouter = require('./Router/Music')
@@ -34,10 +33,6 @@ app.get('/sermon',(req,res)=>{
 res.send(SermonDetails)
 })
 
-
-app.get("/music", (req,res)=>{
-    res.send(songs)
-})
 app.get("/musicm", (req,res)=>{
     res.send("the name is test and what can i give you in return")
 })

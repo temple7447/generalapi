@@ -29,21 +29,25 @@ const { originalname,  buffer} = musicFile;
 
   });
 
-  // router.get("/uploadMusicFile", (req, res) => {
-    
+ 
 
+
+  // router.get("/uploadMusicFile", (req, res) => {
   //   Music.find({}, (err, music) => {
   //     if (err) {
   //       console.error(err);
-  //       res.sendStatus(500);
-  //     } else if (!music) {
-  //       res.sendStatus(404);
+  //       res.status(500).send("Error retrieving music files");
   //     } else {
-  //       res.set("Content-Type", "audio/mp3");
-  //       res.send(music.data);
-  //       console.log(music.data)
-  //       // res.send("you are welcome")
-        
+  //       const files = music.map((m) => ({
+  //         name: m.name,
+  //         data: m.data,
+  //       }));
+  
+  //       res.setHeader("Content-Type", "audio/mpeg");
+  //       files.forEach((file) => {
+  //         res.write(file.data);
+  //       });
+  //       res.end();
   //     }
   //   });
   // });
@@ -59,17 +63,15 @@ const { originalname,  buffer} = musicFile;
       } else {
         const files = music.map((m) => ({
           name: m.name,
-          data: m.data,
+          data: `data:audio/mp3;base64,${m.data.toString('base64')}`,
         }));
-  
-        res.setHeader("Content-Type", "audio/mpeg");
-        files.forEach((file) => {
-          res.write(file.data);
-        });
-        res.end();
+      
+        res.json(files);
       }
     });
   });
+
+
 
 
 module.exports = router

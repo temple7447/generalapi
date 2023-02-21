@@ -1,7 +1,7 @@
 
 const SermonDetails = [
-  { SermonHead: "WEEKLY SERMON VOLUME 1", key:1,
- sermon: [{key:1,
+
+{key:1,
      content:`THE salvation of God that would come to all repentant sinners through  Jesus Christ as of grace was, since the days of Moses the prophet, typified by a very significant incident when a serpent of brass was set up for the Israelites.
      The children of Israel were a stubborn people. Because of their faithlessness, in spite of the wonders of the Almighty God they saw in Egypt, they continued to sin. On several occasions while they were journeying to Canaan they provoked God by reason of their abominable deeds, and they were justly punished. But when they repented and turned to God they received mercy.
      One of such occasions was after the death of Aaron when they journeyed from Mount Hor by way of the Red Sea to the land of Edom. And because they grew impatient over the route they began to open their mouths wide I against Heaven. As a result of this God sent dreadful serpents to assail the camp of Israel and I many people were bitten to death.
@@ -1456,16 +1456,7 @@ Yes, heaven is a place and it is there God in His Kingdom dwells!`,
  {key:25, 
     content:`nbjdsjndjsdjsdjnjdsjnksjdcscsc ssjsjcskd`, 
     title:"heloo s"},
- ] },
- {
-   SermonHead: "WEEKLY SERMON VOLUME 2", key:2,
-   sermon:[
-      {key:1,
-      title:"heke",
-      content:"this is content"
-      }
-   ]
- }
+
  
 ]
 

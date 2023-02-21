@@ -11,6 +11,7 @@ const mongoose = require('mongoose');
 const path=  require("path")
 const multer = require('multer');
 const MusicRouter = require('./Router/Music')
+const data = require('./component/test')
 
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(cors())
@@ -24,14 +25,13 @@ app.use(express.json())
 
 
 
-
-
 app.use('/', DailyDevotional)
 app.use('/', MelodyRouter)
 app.use('/', MusicRouter)
 app.get('/sermon',(req,res)=>{
 res.send(SermonDetails)
 })
+
 
 app.get("/musicm", (req,res)=>{
     res.send("the name is test and what can i give you in return")
@@ -40,6 +40,11 @@ app.get("/musicm", (req,res)=>{
 app.get('/state',(req,res)=>{
     res.send(State)
     
+})
+
+
+app.get('*',(req,res)=>{
+    res.send('page was not found')
 })
 const PORT = process.env.PORT || 4000;
 app.listen(PORT,()=>{

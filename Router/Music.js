@@ -3,6 +3,7 @@ const router = express.Router()
 const multer = require('multer');
 
 const Music =  require('../Models/Music')
+const MusicUrl = require('../Models/MusicUrl')
 
 
 
@@ -64,6 +65,7 @@ const { originalname,  buffer} = musicFile;
         const files = music.map((m) => ({
           name: m.name,
           data: `data:audio/mp3;base64,${m.data.toString('base64')}`,
+          id:m._id
         }));
       
         res.json(files);
@@ -72,6 +74,39 @@ const { originalname,  buffer} = musicFile;
   });
 
 
+
+  router.post('/uploadMusicFileUrl',(req,res)=>{
+   const {name, size, type, musicUrl} = req.body;
+
+   const NewMusicUsers = new MusicUrl({
+    name,
+    size,
+    type,
+    musicUrl
+   })
+
+NewMusicUsers.save({})
+.then(()=>{
+  console.log("it was sent")
+}).catch((err)=>{
+  console.log(err)
+})
+
+  })
+  
+  router.get('/uploadMusicFileUrl',(req,res)=>{
+
+    MusicUrl.find({}, (err, music) => {
+      if (err) {
+        console.error(err);
+        res.status(500).send("Error retrieving music files");
+      } else {
+        res.json(music);
+      }
+    });
+
+
+  })
 
 
 module.exports = router

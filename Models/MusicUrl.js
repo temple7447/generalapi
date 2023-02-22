@@ -7,7 +7,8 @@ const MusicUrl = new Schema({
     size:String,
     type:String,
     musicUrl:String,
-    Photourl:String
+    Photourl:String,
+    options:String
 })
 
 

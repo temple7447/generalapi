@@ -76,7 +76,8 @@ const { originalname,  buffer} = musicFile;
 
 
   router.post('/uploadMusicFileUrl',(req,res)=>{
-   const {name, size, type, musicUrl,Photourl} = req.body;
+   const {name, size, type, musicUrl,Photourl,options} = req.body;
+   console.log(options)
 
    const NewMusicUsers = new MusicUrl({
     name,
@@ -84,6 +85,7 @@ const { originalname,  buffer} = musicFile;
     type,
     musicUrl,
     Photourl,
+    options
    })
 
 NewMusicUsers.save({})

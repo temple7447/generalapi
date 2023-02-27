@@ -1460,9 +1460,7 @@ const SermonDetails = [
  {
    SermonHead: "WEEKLY SERMON VOLUME 2", key:2,
    Sermons:[
-      {key:25, 
-         content:`nbjdsjndjsdjsdjnjdsjnksjdcscsc ssjsjcskd`, 
-         title:"heloo s"},
+    
    ]
  },
  {

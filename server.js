@@ -11,6 +11,7 @@ const mongoose = require('mongoose');
 const path=  require("path")
 const multer = require('multer');
 const MusicRouter = require('./Router/Music')
+const BibleQuiz = require('./Router/BibleQuiz')
 const data = require('./component/test')
 
 app.use(express.static(path.join(__dirname, 'public')));
@@ -23,6 +24,7 @@ app.use(express.json())
 
 
 app.use('/', DailyDevotional)
+app.use('/', BibleQuiz)
 app.use('/', MelodyRouter)
 app.use('/', MusicRouter)
 app.get('/sermon',(req,res)=>{

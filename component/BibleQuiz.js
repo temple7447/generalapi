@@ -26,10 +26,11 @@ const BibleQuiz = [
              iv) End of the Priestly work on earth.`,
             Question: `In the sermon on Cities of Refuge what is the Significance of the following: i) The Avenger of Blood ii) The Manslayer iii) The cities of refuge iv) The death of the high priest.`,
             options:[
-                {answer:" ", isCorrect:false, key:1},
+                {answer:" Jesus Christ , Ignorant sinners, End of the Priestly work on earth", isCorrect:false, key:1},
                 {answer:"Jesus Christ,", isCorrect:false, key:2},
                 {answer:" Jesus Christ , Ignorant sinners, God’s Kingdom now set up in this last days, End of the Priestly work on earth", isCorrect:true, key:3},
-                {answer:" Jesus Christ, ", isCorrect:false, key:4},
+                {answer:" all of the above ", isCorrect:false, key:4},
+                {answer:" none of the above ", isCorrect:false, key:5},
             ]
 
           },
@@ -79,7 +80,7 @@ const BibleQuiz = [
                 {answer:`sd`, isCorrect:false, key:2},
                 {answer:`sds`, isCorrect:false, key:3},
                 {answer:`none of the above`, isCorrect:false, key:4},
-                {answer:`all of the above`, isCorrect:false, key:4},
+                {answer:`all of the above`, isCorrect:false, key:5},
             ]
 
           },

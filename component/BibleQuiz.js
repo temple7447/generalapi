@@ -37,8 +37,7 @@ const BibleQuiz = [
           {
             key:3,
             explaination: "Because is Create the Heaven and Earth",
-            Question: `The cities of Refuge were cities which God
-            Almighty commanded the Jews to set aside for the benefit of the “manslayer” among the Jews as well as the strangers and sojourners dwelling among them who kills unintentionally so that he may not be overtaken by the strict law of retribution in force at that time.`,
+            Question: `The cities of Refuge were cities which God Almighty commanded the Jews to set aside for the benefit of the “manslayer” among the Jews as well as the strangers and sojourners dwelling among them who kills unintentionally so that he may not be overtaken by the strict law of retribution in force at that time.`,
             options:[
                 {answer:" SonShip one two", isCorrect:false, key:1},
                 {answer:`The cities of Refuge were cities which God Almighty commanded the Jews to set aside for the benefit of the “manslayer” among the Jews as well as the strangers and sojourners dwelling among them who kills unintentionally so that he may not be overtaken by the strict law of retribution in force at that time.`, isCorrect:true, key:2},
@@ -52,16 +51,28 @@ const BibleQuiz = [
             explaination: `There were six cities of Refuge, three on both sides of Jordan. –Numbers 35:9-34.`,
             Question: `How many where they and where were they located?`,
             options:[
-                {answer:" SonShip one two", isCorrect:false, key:1},
-                {answer:" SonShip two two", isCorrect:false, key:2},
-                {answer:`There were six cities of Refuge, three on both sides of Jordan. –Numbers 35:9-34.`, isCorrect:true, key:3},
-                {answer:" SonShip four two", isCorrect:false, key:4},
+                {answer:`Kedesh in Galilee - located in the north of Israel
+                Shechem - located in the central region of Israel
+                Hebron - located in the south of Israel
+                Bezer - located in the east of the Jordan River, in the territory of the tribe of Reuben
+                Ramoth - located in the east of the Jordan River, in the territory of the tribe of Gad
+                Golan - located in the east of the Jordan River, in the territory of the tribe of Manasseh`, isCorrect:false, key:1},
+                {answer:`There were six cities of Refuge, three on both sides of Jordan. –Numbers 35:9-34.`, isCorrect:true, key:2},
+                {answer:"All of the above" , isCorrect:true, key:3},
+                {answer:"None of the Above", isCorrect:false, key:4},
             ]
 
           },
           {
             key:5,
-            explaination: "It shows that this provision of God was made for the entire human race for their own protection and blessing. – Matthew 24:16; Isaiah 2:2,3.",
+            explaination: `It shows that this provision of God was made for the entire human race for their own protection and blessing. – Matthew 24:16; Isaiah 2:2,3. 
+            The fact that the cities of refuge were not only meant for the natural Jews but also for strangers and sojourners dwelling among them has significant implications in terms of the concept of justice and mercy in ancient Israel.
+
+In ancient times, strangers and sojourners were often marginalized and treated unfairly, and they did not have the same legal protections as natural-born citizens. However, God's command to set aside the cities of refuge for both Jews and non-Jews demonstrated his concern for justice and fairness for all people, regardless of their nationality or social status.
+
+This meant that if a non-Jew accidentally killed someone, they could also seek refuge in one of these cities and be protected from retribution until a trial could be held to determine their guilt or innocence. This showed that God's law was not only for the benefit of the Jews but was also intended to benefit all people who lived among them.
+
+The fact that the cities of refuge were open to both Jews and non-Jews demonstrated God's concern for justice and mercy for all people and was a reflection of his character as a just and compassionate God.`,
             Question: `What is the significance of the fact that the city of refuge was not meant only for the natural Jews but also for strangers?`,
             options:[
                 {answer:" SonShip one two", isCorrect:false, key:1},

@@ -11,9 +11,9 @@ const BibleQuiz = [
             Question: `Briefly explain what is meant by judgment by the “congregation” and “declaring one’s cause” in the sermon “Cities of Refuge”.`,
             options:[
                 {answer: `Judgment of God (the truth) as expounded by the anointed servants or their companions and the ecclesiastical courts in God’s organization (Psalm 149:5-9; John 5:22,27).   To declare one’s cause is to take one’s stand on the side of God and repent and walk in harmony  with God – Isaiah 26:9, Psalm 119:9- 11.`, isCorrect:true, key:1},
-                {answer:"two one", isCorrect:false, key:2},
-                {answer:"three one", isCorrect:false, key:3},
-                {answer:"four one", isCorrect:false, key:4},
+                {answer:"Both of these concepts are mentioned in the sermon as examples of how justice was administered in ancient Israel and how the cities of refuge were part of a larger system of justice and accountability in the community.", isCorrect:false, key:2},
+                {answer:"This was a common practice in ancient Israel and was used in cases where someone was accused of a crime or wrongdoing.", isCorrect:false, key:3},
+                {answer:"none of the above", isCorrect:false, key:4},
             ]
 
           },

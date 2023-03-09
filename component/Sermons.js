@@ -1283,28 +1283,17 @@ const SermonDetails = [
      {key:24, 
         content:`THE union of a man and a woman as husband and wife is known as marriage. It was instituted by the Almighty God not only for the accomplishment of His purpose but also for the benefit of men and women. In all the ways human beings have connections there is none – apart from the point of faith – the ties of which are stronger than the marriage bond.
     
-     
-    
         According to the Holy Bible, both man and woman are the creation of the Most High. From ‘the dust of the ground’, He made the first man Adam in His own image and endowed him with the attributes of wisdom, power, justice and love. And God said: “It is not good that the man should be alone; I will make him an help meet for him.” – Genesis 2: 18.
-        
-         
-        
+
         It is worthy of note that the Omniscient, who knows the end from the beginning, took to a different process in bringing the woman into existence. He caused Adam to fall into a deep sleep, and took out one of his ribs to make a woman whom He gave to Adam to be his wife. Adam, having awaked out of sleep, did not vacillate between two opinions as to his fleshly connection with his wife but straight off he identified her saying: “This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.” – Genesis 2: 21-23.
         
-         
-        
+   
         Thus Adam and Eve became the first human couple from whom the entire race of mankind descended. It is the will of God that the marital union should be kept sacred from infraction and that its strength should be maintained at all times. For this reason, it is written: “Therefore shall a man (for the sake of marriage) leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh. ” – Genesis 2: 24.
-        
-         
-        
+   
         We have now seen how marriage originated. Since then men and women have been marrying as ordained by the Lord. And because of the importance He attaches to marriage He enacted laws to regulate it. The law, according to Leviticus chapter 18, forbids a man from contracting marriage with a woman who is his near relation.
-        
-         
-        
+     
         The two principal reasons why God made the woman for the man and allowed them to get married, are (1) that the woman should be a helper or partner of the man (Genesis 2: 20-24); and (2) that they both should multiply and fill the earth with children. – Genesis 1: 27, 28.
-        
-         
-        
+    
         It is very important that every man or woman understands the purpose of marriage as well as the position each one holds in the union. Many marriages have run upon the rocks and collapsed because the parties concerned lacked this understanding. They do not appreciate its
         
         sacredness.
@@ -1312,108 +1301,65 @@ const SermonDetails = [
         Equal Rights?
         
         Some people hold the wrong view that in a marriage contract both the man and the woman have equal rights. According to The American Peoples Encyclopedia (Vol. 12, page 1077), “American laws and customs have tended to greater and greater equality between husband and wife in the marriage contract.” This is very wrong.
-        
-         
-        
+    
         There was never a time God, Who instituted marriage, indicated that man and woman were equal partners. When Adam and Eve sinned God, in passing His sentence, told the woman: “I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee.”- Genesis 3: 16.
-        
-         
-        
+       
         What is more, St. Paul stated: “But I would have you know, that the head of every man is Christ; and the head of the woman is the man…. ” (1 Corinthians 11: 3).
-        
-         
         
         The married woman must acknowledge the man as her head and give him that due respect. She too is vested with some rights or privileges of respect, honour, and trust which the man, though as the head, is bound to acknowledge and show to her. (Read 1 Corinthians 11: 3-12) St. Paul further explained that it is the woman that God made for the man, and not the man for the woman. Man is the image of God but the woman is the glory of the man. The man, he said, cannot do without the woman as she too cannot do without the man whom God had made to be her ruler and head.
         
-         
-        
         For any woman, therefore, to claim equality with her husband in the face of these scriptural authorities is a clear case of presumptuousness-and it is a sin (Deuteronomy 17: 12, 13; Psalm 19: 13) the woman must not usurp authority over the man. – 1 Timothy 2: 11-14.
-        
-         
-        
+       
         On the other hand any man who is so spineless to the extent of subjecting himself to the domination of his wife, is acting contrary to the divine purpose. St. Paul stated positively that an effeminate-that is, a womanish man or a man ruled by his wife-has no place in the Kingdom of God. – 1 Corinthians 6: 9, 10.
-        
-         
-        
+      
         We have said earlier that a married woman deserves to be respected but this respect must not be carried to the extreme of turning the husband nearly to a house- boy. What some so-called gentlemen regard as an act of “respect for the Mistress” is sheer stupidity. Woman is not man’s equal. Patricia Fay Anderton, a London woman, was quite right when she stated: “God never intended men and women to be equal; He certainly never intended women to compete with men. A woman is the complement to man… comforting and caring for him, and her true place is by his side not as a working competitor.” (West African Pilot, April 13, 1957).
-        
-         
-        
+       
         Dignity
         
         Marriage in its true perspective enhances the prestige and dignity of both the man and the woman. It was King Solomon who said, “Whoso findeth a wife (the godly type) findeth a good thing, and obtaineth favour of the Lord.” (Proverbs. 18: 22) And St. Paul stated: “Marriage is honourable; let us all keep it so, and the marriage-bond inviolate; for God’s judgment will fall on fornicators and adulterers.” – Hebrews 13: 4. New English Bible.
-        
-         
-        
+     
         Some people consider marriage as obsolete. Since unmarried women are very many and they can get some of them to satisfy their lusts at any time, it is, in their opinion, unwise to get themselves tied in matrimony to particular women. Another reason why they hate to get married is that they do not want to shoulder the responsibilities marriage imposes on men.
         
         There are also the female counterparts of this sort of unprincipled men, who prefer a life of debauchery to that of honourable marriage. All of them, except they repent, stand condemned before God and before men of honour for allowing themselves to be used as tools by the devil in carrying out his will in opposition to God and constituting a menace to human societies. In the end, the fate of the lawless will be their lot. – l Timothy 1: 9-10; Romans 1: 28-32.
         
         With regard to young women St. Paul advised: “1 will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully.” – l Timothy 5: 14.
-        
-         
-        
+      
         We must admit that the married life of certain people leaves much to be desired. What joy or comfort is in a marriage where the husband and wife behave like a cat and dog in the home? Some men are so high-tempered that for almost every misdeed of the wife, no matter how trivial, he is prepared to administer strokes of the cane or a heavy blow on her, or engage her in a fight. Similarly, some women are rude, very stubborn, like a devil incarnate, and ill mannered so that they count it as sport not only to irritate their husbands with abusive words and provocative conduct but also to invite them to open duels. Once a situation such as this becomes the order of the day in a married home then all that marriage stands for is gone.
-        
-         
-        
+      
         But the point is that the fault is not in the institution but on those misfits who neither understand the purpose of marriage nor appreciate the essence of the nuptial ties.
-        
-         
-        
+     
         Virtuous Woman
         
         A married woman who realises that she is a helper to her husband must do things to give him comfort and pleasure. She should show interest in her housework and should be humble, sober, discreet and chaste. (Titus 2: 4, 5) King Solomon said that a virtuous woman does not eat the bread of idleness, but is industrious; and she cares for her household so much that the evidence of her care is noticed in her husband among people. “She openeth her mouth with wisdom; and in her tongue is the law of kindness. Her children arise up, and call her blessed; her husband also, and he praiseth her. ” – Proverbs. 31: 10 – 28.
-        
-         
-        
+      
         It was in view of all this, King Solomon also stated: “A virtuous woman is a crown to her husband: but she that maketh ashamed is as rottenness in his bones.” -Proverbs 12: 4.
-        
-         
-        
+       
         It is not education, offering of gifts to curry neither favour nor beauty that makes marriage a success but good manners based on the fear of God. “Favour is deceitful”, said Solomon, “and beauty is vain: but a woman that feareth the Lord, she shall be praised.”-Proverbs. 31: 30.
-        
-         
-        
+     
         In his admonition to married women St. Paul wrote: “Wives, submit yourselves unto your own husbands, as unto the Lord. For the husband is the head of the wife, even as Christ is the head of the Church: and he is the saviour of the body. Therefore as the Church is subject unto Christ, so let the wives be to their own husbands in every thing.” -Ephesians 5: 22-24; see also Colossians. 3: 18; 1 Peter 3: 1-6.
-        
-         
-        
+      
         Although God said that the desire of the wife should come from the husband (Genesis 3: 16) that is no reason why the wife should be a spendthrift. She should be able to live according to the means and social status of her husband. The Bible says: “Every wise woman buildeth her house: but the foolish plucketh it down with her hands.” – Proverbs. 14: 1.
-        
-         
-        
+       
         Responsibilities
         
         On the part of the husband, marriage entails a lot of responsibilities. That is why a man must count the cost before plunging into it. The husband should be God-fearing, knowledgeable and understanding enough as to be able to rule his wife and control the affairs of his home.
-        
-         
-        
+       
         Husbands are required to love their wives, and they should not be bitter against them. (Colossians 3: 19) They should look after their wives well and nourish them in order to make them happy and appear decent: for the woman is the glory of the man. Said St. Paul: “Husbands, love your wives, even as Christ also loved the Church, and gave himself for it ….So ought men to love their wives as their own bodies. He that loveth his wife loveth himself. For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the Church.” – Ephesians 5: 25-29, 33.
-        
-         
-        
+       
         It is an offence for a man to oppress or maltreat his wife. The seriousness of this is underscored by the fact that the prayer of such a man will not be answered by God. St. Peter therefore admonished: “Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.” – 1 Peter 3: 7.
         
-         
-        
         With regard to the purpose of reproduction, it is important that a good understanding exists between the husband and the wife. St. Paul’s advice on this matter is enough. He stated: “The husband must give the wife what is due to her, and the wife equally must give the husband his due. The wife cannot claim her body as her own; it is her husband’s. Equally, the husband cannot claim his body as his own; it is his wife’s. Do not deny yourselves to one another, except when you agree upon a temporary abstinence in order to devote yourselves to prayer; afterwards you may come together again; otherwise for lack of self-control, you may be tempted by Satan.” (1 Corinthians 7:3-5, New English Bible) It is a SIN and an abuse of marriage honour for the wife to have love connection with a man who is not her husband; so too it is a sin for the husband to have sexual relation with any woman who is not his wife.
-        
-         
-        
+               
         European Custom
         
         In certain religious circles it is believed that a man and a woman are not properly married except a priest officiates at the marriage ceremony and the man gives the woman a ring. This is what some people call Christian marriage.
         
-         
-        
+     
         According to the Book of Common Prayer, the “solemnization of matrimony” takes a process involving open declarations by both the priest and the parties contracting the marriage. At a stage, the priest delivers the ring to the man who puts it upon the fourth finger of the woman‟s left hand, saying:
         
         “With this ring I thee wed, with my body I thee worship,
         
         and with all my worldly goods I thee endow…”
-        
-         
         
         The word “worship” here is improper as it is very unscriptural. It is only God true Christians worship. The husband should not worship his wife and the wife must not worship her husband. In the Christian Religion, man does not worship man save God and Christ alone. – Matthew 4: 10; 20:20; Hebrews1: 5, 6.
         
@@ -1452,6 +1398,1149 @@ const SermonDetails = [
         The burning question as to whether it is lawful for a Christian to marry more than one wife shall, by the grace of God, be treated in the next issue of “The Weekly Sermon”.`, 
         title:"MARRIAGE"},
      {key:25, 
+        content:`nbjdsjndjsdjsdjnjdsjnksjdcscsc ssjsjcskd`, 
+        title:"heloo s"},
+     {key:26, 
+        content:`THE Church of God, wherever it is established in any part of the world, is never divided but one in faith, fellowship, love and in preaching God’s word – the truth. Jesus Christ was fully aware that Christianity, which he founded by the power of God, would in process of time be counterfeited by some people at the instance of Satan, the arch-enemy of God and man. And so, he did not leave his disciples without setting out the marks by which his true Church could be identified.
+
+        In the first place, we wish to correct the wrong view of some Christians who refer to a building as a church. One of the definitions given by The Catholic Encyclopedic Dictionary is that a church is “a place of Christian worship”. Very often we come across publications stating that a certain amount of money has been earmarked or contributed for the building of a church. Or that the foundation stone of a new church to be built at a cost of £10,000 or so, has been or is to be laid by such and such reverend gentleman. Also, we find some people pointing at a building and saying, “This is our church.”
+      
+        The Bible does not refer to a house as church. Neither Jesus Christ nor any of his early apostles used the word to mean a building or place of worship. It is because of the continuous wrong usage of the word by priests and theologians that makers of dictionaries have also been biased to misconstrue it in that regard.
+            
+        Christian
+        
+        According to the Scripture, the word church, which was translated from the Greek word ekklesia or ecclesia, means a congregation or body or an assembly of Christians. The word was first used by Jesus Christ as recorded in the eighteenth verse of the sixteenth chapter of the gospel according to St. Matthew. The occasion was when Jesus Christ asked his disciples certain questions, and Peter gave a correct answer. To Peter, he said: “Blessed art thou, Simon Barjona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven. And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.” – Matthew 16: 13-18.
+      
+        
+        That the rock upon which the church is built is not Peter but Jesus Christ who himself is the head of the Church (1 Corinthians 10: 4; Colossians 1: 18) has been proved beyond argument in The Weekly Sermon (Vol. 1, No.9) issue of November 3, 1968. The point we are now making is that Jesus Christ did not use the word church to mean a literal house or place of worship.
+    
+        In the Acts of the Apostles, chapter 14, a lucid account is given about how Paul and Barnabas worked unitedly for the furtherance of the gospel of Christ. When they were come to Antioch as stated in verse 27, “and had gathered the church together, they rehearsed all that God had done with them, and how He had opened the door of faith unto the Gentiles”. The church that was gathered means the Christians, collectively, (not houses) that were assembled! When St. Paul said that “it is a shame for women to speak in the church” (1 Corinthians 14: 34, 35) he was not making reference to a building set aside for worship but to a congregation of Christians
+   
+        Furthermore, St Paul wrote in his epistle to the Romans thus: “Likewise greet the church that is in their house… The churches of Christ salute you.” (Romans 16: 5, 16) Can anybody show that the apostle was asking his fellow Christians to greet a house? how can a sane person do that? it is unthinkable! Or can a house, an inanimate object, salute persons? it cannot, except a demon in it. This is just to show how ridiculous and meaningless it will sound if the word church is reduced to mean a place of worship.
+ 
+        By the clause, “the church that is in their house”, St. Paul meant the disciples of Christ that met in their house. And when he stated “the churches of Christ salute you” he was referring to the congregations of Christian believers. See also 1 Corinthians 16: 19.
+    
+        
+        It should be understood, therefore, that our reference to the “true Church” in the caption of this sermon, has to do with a group or body or a society of genuine Christians. The epithet true would have been superfluous if there had not existed groups of professed Christians which are counterfeit.
+   
+        
+        Denominations
+        
+        With regard to the number of church denominations in the world, it is difficult to speak with exactitude. They are very many, and new ones spring up almost everyday. In Nigeria, there were two in particular that did not last long: they were the “Do Me I Do You Church” and “Adam and Eve Church”. The former was founded on the principle of retaliation as enunciated in the laws of Moses. Its members claimed that if they did not return evil for evil, God would be angry in that it was a sin. In the case of “Adam and Eve Church”, nakedness was their doctrine and practice. There is a similar church in England known as “The Guild Church of the Naturian Kindred”. (Vide Sunday Pictorial, May 19, 1957, page 15).
+        
+         
+        
+        Considering the degree of variance among the churches in doctrines and methods of worship, it will be a very silly conclusion to say that all of them belong to Jesus Christ and are serving the one true God.
+        
+         
+        
+        The Roman Catholic Church claims to be the only true Church, and mother of all others. In a pamphlet entitled, Can I Change My Religion? published by the “Catholic Truth Society” in London, it is stated: “Catholics do not want to change their religion, because they are quite sure that their religion is the true one…. You must accept everything that has been defined by her in the past, and be ready to accept without question anything that she may define in the future.” (Pages 3-4).
+        
+         
+        
+        Other church groups do disagree and pooh-pooh the claim of the Roman Catholics which cannot be supported with or proved from the Bible.
+        
+         
+        
+        There are some groups in Nigeria and elsewhere whose members’ activities, rather than turning men’s minds to God, are causing some people to reproach Christianity. In some of the groups almost every other member is either an apostle or a prophet or prophetess. Some take pride in high-sounding appellations such as “Senior Apostle”, “Most Senior Apostle” and so on. They prophesy and see visions almost everyday. The visions do not concern the purpose of God and are not such that tend to lead to righteousness but visions about riches or of the women the “spirit” wants them to marry, or of who is a witch and what not.
+        
+         
+        
+        It is common knowledge that fornication and adultery are perpetrated in some of these mushroom groups where certain prophets can spend a whole day with women in private rooms under the cover of prayer! Some of these prophets take certain deluded women to rivers where they pretend to wash away their sins and to invoke angels through prayer to drive away devils or demons from them. It is frequently alleged that the prophets strip them stark naked and make immoral advances to them in “holy” water!
+        
+         
+        
+        It was during one of their spirit-vision expeditions that some of these prophets killed a certain poor woman in the Western State as published.
+        
+         
+        
+        The other day one of their prophets claimed to have seen a vision that the Western State of Nigeria would sink if the people paid more than 7/6 per head as tax; he actually went out to spread this satan-inspired message. But on investigation, it was discovered that the anti-tax preacher had himself paid tax and kept his receipt quite intact. He was of course, justly convicted for 18 months. (Daily Times, February 1, 1969) Since Jesus Christ and his disciples paid tax in his days, do we still need any more proof before we can know that the anti-tax gospeler is a fake?
+        
+         
+        
+        Variance
+        
+        All the churches cannot be true while they are at variance on several points of doctrine, and divided in their methods of worship, we repeat. St. Paul stated: “Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.” (1 Corinthians 1: 10) The fact that some have deviated from the truth of God in the Bible and do not speak the same thing and are divided leaves no room for doubt that such ones only call the name of Christ in pretence.
+        
+         
+        
+        False Prophets
+        
+        Jesus Christ knew very well that false prophets with their characteristic propensity for fantastic claims would proliferate in this age of the last day, and he warned against them. Said he: “And many false prophets shall rise, and shall deceive many. For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that if it were possible, they shall deceive the very elect. Behold, I have told you before.” (Matthew 24: 11, 24-25.) Bible students are not surprised to see them and hear of them all over the world. It is a proof that the last day is here!
+        
+         
+        
+        Within the past few years the rate at which false Christs sprang up is fantastic. Like a shooting star, they appear suddenly in the mood of sanctimoniousness and, after a short while, fade away into oblivion. Where now is the “Jesus of Oyingbo” (Lagos)? Where is that of France who predicted that the world would end on August 15, 1954? (Vide the Illustrated of May, 1954) and where is that “Jesus of Ogbunike” near Onitsha? One of them claimed to be God and the very Jesus the Son of God, and at the same time he said he was Abraham. Yet some of those who had been stupefied with the strokes of his cane by which he “baptised” his adherents, believed everything he said. God said: “A wonderful and horrible thing is committed in the land; the prophets prophesy falsely, and the priests bear rule by their means; and my people love to have it so: and what will ye do in the end thereof?” – Jeremiah 5: 30, 31.
+        
+         
+        
+        There is no doubt that Nigeria, and the world at large, is in danger of false prophets. They are dangerous because they lead people to destruction. – Isaiah. 9: 16; Matthew 15: 12-14.
+        
+         
+        
+        When we examine the root of the encomium or praise and the credit given to certain churches for their achievements we find that they do not relate to the purity of doctrine or the reformation of character in converted souls. Rather, such a praise or credit is based on the number of schools, colleges or hospitals they have established or on the scholarships they have given to people. These institutions are not bad. But they are no standards or qualities by which genuine Christianity can be distinguished. The most important thing is the preaching of the truth of God’s word – the gospel – to the sheep of God so that they may be free from Satan’s works and be saved in God’s Kingdom. – Mark 16: 15-16, 19-20; John 8: 31, 32, 36.
+        
+         
+        
+        The pride of certain churches is that they have existed for a very long time. Because of this they regard others which are not as old to be false. On this, we also hold the view that it is not how long but how well. Jesus did say: “But many that are first shall be last; and the last shall be first.” – Matthew 19: 30.
+        
+         
+        
+        In order to know which church is true and which is not, we must examine the doctrines and practices of the various groups – using the Holy Bible as our yardstick. Jesus gave this warning: “Beware of false teachers, who come disguised as harmless sheep but are wolves and will tear you apart. You can detect them by the way they act, just as you can identify a tree by its fruit. You need never confuse grapevines with thorn bushes! Or figs with thistles! Different kinds of fruit trees can quickly be identified by examining their fruit. For a variety producing delicious fruit doesn’t produce a kind that is inedible! And a tree producing an inedible variety can’t produce what is good! So the trees having the inedible fruit are chopped down and thrown on the fire. Yes, the way to identify a tree, or a person, is by the kind of fruit produced.” – Matthew 7: 15-20, Living Gospels.
+        
+         
+        
+        The Authorised Version puts verse 20 thus: “Wherefore by their fruits ye shall know them.” Jesus Christ further said: “Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.” -Matthew 7: 21.
+        
+         
+        
+        It is wrong, therefore, to accept every church denomination as true and as belonging to Jesus Christ. We must follow strictly the guidelines given in the Scriptures in order not to be deceived especially in these days when many are claiming to be prophets, apostles and prophetesses who see spirits. John the apostle admonished: “Beloved. believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone on into the world.” (1 John 4: 1) And St. Paul also warned: “Prove all things; hold fast that which is good.” – l Thessalonians 5: 21.
+        
+         
+        
+        To close our eyes to or ignore the reality of the presence of false churches among us is nothing but self-deceit. Said St. Paul; “Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils; speaking lies in hypocrisy; having their conscience seared with a hot iron; forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth…. ” (1 Timothy 4; 1-5.) Just look around, it will not take you any pains to find the church groups that come under the category of the apostle’s predictive description.
+        
+         
+        
+        True Church
+        
+        The fruit by which we can know the true Church is not the doing of wonders, seeing of visions, dreaming of dreams or the saying of many prayers but the preaching of the TRUTH in particular, and the showing of Christian love. (John 13: 34,35) False prophets can do wonders, see visions and do some other things, but they CAN NEVER preach the TRUTH without adulterating it. (Matthew 7: 20-23) Once the doctrine of any religious body is tainted with a lie that group is not a true church. St. John stated “that no lie is of the truth”. (1 John 2: 21) It was on this ground St. Paul wrote to Timothy: “If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness; he is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings, perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.” – 1 Timothy 6: 3-5.
+        
+         
+        
+        The trouble with many people is that they take things for granted. They do not care to ascertain whether what they are taught to believe in the churches are in harmony with the holy scripture. For example, the teaching that St. Peter is the head of the church is not true; JESUS CHRIST IS THE HEAD. (Ephesians 5: 22,23) The teaching that the soul is immortal is wrong; the baptism of infants is unchristian, and the teaching that baptism washes away sins is unscriptural; the teaching that women are ordained by God to preach the gospel is unbiblical. There are a lot of other false doctrines and beliefs which space will not permit us to mention here.
+        
+         
+        
+        Any church denomination, or even an angel from heaven, that teaches any doctrine unsupported in the Scripture, has no right to claim to be the true church. Said St. Paul: “But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed…” – Galatians 1: 8, 9.
+        
+         
+        
+        The true Church, therefore, is the Christian Organisation in any part of the world that preaches the truth, nothing but the whole truth, as contained in the Holy Bible. Jesus said to the Jews who believed on him: “If ye continue in my word, then are ye my disciples indeed; and ye shall know the truth, and the truth shall make you free.” (John 8: 31, 32) It is the truth that will bring us the salvation of God, but the absence of it means the loss of everything good.
+        
+         
+        
+        As we must be honest and true to ourselves and other persons of goodwill toward God, we cannot hide the fact that the God’s Kingdom Society (GKS) is preaching the truth which has enlightened many people and brought them God’s blessings; she is therefore -like any other church organisation preaching the truth-the true Church of Christ. Some may frown upon this claim but the onus of proof rests upon them to show from the Scriptures (not their opinions) that we are not. And where they cannot let them say, as commanded by God, “It is truth.”-Isaiah. 43: 9; see also John 8: 45, 46.`, 
+        title:"IDENTIFYING THE TRUE CHURCH"},
+     {key:27, 
+        content:`THE view of some people that the Old Testament of the Bible has been done away with in the Christian Era is, to put it mildly, a misconception. Indeed, the advent of Jesus Christ brought about a modification of the Mosaic Law, yet, the change was not calculated to rule out the use of the Old Testament by Christians.
+
+ 
+
+        The Old Testament (otherwise known as the Hebrew Scriptures) is the first of the two great divisions of the Holy Bible containing God’s covenants with man. It is made up of 39 books which are counted from Genesis to Malachi. The contents of the Old Testament include the accounts of the creation, the fall of man and the manifestation of God’s justice, the Deluge, the Abrahamic promise, the laws of Moses to the nation of Israel, other typical incidents of far-reaching spiritual significance, the psalms, proverbs and prophecies.
+        
+         
+        
+        Among those who profess to be Christians there are some who in their teachings discard the Old Testament and give their followers to understand that Christians have nothing to do with it in that it was intended to serve the natural Jews alone. For this reason, many people frown upon any reference to texts in the Old Testament.
+        
+         
+        
+        In a Bible Correspondence Course by the “Church of Christ” it is stated: “The Old Testament was God’s law to the Jew… It is most important for us to realize that God’s will for us is found in the New Testament-not in the Old.
+        
+        “Here are three reasons why we cannot today go to the Old Testament to find what God requires of us: (1) The Old Testament was God’s law to the Jew. You were never under it. The ten commandments were given to the Jew only -never to the Gentiles (Read Exodus, chapters 19 and 20.) You cannot break the ten commandments any more than you can break the law of China. You are not and never were under them. (2) The Old Testament never contained a plan of salvation, not even for the Jew. At best, all he could do with his sacrifices was to postpone the punishment for his sins for a year. His sacrifices could not take away sin. (3) You are not under the Old Testament because Jesus took the law of Moses out of the way at his death. ‘He taketh away the old (covenant) that he might establish the new (covenant) by the which will we are sanctified’. (Hebrews 10: 10)”
+        
+         
+        
+        The foregoing quotes, no doubt, represent the argument of those who hold the view that the Old Testament is out of date.
+        
+         
+        
+        Law and Prophets
+        
+        In the first place it is very wrong to equate the Old Testament with the Ten Commandments contained in the twentieth chapter of the book of Exodus. As we indicated earlier in this sermon, the Old Testament contains much more than just “God’s law to the Jew”. Jesus Christ referred to the Old Testament as “the law and the prophets” during his ministry on earth. (Matthew 5: 17; 11: 13; Luke 16: 16) When Jesus was addressing his disciples after his resurrection, he declared: “These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms concerning me.” The account goes on, “Then opened he their understanding, that they might understand the scriptures.” – Luke 24: 44,45.
+        
+         
+        
+        It is very misleading, therefore, to give the impression that the Ten Commandments are the only fundamentals conveyed in the Old Testament! The Scriptures which Christ opened the minds of his disciples to understand were not only the Ten Commandments. They included the prophets and the psalms as well.
+        
+         
+        
+        The Old Testament is so linked with the New in such a flow of divine thoughts, symbolisms and rules that no true Christian can dispense with a thorough understanding of its significance. Christians are bound to believe the Old Testament but their belief must be backed with a good understanding of the modification of the law through the grace and truth that came by Jesus Christ. – John 1: 17.
+        
+         
+        
+        St. Paul confessed before Governor Felix that he believed the Old Testament which he referred to as “the law and the prophets”. He said: “But this I confess unto thee, that after the way which they (the Jews who accused him) call heresy, so worship I the God of my fathers, believing all things which are written in the law and in the prophets.” – Acts 24: 14.
+        
+         
+        
+        Eternal Life
+        
+        The second point that “the Old Testament never contained a plan of salvation, not even for the Jews”, is a clear manifestation of lack of spiritual understanding. It is another way of saying that all those who lived before Christ would not be saved. The Bible does not support this view. In Hebrews chapter 11, there is a catalogue of some of the ancient faithful who had received God’s approval to inherit His everlasting perfect Kingdom.
+        
+         
+        
+        As far back as the days of Abraham the Almighty God disclosed His purpose of the salvation of mankind. To Abraham He said: “In thee shall all the families of the earth be blessed.” (Genesis 12: 3; 22: 18) It was in order to accomplish this magnificent purpose of blessing mankind-not only the believing Jews but the converted Gentiles also – with life, peace and happiness everlastingly that God sent Jesus Christ to the world. Concerning this St. Paul stated: “And Scripture, foreseeing that God would justify the Gentiles through faith, declared the Gospel to Abraham beforehand: ‘In you all nations shall find blessing.‟ Thus it is the men of faith who share the blessing with faithful Abraham.” – Galatians 3: 8, 9. (New English Bible)
+        
+         
+        
+        Space will fail us to expatiate on the significance of the prophecy of Moses concerning Jesus Christ whom he warned the Jews to obey. (Deuteronomy 18: 15; Acts 3: 23) What about Job’s declaration? “For I know that my Redeemer liveth, and that he shall stand at the latter day upon the earth: and though after my skin worms destroy this body, yet in my flesh shall I see God.” (Job. 19: 25-27) Could a man who had no knowledge of “God’s plan of salvation” speak in such a vein that reflected true confidence and faith in the resurrection of the dead with- out which the faith of Christians is vain?
+        
+         
+        
+        A question-and-answer conversation between a lawyer and Jesus Christ in his days on earth, throws a ray of light on this matter. The lawyer put this test question to him: “Master, what shall I do to inherit eternal life?” Jesus countered him with questions: “What is written in the law? how readest thou?” The law expert then answered: “Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.” (The lawyer quoted from Deuteronomy 6: 5 and Leviticus. 19: 18.) And Jesus told him: “Thou hast answered right: this do, and thou shalt live.” – Luke 10: 25- 28.
+        
+         
+        
+        On another occasion when a certain ruler asked Jesus Christ as to what he should do in order to inherit eternal life, he (Jesus) told him: “Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour thy father and thy mother.” (Luke 18: 18-20) The point is that, if the laws were not necessary for salvation why did Christ refer to them? Mark you, the question was about salvation or eternal life. Will the anti-Old Testament preachers say that the book of Luke is in the Old Testament? Must Christians steal, commit adultery or bear false witness against people because the laws were for the Jews only?
+        
+         
+        
+        St. Paul stated firmly that the “commandment was ordained to life” and added, “Wherefore the law is holy, and the commandment holy, and just, and good”. It is sin in men that makes them unable to keep the perfect laws of God. (Romans 7: 7-17) St. Paul believed the writings of Moses and quoted him as saying, “That the man which doeth those things (of the law) shall live by them.” (Romans 10: 5; see also Leviticus 18: 5; Nehemiah 9: 29; Galatians 3: 12).
+        
+         
+        
+        The usefulness of the Old Testament to Christians is further portrayed in St. Paul’s epistle to the Romans. He said: “For whatsoever things were written aforetime were written for OUR learning, that WE (Christians) through patience and comfort of the scriptures might have hop e.” (Romans 15: 4.) Can any Christian of today claim to be a better authority than St. Paul, the vastly talented apostle? He also said: “For we are saved by hope…” (Romans 8: 24, 25) This is the hope which we have through “the comfort of the scriptures” about which the apostle was referring to the Old Testament.
+        
+         
+        
+        With regard to the third point that the law of Moses was taken out of the way at the death of Jesus Christ we agree; but only to the extent of the understanding of what in effect was taken out of the way or the proper spiritual understanding of what that implies. St. Paul stated without ambiguity that there was a change of the law consequent upon the change of the priesthood from the Aaronic system to the priesthood after the order of Melchizedec. It is this change that enabled Jesus Christ who sprang from the tribe of Judah to become a priest. But under the Law of Moses only the sons of Aaron from the tribe of Levi were qualified for the priesthood. – Read Hebrews 7: 11-19.
+        
+         
+        
+        We must point out that this change of the priesthood and the law cannot be taken to mean the abolition of the Old Testament. The laws cancelled were those that were a shadow of things to come, many of which Christ had fulfilled, and those laws which stood against our nature such as relating to meat, drink, holyday, new moon and sabbath days.- Colossians 2: 14-17; Hebrews 10: 1-10.
+        
+         
+        
+        It must be understood that the Ten Commandments were not the only laws of Moses; there were several others. Many of these laws are still effective up till now save that they are underlined by the grace of Christ through faith which permits of observing the spirit rather than the letters of the law. The apostles commanded the Christians not to eat blood or things strangled according to Acts 15: 28, 29. But these were some of the Old Testament laws though not among the Ten Commandments.
+        
+         
+        
+        Amendment
+        
+        The opinion that the Old Testament is condemned has no basis in the Scriptures. Jesus Christ himself said: “Do not suppose that I have come to abolish the Law and the prophets; I did not come to abolish, but to complete. I tell you this: so long as heaven and earth endure, not a letter, not a stroke, will disappear from the Law until all that must happen has happened. If any man therefore sets aside even the least of the Law’s demands, and teaches others to do the same, he will have the lowest place in the kingdom of Heaven, whereas anyone who keeps the Law and teaches others so will stand high in the kingdom of Heaven.” – Matthew 5: 17-19. (New English Bible).
+        
+         
+        
+        Even in modifying the laws Christ increased the degree of their strength. Some of the amendments of the Law by Christ are written in Matthew 5: 21-48. Here are few instances. He said to his disciples: “Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment: but I say unto you, That whosoever is angry with his brother without a cause shall be in danger of judgment…” (Matthew 5: 21, 22) By this amendment, it is not only when you commit murder that you become guilty but as soon as you nurse anger against your neighbour without cause you are in danger of judgment.
+        
+         
+        
+        Again, Jesus said: “Ye have heard that it was said by them of old time, Thou shalt not commit adultery. But I say unto you, whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.”(Matthew 5: 27, 28) In fact, some of the amendments are additions which place the old laws on a firmer footing in the Christian Era.
+        
+         
+        
+        There are numerous Old Testament quotations in the New Testament. Both Jesus Christ and his early apostles made references to texts in the Old Testament to support their statements. When Satan tempted Jesus Christ to get food by changing stones into bread so as to prove that he was the Son of God, it was the Old Testament Christ quoted to counter the devil. For Jesus said: “It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.” (Matthew 4: 3, 4) To be precise, Christ quoted Deuteronomy 8: 3. On that occasion, the devil also cited the Hebrew Scriptures (Old Testament) which he twisted, as false prophets do, to suit his purpose, but Jesus Christ silenced him with genuine authorities quoted from the same Old Testament. (Matthew 4: 5-11).
+        
+         
+        
+        St. Peter also quoted the Psalms of David (Psalm 41: 9; 69: 25; 109: 8) when he was addressing the disciples about Judas Iscariot, the traitor, whose office another was to take. -Acts 1: 15-20.
+        
+         
+        
+        In most of St. Paul’s epistles he made references to the Hebrew Scriptures. Exhorting the Roman Christians, he said: “Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.” (Romans 12: 19) The apostle cited from Deuteronomy 32: 35. And in Romans 14: 11, he further cited from Isaiah 45: 23.
+        
+         
+        
+        Instances of references made by Jesus Christ and the apostles to Old Testament texts are numerous and all cannot be cited here. But from the few of them shown in the foregoing it will be preposterous for anyone to insist still that the Old Testament is of no use to Christians.
+        
+        In first Corinthians chapter 10, St. Paul outlined some of the experiences and doings of the children of Israel. He stated that God was not well pleased with many of them because of their iniquities and they were overthrown in the wilderness. He then added: “Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.” – 1 Corinthians 10: 11.
+        
+         
+        
+        If we the Christians now at the end of the world are to do away with the Old Testament. how can what is written in it be “for our admonition”? In other words, how can we understand the spiritual import of those incidents and learn lessons from them?
+        
+         
+        
+        Law of Liberty
+        
+        Some people quarrel with the Old Testament because of their lack of understanding in regard to the change of the Mosaic Law. Christians are expected to live a holy life; this calls for the practice of righteousness by adhering to the demands of God’s word or law of liberty which purifies the worshipper who sincerely acknowledges and puts away his sins. – Acts 10: 34,35; Matthew 5: 20; 6: 33; James. 1:25; 2:12.
+        
+         
+        
+        We do not by this ignore the fact that it is by God’s grace through faith that Christians will be saved. Asked St. Paul: “Do we then make void the law through faith?” He himself answered: “God forbid: yea, we establish the law.” – Romans 3: 31.
+        
+         
+        
+        If we know how to use the laws, we will never under-estimate their value. It was St. Paul who said “But we know that the law is good if a man use it lawfulIy.” – 1 Timothy 1: 8.
+        
+         
+        
+        The truth of the subject matter has been made plain. Anyone who believes in the New Testament must equally believe in the Old because the New testifies to the vital importance, reliability and indispensability of the Old Testament. It is both the Old and New that make up “all Scripture” which St. Paul says “is given by inspiration of God and is profitable for doctrine for reproof, for correction in righteousness: that the man of God may be perfect throughly furnished unto all good works.” (2 Timothy 3: 16, 17) And remember that Jesus Christ said he came not to destroy the law or the prophets but to fulfill and complete their works. – Matthew 5: 17-19.`, 
+        title:"IS THE OLD TESTAMENT ABOLISHED?"},
+     {key:28, 
+        content:`FOR reasons purely spiritual, the God’s Kingdom Society (GKS) observes neither “Good Friday” nor Easter. The appellation of “good” by which the day of Christ‟s passion and ignominious death is identified is irreconcilable with scriptural facts. And Easter, which is derived from paganism, ought not to be associated with Christianity at all!
+
+ 
+
+        Good Friday is the Friday before Easter Sunday which is observed by the Churches of Christendom in commemoration of the death of Jesus Christ. According to the Catholic Dictionary, “It is, of course, a day of fasting, abstinence and penitence…. It is the only day of the year upon which Mass may not be said.”
+        
+         
+        
+        Ceremonies
+        
+        The religious observance of “Good Friday” is marked with ceremonies which are reminiscent of the deep sorrow and depressed state of the disciples of Jesus Christ during the period of his suffering and death. On this occasion a three-hour service is usually held with the altars stripped of decorations, the candles unlit and the priests dressed in black robes. During the protracted service, the successive stages of the passion are recalled in the liturgical ceremonies with all the accompaniments of the deepest and tenderest mourning.
+        
+         
+        
+        There is no doubt that the death of Jesus Christ was a remarkable event in human history. Although Satan the devil, with evil intention, inspired it, God Almighty in His infinite mercy turned it to the good of mankind in pursuance of His purpose of salvation.
+        
+         
+        
+        The day is qualified as “good” because, according to the clergy, it was on that day Jesus Christ our Redeemer obtained salvation for fallen mankind. This assumption, in men’s often faulty opinion or reasoning, appears to be reasonable but viewed against the background of the Scriptures it cannot be justified.
+        
+         
+        
+        To those who were the enemies of truth and righteousness in the days of Jesus, that day of his crucifixion was good. It was the day they saw the fulfillment of their conspiracy. Their joy was not because they realised or believed that his death was for the redemption of sinful mankind; rather they hoped that it would mean the end of the man whom they called a “deceiver”.
+        
+         
+        
+        Anyone who reads the Bible well will find no difficulty in seeing the contrast between the disposition of the wicked Jews who were the enemies of light and the state of mind of Jesus Christ and his disciples at the time of the crucifixion. While the conspirators revelled in their acts of atrocity, Jesus Christ whose innocence was not in dispute, as well as his followers, was grief-striken.
+        
+         
+        
+        Sorrow
+        
+        Before the arrest of Jesus, he had forewarned his disciples concerning the events which would result in anxious moments and distress for them. He told them pointblank that they would be plunged into sorrow and that the world would rejoice, yet he gave the assurance that their sorrow would revert to joy. Said he: “A little while, and ye shall not see me because I go to the Father.” His disciples did not understand what he meant, and when he realised that they wanted to know the meaning of his statement, he declared: “Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy” – John 16: 16-20.
+        
+         
+        
+        On the part of Jesus Christ himself, he knew that the hour for him to bear the griefs of mankind had struck and he was prepared to submit to his Father’s will and damn the consequence of the worst his foes could do. Yet in an outburst of human feeling, he said to Peter, James and John: “My soul is exceeding sorrowful even unto death….” (Matthew 26: 38) He moved forward a little from them and fell on his face in prayer, saying “O My Father, if it be possible, let this cup pass from me; nevertheless not as I will, but as Thou wilt.” (Matthew 26: 39) Then he returned to the three disciples and found them asleep, exhausted from grief. – Luke 22: 45.
+        
+         
+        
+        From all indications, this was a very trying moment for Jesus Christ and his disciples. He was in such agony of spirit that his sweat was like drops of blood falling to the ground. It was in this state he went away again the second time, and prayed: “O my Father, if this cup may not pass away from me, except I drink it, Thy will be done.” (Matthew 26: 42) The upshot of the whole affair proved that it was the Father’s will that he should drink the cup, and so “taste death for every man” – Hebrews 2: 9.
+        
+         
+        
+        It is on record that the disciples of Jesus Christ continued to be under the grip of sorrow until the gladsome news of his resurrection was broken to them. – Mark 16: 9, 10.
+        
+         
+        
+        In the light of the foregoing facts dished up out of the Scriptures, it does not stand to reason for those on the side of Christ to call or regard that day of his anguish and death as good. If it is a good day all because the death of Christ redounded to man’s salvation, why do “church-goers” indulge in fasting, abstinence, wearing of black robes and in ceremonies suggestive of mourning on “Good Friday”? Why do they not go about merry-making?
+        
+         
+        
+        Concerning “Good Friday”, Benjamin Vincent in his Haydn’s Dictionary of Dates and Universal Information stated: “Its appellation of good appears to be peculiar to the church of England; our Saxon forefathers denominated it Long Friday: on account of the length of the offices and fastings enjoined on this day.” (Page 448)
+        
+         
+        
+        Judas Iscariot
+        
+        On the other hand, can it not be taken to mean that those who regard the day of Christ’s crucifixion as good are in effect giving support, wittingly or unwittingly, to his betrayer and all the evil men who contributed to his death? Was the killing of Jesus Christ a good act? It was not! But if we go by the trend of reasoning of the clergy, then they themselves cannot stand any ground against the sceptics who justify Judas Iscariot for betraying our Lord and Saviour into the hands of sinners.
+        
+         
+        
+        The Holy Bible is quite clear on the point that Judas Iscariot was condemned because he sinned against the Holy Spirit by betraying innocent blood. And the consequence was grievous. He was deposed from his high office of heavenly calling and was stamped with the ominous title of the “son of perdition.” – John 17: 6, 12.
+        
+         
+        
+        Jesus Christ had long ago been resurrected and glorified by the Almighty Father- never to die again! He himself said: “I am he that liveth, and was dead; and behold, I am alive for evermore, Amen; and have the keys of hell and of death.” (Revelation 1: 18) To indulge in fasting and mourning still for the risen and glorified Lord, as certain Churches are doing, is not only unnecessary but also contrary to the principles of Christianity. Jesus did not say that his followers would mourn for ever, rather he said, “your sorrow shall be turned into joy”. And he added: “Your heart shall rejoice, and your joy no man taketh away.” (John 16: 19-22) This he said because he knew that his resurrection would be victory over death and that it would strengthen the faith of Christians and give them cause for great joy. The Churches are therefore not justified for their “Good Friday” abstinence, mourning and formalities.
+        
+         
+        
+        St. Paul in his epistle to the Thessalonians, exhorted the Christians about the dead thus: “But would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope. For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him. Wherefore comfort one another with these words.” – 1 Thessalonians 4: 13-14, 18.
+        
+         
+        
+        The point we are making is this, if we are not to be in sorrow for those who die in the Lord because of the hope of resurrection, is there any reason why anyone should mourn for Jesus Christ -the author of that hope – who had since been raised from the dead?
+        
+         
+        
+        Let no one, therefore, deceive himself as to think that all his self-afflictions and mourning of “Good Friday” are of any spiritual significance before God and Christ.
+        
+         
+        
+        Easter
+        
+        With regard to Easter festival, the fact that it originated from paganism cannot be disputed. Students of ecclesiastical history are sometimes baffled as to why those who claimed to be the successors of the apostles and custodians of God’s word after the death of the early apostles of Jesus Christ should with relish adopt pagan institutions, customs and practices.
+        
+         
+        
+        Easter was a pagan festival originally celebrated by the Anglo-Saxons in the spring equinox in honour of a Teutonic goddess known as Astarte or Eostre. The well known ecclesiastical historian, Alexander Hislop, in his book, The Two Babylons, stated that Easter “is not a Christian name”. He went on, “It bears its Chaldean origin on its very forehead. Easter is nothing else than Astarte, one of the titles of Beltis, the queen of heaven…. That name as found by Layard on the Assyrian monuments, is Ishtar…. The festival, of which we read in Church history under the name Easter, in the third or fourth centuries, was quite a different festival from that now observed in the Romish Church, and at that time was not known by any such name as Easter. It was called the Pasch, or the Passover ” (Pages 103-104).
+        
+         
+        
+        The use of “hot cross buns” and “dyed eggs” as a custom that still attends the celebration of Easter is but a confirmation of the testimony of history as to its origin. The illustrated World Encyclopedia has this to say: “Before the time of Christ people used to worship many gods and goddesses. One was named Eastre. Because Easter comes in the spring, we have named it for this goddess. We have brightly colored eggs at Easter, because eggs stand for the beginning, or birth, just as spring itself is a birth each year. Christians celebrated Easter as the New Year . . .” (Vol. 7, page 1732).
+        
+         
+        
+        Mistranslation
+        
+        The word Easter appears once in the Holy Bible at Acts 12: 4. All accredited scholars agree that it was a wrong translation of a Greek word for Passover. On this point, Alexander Hislop commented: “Every one knows that the name ‘Easter’, used in our translation of Acts xii. 4, refers not to any Christian festival, but to the Jewish Passover. This is one of the few places in our version where the translators show an undue bias
+        
+         
+        
+        In the Bible Student’s Companion, William Nicholson wrote: “EASTER – An improper translation: for the feast of the passover is meant, Acts xii. 4. Easter was the name of a Pagan festival observed in spring by our ancestors, in honour of the goddess Astarte or Eostro, a saxon goddess, the Ashtaroth of Syria. In all other places pascha is rendered passover, the true meaning.”
+        
+         
+        
+        The word Easter in Acts 12: 4 in the Authorised Version, is rendered “Pasch” or “Passover” in other translations. The Douay Version (sometimes called Roman Catholic Bible by some) uses the word Pasch. The Revised Version, Moffatt Translation, Diaglott, New English Bible, Living Gospels and others render it Passover.
+        
+         
+        
+        About Easter the Westminster Dictionary of the Bible states: “Originally the spring festival in honor of the Teutonic goddess of light and spring known in Anglo-Saxon as Eastre. As early as the 8th century the name was transferred by the Anglo-Saxon to the Christian festival designed to celebrate the resurrection of Christ. In Authorised Version it occurs once (Acts 12: 4), but is a mistranslation. The original is pascha, the ordinary Greek word for Passover. Revised Version properly employs the word passover.”(Page 145).
+        
+         
+        
+        Pagan Origin
+        
+        Coming back to the origin of Easter, historians are unanimous on the point that it was all a pagan affair. It was nominal Christianity that gave it a gloss of respectability by associating it with the resurrection of Jesus Christ without any authority or commandment either of Christ himself or any Apostle. About Easter, E. Royston Pike, in his Encyclopedia of Religion and Religions, wrote: “According to the Venerable Bede, the name is derived from Eostre, the Anglo-Saxon goddess of spring whose festival was kept at the Spring equinox…” He went on: “There is no mention of the celebration of Easter in the New Testament and the Apostolic Age…From the first there was confusion over the date. In 325 the Council of Nicaea decreed that henceforth all Christians should observe Easter on the same day, which must be a Sunday; but for long there were wide differences in practice.” The historian then added: “Many times the proposal of fixing Easter has been ventilated, and in 1928 the British Parliament passed an Act providing that it should fall, on the first Sunday after the second Saturday in April.” (Pages 132-133).
+        
+         
+        
+        However, we do not intend to stretch into the details of Scripture as to why an issue of a Christian practice (if indeed it is) should not be decided by the Parliament of a worldly government. But we must emphasise that Easter has no connection whatsoever with true Christianity.
+        
+         
+        
+        Further confirmation of the pagan origin of Easter can be obtained from the Encyclopedia Britannica, which says: “The English name Easter is of uncertain origin; Bede in the 8th century derived it from that of the Anglo-Saxon spring goddess Eostre . Around the Christian observance of Easter as the climax of the liturgical drama of Holy Week and Good Friday folk customs have collected, many of which have been handed down from the ancient ceremonial and symbolism of the pagan spring festival brought into relation with the resurrection theme.” (Vol. 7. pp. 864-866).
+        
+         
+        
+        And what has The American Peoples Encyclopedia to say? “Many of the popular observances of Easter are pagan in origin. Some may be traced to the feast of the goddess Eostra…” (Vol. 7, page 483).
+        
+         
+        
+        It is our candid opinion based on the Bible that no matter how glamorously Easter on the surface is vested with the garments of Christianity, its pagan image remains the same. In the early centuries, the Romish Church was notorious for its tendency of conciliating the pagans into nominal Christianity, which it stood for, by wallowing in the mire of idolatry. This tendency was one of the factors, the Reformation campaigns notwithstanding, that led Christendom astray.
+        
+         
+        
+        “Memorial Supper”
+        
+        What was instituted by Jesus Christ was the “Memorial Supper” and NOT Easter. In doing it, he gave the bread and wine – representing his body and blood – to his apostles. (Matthew 26: 26-29). Not all believers in Christ ought to take the bread and wine; it is only those who belong to the group of Christians St. Paul called “the church of the firstborn” (meaning Christ’s cabinet ministers) that should take the bread and wine emblem. To serve the bread only and leave out the wine is incomplete and wrong; to mix the bread with wine as some churches are doing is a deviation from the Lord’s instructions, and is a sin; and to serve the supper on all disciples indiscriminately – men, women and children – instead of the spiritually matured faithful like the apostles, is a greater sin. Women and children ought not to take of the bread and wine. Jesus Christ had many faithful women disciples and also children followers but not one woman or child he made to take of it in his time. Why? And how many people know that to take the bread and wine unworthily is a curse? Think of these seriously. The answers are in the Bible. We shall treat them in a subsequent issue of the Weekly Sermon.
+        
+         
+        
+        The celebration of Easter is not authorised by the Holy Scriptures. Even the Passover festival had no connection with the resurrection of Christ. And if any Christian wishes to do anything in honour of Christ Jesus our Lord and Redeemer, he must abstain from all appearances of idolatory otherwise he worships in vain.`, 
+        title:"What Do These Mean To You? GOOD FRIDAY AND EASTER"},
+     {key:29, 
+        content:`WHOEVER does not know Jesus Christ has no real knowledge of God, and, according to the Scriptures, he cannot be saved! (John 17:3) Among the creation of God, he is placed in a class distinguished beyond all others both in the heavenly realm and on this terrestrial globe. But to bring him into a line of equality with the Almighty Father is a damnable error.
+
+        From the utterances and behaviour of some people who profess to be the followers of Jesus Christ, we are convinced that they do not, in fact, know him. The name Jesus is constantly upon the lips of men. While some for good reasons call him with due reverence, others do so either because of the merest trifle or out of religious fanaticism.
+        
+        During dinners or other parties or social gatherings certain people who are made merry by wine often exclaim, “O Gracious Jesus!” If they are not served with drinks in time, they shout on the attendants: “Will you please bring the bottle of beer for Jesus’ sake?” When some have eaten their fill and belched, they mumble: “O Jesus my Lord!” And even there are those who, when they are struck by a remark in an ordinary conversation, would say: “Jesus me!” All these utterances do not give honour to Jesus Christ but rather they are acts of sheer irresponsibility.
+        
+        Jesus Christ is the Beloved Son of the Almighty God who was sent to this evil world to show the light of life to men and shed his blood for the redemption of sinful mankind. In John 3: 16-19, it is written: “For God so loved the world, that He gave His only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. For God sent not His Son into the world to condemn the world, but that the world through him might be saved. He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God. And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.”
+        
+        Son of God.
+        
+        Some people say that God has no son in that He is not married, and so they argue that Jesus Christ is not the son of God. This is a very poor argument. The spiritual significance of the word father is one from whom life is d\erived, and son means one who receives life. It is in this light that Jesus Christ is the Son of God because he received life from Him. He said: “For as the Father hath life in Himself; so hath He given to the Son to have life in himself.” (John 5; 26) God is also the Father of other angels in heaven as well as of human beings on earth because “He giveth to all life and breath.” – Acts 17:24-28.
+        
+        However, the Sonship of Jesus Christ belongs to an exclusive category and is matchless. St. Paul in his letter to the Hebrews expatiated on this issue thus: “Long ago God spoke on many different ways to our fathers…but now in these days He had spoken to us through His Son …God’s Son shines out with God’s glory… He is the one who died to cleanse us and clear our record of all sin, and then sat down in highest honor beside the great God of heaven. Thus he became far greater than the angels, as proved by the fact that his name ‘Son of God’, which was passed on to him from his Father, is far greater than the names and titles of the angels.” The apostle continued: “For God never said to any angel, you are my Son, and today have given you the honor that goes with that name.’ But that is what God said about Jesus. Another time He said, ‘I am His Father and He is my Son…'” – Hebrews 1: 1-9, Living Letters.
+        
+        The Word
+        
+        The Bible clearly shows that the first thing ever created by the Almighty God was Jesus Christ, and he became the creative agent of the Father through whom all other things perfect, both visible and invisible, were created.
+        
+        Jesus Christ is known as the Word translated from the Greek word LOGOS, which is significant of his role as the spokesman or one through whom the Father expresses His will to mankind. In John 1: 1-3, it is written: “In the beginning was the Word, and the Word was with God. The same was in the beginning with God. All things were made by him; and without him was not anything made that was made.” Jesus Christ was created; but God the Father has neither beginning nor end but is “from everlasting to everlasting”. (Psalm 90: 2) Thus the “beginning” referred to in the text is the beginning of God’s creation when the Word (Jesus) was created and he who also is God the Son was with God the Father. Indeed Jesus is a God and Isaiah in prophecy called him the “mighty God”. – Isaiah. 9: 6, 7.
+        
+        It was the Word, NOT God Almighty that was made flesh, born on earth, and known as Jesus Christ. But the world which God gave him power to create did not recognise him when he came. As it is written: “And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as the only begotten of the Father,) full of grace and truth. He was in the world, and the world was made by him, and the world knew him not. He came unto his own, and his own received him not. But as many as received him to them gave he power to become the sons of God, even to them that believe on his name.”-John 1: 14, 10-12.
+        Jesus Christ is also known as “the Faithful and True Witness.” The fact that he was the first creation of God is further confirmed by the testimony of John the apostle in Revelation. He stated: “These things saith the Amen, the faithful and true witness, the beginning of the creation of God.” – Revelation 3: 14.
+        
+        These were long hidden truths which God through His apostles revealed in the Holy Bible. Said St. Paul: “And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, Who created all things by Jesus Christ.” –  Ephesians 3: 9.
+        
+        Moreover, St. Paul in his epistle to the Colossians described Jesus Christ as “the image of the invisible God, the firstborn of every creature”. And he added: “For by him (Jesus) were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him: and he is before all things, and by him all things consist. And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence. For it pleased the Father that in him should all fullness dwell.” – Colossians 1: 15-17.
+        
+        Chief Angel
+        
+        In the pre-human days of Jesus Christ he was the chief of the angels of God in heaven who were sent by Him to communicate with the holy men and prophets of old, and deliver them from troubles on certain occasions. – Genesis 18: 1-33; Exodus. 3: 1-6; Acts 7: 30-34; Daniel 3: 24-28.
+        
+        Jesus Christ has many other names and titles. Jacob in a prophetic declaration, referred to him, as Shiloh meaning a peaceful one. (Genesis 49: 10) He is also known as Emmanuel, Michael, Sun of Righteousness, the Son of Man, the Lion of the Tribe of Judah, the Root of David and so on. (Isaiah. 7: 14; Matthew 1: 23; Daniel 12: 1; Revelation 12: 7; Malachi 4: 2; Matthew 12: 8, 40; Revelation 5: 5.) And John the Baptist identified him as “the Lamb of God”. – John 1: 29.
+        
+        As a result of the sentence of death passed upon man after he had sinned through disobedience, it became necessary that the blood of a perfect man should be shed according to God’s purpose (Deuteronomy 19: 21; Hebrews 9: 22) to redeem man from sin and restore him to perfection. It was impossible to get such a perfect blood from the offspring of Adam since they were all born in sin. (Psalm 51: 5; Romans 3: 23; 5: 12). It was to this end Jesus Christ through the infinite power of Jehovah, the Almighty Father, was transformed from the spirit plane to human in the womb of Mary the virgin and born into this woeful world.
+        
+        Concerning the incarnation of Jesus Christ, St. Paul wrote: “Forasmuch then as the children are partakers of flesh and blood he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is the devil. For verily he took not on him the nature of angels; but he took on him the seed of Abraham. Wherefore in all things it behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people ” – Hebrews 2: 14-18.
+        
+        Long before the human existence of Christ many prophecies were uttered about him. It was prophesied that he would be born a Jew and a prophet to whom all people should give ear (Genesis 49: 10; Deuteronomy 18: 15); that he would be born in Bethlehem (Micah 5 :2); that a forerunner would prepare the way of the Lord (Isaiah. 40: 3); that he would ride into Jerusalem upon an ass (Zechariah 9: 9); that he would be hated, despised and rejected of (ungodly) men, a man of sorrows and acquainted with grief (Isaiah. 53: 1-3).
+        
+        Furthermore, it was foretold that Jesus Christ would be betrayed by a familiar friend (Psalm 41: 9); that the price of betrayal would be 30 pieces of silver (Zechariah. 11: 12, 13); that he would be given gall and vinegar to drink (Psalm 69: 21); that he would be oppressed and brought like a lamb before the slaughter (Isaiah. 53: 4-7); and it was prophesied that he would be resurrected and his flesh would not see corruption. – Psalm 16: 10; Acts 2: 24 – 27.
+        
+        Truly, in God’s appointed time Jesus Christ was born of the virgin Mary and even angels in heaven sang for joy: “Glory to God in the highest, and on earth peace, good will toward men.” (Luke 2: 7- 14) All the prophecies concerning him fulfilled accordingly. When he was about the age of 30 years, he received baptism from John the Baptist at the River Jordan. On that historic occasion, the Holy Spirit descended in the form of a dove and rested on him, and the Almighty Father declared in heaven: “This is my beloved Son, in whom I am well pleased.” – Matthew 3: 13-17; Luke 3: 21-23.
+        
+        During the ministry of Christ on earth, he did many good works and miracles: he opened the eyes of the blind, the lame walked, the ears of the deaf were unstopped, at the village of Nain he stopped a funeral procession, raised to life a dead son and turned a widowed mother‟s grief to boundless joy; and most spectacular of all was the raising to life of Lazarus who had been laid in the tomb four days before and when his corpse had begun to decompose. -Luke 7: 11-16,22; John 11: 38-45.
+        
+        E. E. Kellett described Jesus as “a person of amazing impressiveness, force, and charm; that even after death he yet speaketh, and that today there are millions who, reading his words and contemplating his acts, cannot explain him but as in a sense divine; they feel him working in their hearts, controlling their lives, and inspiring an undying love. As in Galilee, so in England, he ‘goes about doing good’.” (A Short History of Religions)
+        
+        Primary Purposes
+        
+        Some of the primary purposes of Christ’s coming to the earth are:
+        (1) To preach the truth or good news of God’s Kingdom in order to enlighten His sheep and free them from Satan’s bondage and so that they may serve God Almighty in truth and be saved. – Luke 4: 18-21; John 10: 9, 10; 18: 37; Luke 19: 10.
+        (2) To give his life as a ransom by shedding his blood for the remission of sins. – Matthew20: 28; 26: 28; 1 Timothy 2: 6; Revelation 1: 5
+        
+        In character Jesus Christ was exemplary, and excellent in all virtues. He was truthful, kind, gentle, humble and lowly in heart. He never compromised with evil, and all his words and doings were characterised by holiness. He was a man of unbending faith, resisting temptation and was the very embodiment of wisdom. In zeal for the work of God and righteousness he was beyond compare. He was merciful, patient, long-suffering, loving and benevolent. To all mankind he directed his soul-consoling call: “Come unto me, all ye that labour and are heavy laden, and I will give you rest. Take my yoke upon you, and learn of me; for I am meek and lowly in heart; and ye shall find rest unto your souls…” (Matthew 11:28-30).
+        
+        We cannot claim to be Christians if we are not making serious efforts to follow the good example of our Master and Saviour Jesus Christ. He himself said: “It is enough for the disciple that he be as his master, and the servant as his Lord…” – Matthew 10: 25.
+        
+        Today the churches of Christendom are celebrating the Resurrection of Christ and they call it, incongruously, of course, “Easter”. But is it not true that some after attending church services, would go home and drink heavily at parties? Do some not secretly indulge in idolatry? Do some not consult witch doctors and oracle men or go about wearing charms in the form of rings, necklaces and so forth in order to get promotion or be protected? Will some not engage themselves in immoral pleasures today – their Easter day – and defile ungodly girls and women? Can they say that they are true disciples of Jesus? Unless all such ones refrain from sin and mould their characters to reflect Christ-like qualities they are still far from Jesus our Lord. Indeed, they are lip-worshippers. (Luke 6: 46-49; Titus 1: 16).
+        
+        Only Mediator
+        
+        It pays to be faithful and obedient in the Lord’s service. Jesus Christ, because of his submission to the will of his Father, has been blessed above all creatures in heaven and on earth. About this St. Paul wrote: “Wherefore God also hath highly exalted him, and given him a name which is above every name. That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth. And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father. ” – Philippians 2: 9-11.
+        
+        There was never a time Jesus Christ claimed to be equal to his Father, the Almighty God. Rather he said: “My Father is greater than I.” – John 14: 28.
+        
+        Jesus Christ is the only Mediator between God and men. (1 Timothy 2: 5) The Bible says it is through him alone that salvation to eternal life in God’s Kingdom can be obtained. “Neither is there salvation in any other,” declared St. Peter, “for there is none other name under heaven given among men, whereby we must be saved.” (Acts 4: 12) And Jesus himself said: “I am the way, the truth, and the life; no man cometh unto the Father, but by me.” – John 14: 6.`, 
+        title:"WHO IS JESUS CHRIST?"},
+     {key:30, 
+        content:`ONE of the qualities on which the fundamental rules of Christianity are based and without which no one can please God Almighty, is FAITH. By it miracles have been wrought and changes most desirable for their worth in righteousness have been effected in the lives of men. All acts of holiness for which the ancient patriarchs, prophets and some women had good reputation as recorded in the Scriptures for our learning, were influenced and dictated by faith.
+
+        The assent of the mind to, or a firm belief in the truth of God’s word as contained in the Holy Bible, or trust in God, is known as FAITH. Thus through faith we can hope for and be certain of realities we do not see.
+        
+         
+        
+        St. Paul in his letter to the Hebrews stated: “Now faith is the substance of things hoped for, the evidence of things not seen. For by it the elders obtained a good report.” And he added: “Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.” – Hebrews 11: 1-3.
+        
+         
+        
+        Importance
+        
+        The importance of faith in the Lord’s service cannot be overstated. We do not see God yet we firmly believe in His existence in that there are thousand and one evidences from the things we see around us that make us know that there is God. “For the invisible things of Him from the creation of the world are clearly seen, being understood by the things that are made”, said St. Paul, “even His eternal power and Godhead; so that they (the faithless and the wicked) are without excuse.” – Romans 1: 20.
+        
+         
+        
+        Again, there are many good things including eternal life God promised His people as there are also evil things with which He has purposed to reward those who trouble the earth. Although we have not seen these things meant for the future, we are constant in our belief and hope that He will surely do them because we trust in Him and have seen proofs of what He did in time past and what He is doing in our time. Such belief or hope is faith, and St. Paul said: “For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for? But if we hope for that we see not, then do we with patience wait for it.” – Romans 8: 24-25.
+        
+         
+        
+        Illogical Ignorance
+        
+        From all these we can appreciate why people who suffer from “mental doubts” such as agnostics and atheists have always found themselves in internal as well as open conflict with the things of the Spirit of God. There are certain academicians and students who out of illogical ignorance consider it scholarly or scientific to denounce everything that is sacred. Some of them having imbibed certain vain philosophies based on “the method of systematic doubt” of Rene Descartes (1596-1650) can hardly believe in the existence of anything else other than themselves. And so it is no surprise that those who are entrapped in this worldly school of thought never know God.
+        
+         
+        
+        St. Paul had a very clear picture of the godless sort of intellectuals who deride the gospel of Christ even though it is the power of salvation to the believers. He stated: “For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God. For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent. Where is the wise? Where is the scribe? Where is the disputer of this world? Hath not God made foolish the wisdom of this world? For after that in the wisdom of God the world by (its) wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.” – 1 Corinthians 1: 18-21.
+        
+         
+        
+        We as Christians cannot please God unless we have faith. As it is written: “But without faith it is impossible to please Him: for he that cometh to God must believe that He is, and that He is a rewarder of them that diligently seek Him.” (Hebrews 11: 6) And St. Paul also said: “For we walk by faith, not by sight.” – 2 Corinthians 5: 7.
+        
+         
+        
+        Grace
+        
+        It is through faith, by the grace of God, that Christians will be justified and saved. “Knowing that a man is not justified by the works of the law,” stated St. Paul, “but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ. and not by the works of the law: for by the works of the law shall no flesh be justified.’ (Galatians 2: 16) Furthermore, he said: “For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: not of works lest any man should boast.” – Ephesians 2: 8. 9.
+        
+         
+        
+        Some people interpret the texts just cited to mean that once anybody believes in Jesus Christ and confesses him he is already saved and that our salvation does not depend on what we do but simply a matter of grace. This is very wrong. Anyone who continues to sin even though he professes to believe in Christ cannot be saved. St. Paul clarified the point enough when he added: “But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid.” – Galatians 2: 17.
+        
+         
+        
+        A converted sinner who claims that he believes in Jesus Christ as his personal saviour but still indulges in sin or gets into the bad company of those who love sinful pleasures, DOES NOT stand any chance of obtaining the grace of salvation. The reason is that the very grace conveys the divine instruction that we should abstain from the life of sin and turn to the practice of righteousness. As it is written: “For the grace of God that bringeth salvation hath appeared to all men, teaching us that, denying ungodliness and worldly lusts we should live soberly, righteously, and godly, in this present world; looking for that blessed hope and the glorious appearing of the great God and our Saviour Jesus Christ; who gave himself for us, that he might redeem us from all iniquity, and purify, unto himself a peculiar people, zealous of good works.” – Titus 2: 11-14.
+        
+         
+        
+        The statement of the apostle that “by grace are ye saved through faith” gives the understanding vividly that for the grace to be effectual on any individual worshipper of God faith must be present. And faith does not mean a mere oral declaration of belief in God or Christ. “Not every one that saith unto me. Lord. Lord, shall enter into the Kingdom of heaven,” said Jesus, “but he that doeth the will of my Father which is in heaven.” – Matthew 7: 21.
+        
+         
+        
+        Works
+        
+        The doing of the will of God stressed by Jesus Christ calls for good works which we  must do to demonstrate our faith. A person who claims to have faith in God but does no work to justify his claim is deceiving himself and cannot be saved. Concerning this issue. James the apostle wrote: “What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him? If a brother or sister be naked, and destitute of daily food, and one of you say unto them. Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit? Even so faith, if it hath not works, is dead being alone” The apostle went on: “Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works. Thou believest that there is one God: thou doest well: the devils also believe, and tremble. But wilt thou know, 0 vain man, that faith without works is dead?” – James 2: 14-20.
+        
+         
+        
+        St. James also gave practical examples of people such as Abraham and the woman Rahab who were justified by works of faith. Concerning Abraham he stated: “Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar? seest thou how faith wrought with works, and by works was faith made perfect? And the Scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God. Ye see then how that by works a man is justified, AND NOT BY FAITH ONLY.” – James 2: 21-24.
+        
+         
+        
+        There are many other instances in the Bible of men and women who showed their faith by what they did. Sarah, Abraham’s wife, had faith in God. When the Lord through His angel told her that she would conceive and bear a son, she believed despite the fact that she was already old and past age. Because of her faith God gave her strength to conceive and deliver a male child, Isaac. – Genesis 17: 19; 21: 1-3; Hebrews 11: 11, 12.
+        
+         
+        
+        In Hebrews chapter 11, St Paul gave a catalogue of some of the ancient faithful, starting from Abel to Rahab, whose acts of faith were marvellous. In addition, he stated: “And what shall I more say? for time would fail me to tell of Gideon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets: who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions, quenched the violence of fire, escaped the edge of the sword out of weakness were made strong, waxed valiant in fight, turned to flight the armies of the aliens. Women received their dead railed to life again: and others were tortured, not accepting deliverance: that they might obtain a better resurrection….” – Hebrews 11: 32-40.
+        
+         
+        
+        Great Faith
+        
+        In the days of Jesus Christ on earth he healed many people – both men and women – who had faith in him. When he entered Capernaum, a centurion (that is, a Roman army officer over a 100 men) came to him to ask for help. He said: “Lord, my servant lieth at home sick of the palsy, grievously tormented.” Jesus told him that he would go to his house and cure his servant. But the officer replied: “Lord, I am not worthy that thou shouldest come under my roof: but speak the word only, and my servant shall be healed “
+        
+         
+        
+        Jesus was greatly impressed by the faith implicit in what the officer said, and he told those who followed him: “Verily I say unto you, I have not found so great faith, no, not in Israel.” Turning to the centurion, he said: “Go thy way; and as thou hast believed, so be it done unto thee.” At that very moment his servant recovered. – Read Matthew 8:5-13.
+        
+         
+        
+        A certain woman who suffered from an “issue of blood” (slow bleeding) for 12 years was healed instanter when she touched the edge of the garment of Jesus with faith. And Christ said to her: “Daughter, be of good comfort: thy faith hath made thee whole; go in peace.” -Luke 8: 43-48.
+        
+         
+        
+        There are other instances of people cured by Christ’s saying: “According to your faith be it unto you.” What we should learn from all these is the same importance of faith. If the people had no faith they would not have been healed.
+        
+         
+        
+        It is by faith through the grace and power of God we can resist and overcome the temptations and troubles of the devil. Said St. Paul: “In every battle you will need faith as your shield to stop the fiery arrows aimed at you by Satan ” (Ephesians 6:16, Living Letters) And St. Peter spoke of the trial of our faith and showed that if our faith remained strong after the tests, it would bring us praise, glory and honour. (1 Peter. 1: 17) He admonished the Christians: “Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: whom resist steadfast in the faith …” – 1 Peter 5:8, 9.
+        
+         
+        
+        Before our prayers can be answered by God, there must be an element of genuine faith. Jesus said: “And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.” (Matthew 21: 22; Mark 11: 24) James the apostle said that if any man lacked wisdom he should ask God for it. “But let him ask in faith, nothing wavering,” he added. – James. 1: 5-8.
+        
+         
+        
+        However, some may ask as to how one can get faith. St. Paul gave the answer when he said: “So then faith cometh by hearing, and hearing by the word of God.” (Romans 10: 17) This is one of the reasons why much importance is attached by understanding Christians to the assemblies where God’s word is preached in truth. Said St. Paul: “‘For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek. For therein is the righteousness of God revealed from faith to faith: as it is written, the just shall live by faith.” – Romans 1: 16-17.
+        
+         
+        
+        Full Reward
+        
+        We therefore exhort every true Christian to hold fast his faith, and never to do anything in violation of it. “Stand fast in the faith”, charged St. Paul. (1 Corinthians 16: 13; see also Colossians 2: 7) He further exhorted: “Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water (the truth of God’s word). Let us hold fast the profession of our faith without wavering; (for He (God) is faithful that promised).” – Hebrews 10:22-23.
+        
+         
+        
+        If we are to obtain a full reward for our faith in God then we must be steadfast in His service till the end. “For we are made partakers of Christ,” said St. Paul, “if we hold the beginning of our confidence steadfast unto the end.” (Hebrews 3: 14) For this reason he gave the following counsel: “Cast not away therefore your confidence, which hath great recompense of reward. For ye have need of patience, that after ye have done the will of God, ye might receive the promise.” (Hebrews 10: 35,36) He went on to show that to do otherwise by shrinking back from the faith is disastrous. Said he: “Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him. But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.” – Hebrews 10: 38, 39.
+        
+         
+        
+        What is more, St. Peter showed that the end of our faith in Christ Jesus-though we do not see him – is salvation. He stated: “Whom (Christ) having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory: receiving the end of your faith, even the salvation of your souls.” – 1 Peter 1: 8, 9.`, 
+        title:"FAITH"},
+     {key:31, 
+        content:`DESPITE the pains theologians, philosophers and anthropologists have taken in their researches concerning human nature, soul still remains a subject about which very many people have wrong notions and unfounded beliefs. The teaching that the soul is immortal has no basis in the Holy Bible!
+
+        As to what the soul is, definitions have been offered by both men of secular and ecclesiastical learning. According to Plato, the Greek philosopher, “the soul is that uncreated, eternal, and immaterial spirit which, itself self-moved, is the source of all motion; it is the principle of energy and life which, in death, is released from its bodily prison-house to live as separate spirit until again reincarnate in a living body”. (The American Peoples Encyclopaedia, Vol. 17, page 609)
+        
+         Rene Descartes (1596-1650), who is said to be the founder of modern philosophy, regarded the body and soul ”as separate substances that interact by means of the pineal gland in the brain”. But Baruch Spinoza (1632-77) in his own view denied interaction by any means and “asserted that soul and body are one and the same”. Since then other secular thinkers have developed various concepts of the soul without arriving at one conclusive understanding that is acceptable to all.
+        
+        As should be expected, none of the worldly thinkers including Aristotle, Thomas Hobbes, Gottfried Wilhelm and so on, based his opinion on the word of God, and, therefore, true Christians do not rely on their views. We as Christians cannot accept anything, no matter how academicals it may appear to be, which is not consistent with the revealed truth of God as contained in the Holy Bible.
+        
+        It was St. Paul who warned: “Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ” – Colossians 2:8.
+        
+        Common Prayer
+        
+        Turning to those who claim to be Christians it is sad to observe that the doctrines some are teaching concerning the soul are far from the truth. Among the Churches of Christendom it is believed that the soul is an immaterial thing in man that continues to live after a man’s death, and that it can never die. In view of this understanding, these churches believe that when any of their baptised members dies his soul goes to heaven to be with God for the enjoyment of divine blessings.
+        
+        In the Book of Common Prayer used in many Protestant Churches, “the Order for the Burial of the Dead” contains prayers in which their belief about the soul being taken to heaven after death is clearly expressed. At the burial of the dead, “while the earth shall be cast upon the body by some standing,” the officiating priest would say: “Forasmuch as it hath pleased Almighty God, of his great mercy to take unto himself the soul of our dear brother here departed: We therefore commit his body to the ground; earth to earth, ashes to ashes, dust to dust…” Another prayer often said by the priest is this: “Almighty God, with whom do live the spirits of them that depart hence in the Lord, and with whom the souls of the faithful, after they are delivered from the burden of the flesh, are in joy and felicity…”
+        
+        If it is true that the “souls of the faithful are in joy and felicity in heaven”, church-goers should have been rejoicing when their fellow- members die rather than crying and mourning as they are doing. And in that case, of course, everyone would want to die so as to go to a happier life above. But it is ludicrous that the very people who hold to this belief religiously are among those who fear more than anyone else to die; and when they fall sick they strive tooth and nail – and are prepared to spend all they have – to get themselves cured.
+        
+        These are some of the things that give cause for sceptics to jeer at religious beliefs, they themselves being unable to distinguish between genuine and nominal worshippers of God.
+        
+        Let us take a look at the following questions and answers from The Explanatory Catechism of the Roman Catholic Church:
+        
+         Question 5: “How is your soul like to God?”
+        
+        Answer:     “My soul is like to God because it is a spirit, and is immortal”
+        
+        Question 6: “What do you mean when you say that your soul is immortal?”
+        
+        Answer:      “When I say that my soul is immortal, I mean that my soul can never die.”
+        
+         
+        
+        The catechism defines spirit as “an immaterial living being, having free will and understanding, as God, the Angels, our souls”.
+        
+         
+        
+        It is a matter for regret that what the world has been pleased to refer to as “the Christian view” about soul, which millions have been taught to believe, cannot be substantiated with the Scriptures!
+        
+        Living Soul
+        
+        Soul, according to the Holy Bible, means a living creature such as a person or animal; it also means life, and in either of the two senses it is not immortal.
+        
+        The word soul first appeared in the Bible in Genesis 2: 7, where it is written: “And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life: and man became a living soul.” It is abundantly clear from this text that the man himself, which is made up of the dust of the ground and the breath of life, that is the “living soul”.
+        
+        This lucid account of the creation of man by God gives no idea that a soul was infused into the man. Rather it is the man that is a soul. That is why it is stated that those who went with Jacob to Egypt “were seventy souls”, meaning 70 persons. (Genesis 46:26, 27; Exodus 1: 5) And in Numbers 31: 28, both persons and beasts are referred to as souls.
+        
+        If the soul is a “living being” in man that continues to exist in heaven or elsewhere after death, then the man is not completely dead. This is precisely what the devil implied when he, in the guise of a serpent, deceptively told Eve: “Ye shall not surely die”. (Genesis 3: 2-5) It is this devilish idea that is being subtly fostered by the teaching of the immortality of the soul.
+        
+        What God told Adam was quite clear. He said, “For in the day that thou eatest thereof (that is, of the tree of the knowledge of good and evil) thou shalt surely die.” (Genesis 2: 16, 17) There was no point of another entity in man going to live elsewhere after death.
+        
+        We agree that there is a spirit in man (Job 32: 8) but it is NOT a “living being, having free-will and understanding” as stated in the catechism. The spirit is the life or power of existence in the breath of man which causes the organs of the human body to function. The same thing applies to animals. Yes, both man and beast have the same breath and die alike; God said so through Solomon His prophet: “For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no pre-eminence above a beast: for all is vanity. All go unto one place; all are of the dust, and all turn to dust again.” – Ecclesiastes 3: 19, 20.
+        
+        It is when the spirit or breath of life leaves a person that he dies, and when God gives him back the spirit at the resurrection, he lives again. As it is written: “Thou (God) hidest Thy face, they (the children of men) are troubled: Thou takest away their breath; they die, and return to their dust. Thou sendest forth Thy spirit, they are created: and Thou renewest the face of the earth.” – Psalm 104: 29, 30; see also Job 34: 14, 15; Ecclesiastes 12: 7, 8.
+        
+        The ordinary breath or breeze does not make a man to live. For instance, if you pump air into a dead body, it cannot be resuscitated because that air is without life. What distinguishes the breath of life from the ordinary breath is the life. And it is the life that is sometimes referred to as soul in the Bible. We can better appreciate this from the exhortation of Jesus Christ to his disciples that they should not fear the devil and his agents who cannot destroy life. He said: “And fear not them which kill the body but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.” – Matthew 10: 28.
+        
+        Jesus Christ made it quite clear here that the soul can die hence it can be killed in hell.
+        
+        Rest in Peace?
+        
+        Some people often publish advertisements in newspapers in memory of their dead parents, husbands, wives, children, relatives or friends. In such publications they are fond of writing thus: May your soul rest in peace, or, Eternal rest grant him O Lord. They have formed the habit of saying the same thing whenever they get to the graves of dead persons.
+        
+        Anyone who has a good understanding of the Scriptures knows that such prayers for the dead are unnecessary. The Bible says that everyone who dies, whether he is good or bad, goes to a state of rest or sleep – and so to remain until the day of resurrection. (Read Job 3: 11-19; 17: 13-16.) To wish the dead man “eternal rest” in that wise is tantamount to begging that he should not be resurrected by God. You see the spiritual implication? Yes, people do many things because of ignorance arising from the misguidance of false teachers. – Isaiah 9: 16; Hosea 4: 6; Matthew 15:14.
+        
+        Moreover, no amount of prayer said on behalf of a dead man has any effect on him. God will deal with the dead ONLY when they are raised to life. And even then He will judge and reward everyone according to the works he did when he was alive. If any had done evil, God’s verdict of guilt upon him can never be altered by the intercessions of men. This is why people should fear God and do what is right NOW that they are living so that they may be at peace with their Creator in the day of reckoning. – Ecclesiastes 12: 13, 14; 2 Corinthians 5:10; Hebrews 9:27.
+        
+        Some churches teach that the souls of the faithful at death are taken to heaven for their reward while those of the wicked go to hell for punishment. There is no place in the Holy Scriptures where it is so stated. What the Bible says is that the dead shall be resurrected in God’s Kingdom and everyone good or bad shall be rewarded according to his works. Jesus Christ said: “Marvel not at this: for the hour is coming, in the which ALL that are in the graves shall hear his voice, and shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation (judgment).” – John 5: 28, 29.
+        
+        Mortal Soul
+        
+        It is indeed very wrong to say that the soul can never die. David the psalmist and prophet, said that none of the dead “can keep alive his own soul”. (Psalm 22: 29) And in Psalm 89:48, it is written: “What man is he that liveth, and shall not see death? Shall he deliver his soul from the hand of the grave?”
+        
+        What is more, God himself declared: “Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die.” (Ezekiel 18: 4, 20) Some may argue that it is only the soul that sins that will die. But we will ask who among men is not a sinner? That apart, if the soul is truly immortal then it can never die whether it sins or not.
+        
+        However, the truth is that the soul is subject to death. St. Peter stated that “every soul, which will not hear that prophet (Jesus Christ), shall be destroyed from among the people”. (Acts 3: 23) Those who love the world and refuse to pay heed to the gospel of Christ shall lose their lives in that they shall not be saved. And Jesus said: “For what shall it profit a man, if he shall gain the whole world, and lose his own Soul?” (that is, his life). – Mark 8: 36.
+        
+        But those who are faithful and obedient to their Creator and who worship Him in truth shall spend their days in prosperity and their years in pleasures and, above all, everlasting life shall be their reward in God’s Kingdom.
+        
+        It is clear from the Bible truth expounded in this sermon that the soul of man is MORTAL – IT DIES. Here again we have told you, dear reader, the truth which Jesus Christ says will make his sheep free.`, 
+        title:"IS THE SOUL IMMORTAL?"},
+     {key:32, 
+        content:`WHATEVER the achievements of any man – in scholarship, position or material wealth- he can never command the respect of decent people in society if he has no integrity. According to the Scriptures, integrity is a safe guide to those who have it. A man of integrity is a man of noble character and of an excellent spirit.
+
+ 
+
+        The word integrity is defined as meaning uprightness of character – that is, the state of being honest, just, honourable and sincere. Figuratively, it is the controlled realisation of all the component aspects of one’s personality.
+        
+         
+        
+        From the definition given, we can at once understand that it is lack of Integrity that makes men and women commit acts of immorality, dishonesty and such like even though they know that it is evil to do them.
+        
+         
+        
+        Practical Example
+        
+        Esau, one of the twin sons of Isaac, is a practical example of a man who has no integrity. He gave himself to carnal things, and for a mess of pottage when he suffered from hunger he sold his birthright to Jacob, his younger brother! (Genesis 25: 29-34) If he were a godly man who had integrity, he would rather have preferred to die of hunger than, for a single meal, to part with his birthright.
+        
+         
+        
+        Christians are warned against the ungodly conduct of Esau. In his epistle to the Hebrews, St. Paul stated: “Follow peace with all men, and holiness, without which no man shall see the Lord: looking diligently lest any man fail of the grace of God…lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright. For ye know how that afterward, when he wou1d have inherited the blessing, he was rejected: for he found no place of repentance though he sought it carefully with tears.” – Hebrews 12: 14-17.
+        
+         
+        
+        Today, there are people who behave like Esau. Because they lack integrity they often conduct themselves improperly at social gatherings or on other occasions whenever meals or drinks are served. They look at the dishes or bottles of beer with greedy eyes” and as soon as the table is declared open they eat and drink without any sense of moderation or dignity, and manifest all the traits of a glutton.
+        
+         
+        
+        But people who have respect for themselves always like to maintain their integrity. They are temperate in all things: in speech they are moderate and in behaviour they show self-control. For all these they are held in high esteem. It is clearly shown in the Scriptures that temperance or moderation is a Christian virtue. St. Paul stated that the fruit of the Spirit is temperance (Galatians 5: 22, 23); and he admonished: “Let your moderation be known unto all men”. – Philippians 4: 5.
+        
+         
+        
+        In a certain town in one of the African States, there was a man who for lack of integrity was made an object of ridicule. He was depraved in character – he sexed lawlessly with young and even old women and seduced ungodly married women from their husbands. He was often penalised and made to pay damages because of his evil deeds. In the long run he died young. However, there was an aspect of his life which needs be pointed out to teach others some lesson. When it became known that the man had no integrity being an immoral character he was always suspected of sinister motives or indecorous manners whenever he was found talking to any woman even if his intentions were good. This man, until his death, was never a happy soul.
+        
+         
+        
+        “Useless Bosses”
+        
+        Integrity is a very good thing, and every Christian is required to be honest and upright in the service of God. King David, in his song, prayed to God: “O keep my soul, and deliver me: let me not be ashamed; for I put my trust in Thee. Let integrity and uprightness preserve me; for I wait on Thee.” (Psalm 25: 20, 21) There was need for him to pray for integrity because he knew what he suffered for seducing his neighbour’s wife. (2 Samuel chapters 11 and 12).
+        
+         
+        
+        There are some people who are highly placed in this world but because they have no integrity they are not given their due respect. An executive officer who is often found flirting with his female secretary or typist or known to be making immoral advances to loose women is selling away his honour. Responsible, decent women who work with executive or senior officers of such a character see them as “useless bosses”. This same opinion was expressed by a lady secretary as published in the SPEAR magazine issue of April, 1969. About “making love in the office”, she said: “This is very true. A few girls who are not efficient in their work try to appease their bosses by offering their bodies so that they can still be kept in the office. And once these useless bosses get enjoyment and satisfaction there will be no complaint.”
+        
+        There are complaints that certain heads of departments are fond of demanding bribes or “tips” from the workers under them. By their indulgence in bribery such high officers are not only committing sin but are also making themselves very mean.
+        
+        The Psalmist said in his prayer: “Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; therefore I shall not slide…Gather not my soul with sinners, nor my life with bloody men. In whose hands is mischief, and their right hand is full of bribes. But as for me, I will walk in mine integrity, redeem me, and be merciful unto me.” – Psalm 26: 1,9-11.
+        
+         
+        
+        Uprightness
+        
+        Despite the shortcomings of David for which he fully repented, God was pleased with him because of the integrity of his heart. To Solomon, the son of David, God said: “And if thou wilt work before me, as David thy father walked, in integrity of heart, and in uprightness, to do according to all that I have commanded thee, and wilt keep my statutes and my judgments, then I will establish the throne of thy kingdom upon Israel for ever, as I promised to David thy father, saying, there shall not fail thee a man upon the throne of Israel.” – 1 Kings 9: 4, 5.
+        
+        Job was also a man of integrity. Although the devil subjected him to severe temptations he did not deny God neither did he turn away from righteousness; rather “still he holdeth fast his integrity”. (Job 2: 3) When his faithless wife became despondent because of the severity of the test, she said to her husband: “Dost thou still retain thine integrity? curse God, and die.” But Job’s answer reflected faith, manliness and real integrity. He told her bluntly: “Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lipss.” – Job 2: 9, 10.
+        
+        What is more, Job himself declared: “All the while my breath is in me, and the spirit of God is in my nostrils; my lips shalt not speak wickedness, nor my tongue utter deceit. Till I die I will not remove mine integrity from me. My righteousness I hold fast, and will not let it go.” – Job. 27: 3-6.
+        
+        Is it not true that certain so-called Christians become lukewarm in their religious devotions when they fall into temptations of the devil? Do some not resort to idolatry when they or their children are sick? And when for some time they get no employment, do they not consult oracle men or occultists contrary to God’s laws? (Deuteronomy 18. 10-12, Isaiah. 8:19).
+        
+        A certain man, because his beautiful wife died, said that there was no God. It was his opinion that God ought not to have allowed his wife to die if He existed. His temptation was not in any way comparable to that of Job but since he had no faith or integrity he fell fiat. Whereas in the case of Job, his faith, integrity and patience brought him abundance of reward. “So the Lord blessed the latter end of Job more than his beginning” (Job. 42: 12-17) And St. James wrote: Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.” – James. 5: 10. 11.
+        
+        We as Christians should always maintain our integrity by doing things in the fear of God and with faith. We must not allow the devil through ungodly friends or relatives to turn us from the path of rectitude or the faith of Christ. Said God through Solomon: “My son, if sinners, entice thee, consent thou not. If they say, come with us, let us lay wait for blood, let us lurk privily for the innocent without cause. Let us swallow them up alive as the grave; and whole as those that go down into the pit. We shall find all precious substance, we shall fill our houses with spoil. Cast in thy lot among us; let us all have one purse. My son walk not thou in the way with them; refrain thy foot from their path. For their feet run to evil, and make haste to shed blood.” – Proverbs. 1: 10-16.
+        
+        No one can lead a true Christian life without integrity. The Bible says: “The integrity of the upright shall guide them: but the perverseness of transgressor shall destroy them,” (Proverbs 11: 3) Again it is written: “The just man walketh in his integrity; his children are blessed after him” – Proverbs 20:7.
+        
+        A woman of integrity will never because of the love of carnal things like money, gold, silver, clothes, cars, ultra- modern flats and so on, run away from her husband to “marry” another man. It is a foolish and ungodly woman that does so, and God will certainly punish her except she repents enough. What is important in a woman is not wealth, worldly fashion, beauty or her education but the fear of God and integrity which must be reflected in good manners. King Solomon stated: “A gracious woman retaineth honour…” (Proverbs 11; 16) And he further said: “A virtuous woman is a crown to her husband; but she that maketh ashamed is as rottenness in his bones.” – Proverbs 12: 4.
+        
+         
+        
+        Clean Hands
+        
+        A man or woman who is poor but has integrity is better than a rich man or woman who is of a shady or dubious character. A man may ride in cars or live in a beautiful house and yet will not inspire respect if he has no integrity. Said King Solomon: “Better is the poor that walketh in his uprightness, than he that is perverse in his ways, though he be rich.” – Proverbs 28:6.”
+        
+        To have clean hands and keep a clear conscience is very good indeed. It inspires self-confidence. If you have no guilty conscience, you sleep well and good in the night and will not be haunted by the fear of law officers. Whenever you come across a policeman you will have no cause to fidget or quail in heart. Yes, the Bible says: “He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.” – Proverbs 10: 9.
+        
+         
+        
+        Some highly placed persons are sometime asked to relinquish their offices because of what is often termed an abuse of trust. They usually start well, but later succumb to evil influences owing to their lust for filthy lucre which makes them throw their integrity to the wind, and end up in disgrace. It was Solomon who said: “Dead flies make the perfumer’s ointment give off an evil odour; so a little folly outweighs wisdom and honour.” – Ecclesiastes10: 1. Revised Standard Version.
+        
+        In order that we may be saved, we are required to live up to expectation in the Lord. Anyone who calls himself a Christian but goes about stealing, taking bribes, telling lies, committing fornication or perpetrating any other form of wicked act, is deceiving himself; he will be justly punished and cannot obtain God’s salvation. – Proverbs 11:19,21; 2 Corinthians 5: 10; Revelation 21: 8.
+        
+         
+        
+        As regards the qualities of those who deserve to remain in God’s Organisation to enjoy His goodness, the Psalmist stated: “LORD, who shall abide in Thy tabernacle? who shall dwell in Thy holy hill? He that walketh uprightly and speaketh the truth in his heart. He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour. In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. He that sweareth to his own hurt, and changeth not. He that putteth not out his money to usury. nor taketh reward against the innocent. He that doeth these things shall never be moved.” – Psalm 15: 1-5.
+        
+         
+        
+        And what is more, St. Paul said: “Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report, if there be any virtue, and if there be any praise, think on these things. Those things, which ye have both learned and received, and heard, and seen in me, do; and the God of peace shall be with you.” – Philippians 4: 8, 9.
+        
+        Yes, “The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.” – Proverbs 11: 3.`, 
+        title:"INTEGRITY"},
+     {key:33, 
+        content:`ONE of the doctrines that the clergymen of Christendom have given false colouring without restraint is that about HELL. Does the Holy Bible give a picture of hell as a place of literal fire where the wicked are tortured everlastingly? If it is so, why did Jesus Christ the righteous go to hell?
+
+        In the Explanatory Catechism of Christian Doctrine, it is stated that hell is “the place where the devils and lost souls are punished”. And the Catholic Encyclopedic Dictionary, (Second Edition, Revised) states as follows: “HELL is the place and state of eternal punishment which consists, primarily, in the deprivation of the enjoyment and sight of God face to face (pain of loss) and, secondarily, the infliction of positive punishment by an external objective agent, called fire, which is a physical reality though unlike earthly fire (pain of sense). This punishment is not equal for all, but corresponds to the sinner’s aversion from God and conversion to creatures…. It is of faith that their punishment will never end.” (Page 226).
+        
+        Exaggeration
+        
+        On the basis of this knowledge, several pictures of hell as a place of horrors have been painted in order to frighten the believers into subjection to the priests. Also, stories of unlimited exaggeration about hell have been invented and told from the pulpits, to the extent that the sermons have had more bearings on intimidation than exhortation.
+        
+        The Rev. J. Furness, in his description of the lowest depth of hell, stated that “the roof is red-hot, the walls are red: the floor is like a thick sheet of red hot iron”. He further wrote as follows:
+        “Listen to the tremendous, the horrible uproar of millions and millions of tormented creatures, mad with the fury of hell. Oh, the screams of fear, the groanings of horror, the yells of rage, the cries of pain, the shouts of agony, the shrieks of despair, from millions on millions. There you hear them roaring like lions, hissing like serpents, howling like dogs, and wailing like dragons. There you hear the gnashing of teeth, and the fearful blasphemies of the devils. Above all you hear the roarings of the thunders of God’s anger, which shake hell to its foundations. But there is another sound. There is in hell a sound like that of many waters; it is as if all the rivers and oceans in the world were pouring themselves with a great splash don on the floor of hell. Is it then, ready the sound of waters? It is. Are the rivers and oceans of the earth pouring themselves into hell? No. What is it then? It is the sound of oceans of tears running down countless millions of eyes. They cry forever and ever. They cry because the sulphurous smoke torments their eyes. They cry because they are in darkness. They cry because they have lost the beautiful heaven. They cry because the sharp fire burns them.” (The World’s Redemption, page 343).
+        
+        It is sad to note that certain people who parade themselves as the ambassadors of Jesus Christ and teachers of his word should be so shameless and lost to virtue in telling blatant lies even in the name of God! Has anybody ever gone to “hell” and come back to tell those dreadful stories? How do the clergy come about such ideas of hell? Was it by revelation from the Scripture or by dream?
+        
+        We must admit that by the teaching of the clergy concerning hell, they portray God as a heartless and cruel Father. No one can imagine how the Almighty God who is infinitely kind and loving and whose “mercy endureth forever” can keep human creatures to be tormented – in sharp fire where the victims are “roaring like lions, hissing like serpents, howling like dogs and wailing like dragons”-for eternity. The Holy Bible does not lend support to this bogus teaching.
+        
+        The word hell is derived from the Hebrew word sheol and the Greek word hades, and it means the grave, pit, tomb or the condition of the dead. Another Greek word also translated hell in the New Testament of the Bible is Gehenna. It is a word with a historical background used figuratively in the Greek Scriptures.
+        
+        There is not a word in the account of the creation to show that God prepared a place with fire for the eternal punishment of sinners. In the first chapter of Genesis there is a comprehensive record of how the heaven and the earth, the sun, moon and stars and the seas were created. If there were such an important place of unquenchable fire where there are “millions and millions of tormented creatures”, as taught by certain churches, it would not have been omitted from the inspired account of the creation.
+        
+        When God placed Adam in the Garden of Eden, He told him definitely that if he (Adam) ate of the tree of knowledge of good and evil, death would be the penalty. (Genesis 2: 16, 17) So when Adam disobeyed the divine commandment the sentence of death was passed on him, and God said: “In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust (NOT FIRE) shalt thou return.” – Genesis 3: 19
+        
+        If there were such a place of fire for the punishment of sinners, Adam through whose disobedience sin entered the world would have gone there. In fact, God would have given an indication to that effect at the time He pronounced His sentence on Adam. What He told Adam was that he (Adam) would die and return to the dust. And St. Paul stated: “For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.” – Romans 6: 23.
+        
+        Grave
+        
+        Hell is the grave, pit or heart of the earth where every kind of character – good or bad- goes after death. It is not meant for the wicked alone. Jacob was a godly man and it was through his twelve sons the nation of Israel came into being. When he received the news that Joseph his son, was dead (false it was though) he refused to be comforted and he said: “I will go down to my son into hell, mourning.” (Genesis 37: 35, Douay Version) But the Authorised or King James Version renders the text thus: “For I will go down unto the grave unto my son mourning,”
+        
+        It is the same Hebrew word sheol that is translated hell in the Douay Version (Catholic Bible, as some call it) and grave in the Authorised Version.
+        
+        Did Jacob mean that his son Joseph was gone into hell as referring to a place of fire and that he too would go there? Why should they go to such a place if really it existed? Were they wicked? Of course, they were not. The truth is that Jacob knew that the grave or hell is the place of the dead, and so he did not refer to a place of fire.
+        
+        When on another occasion Jacob was being persuaded by Reuben and others of his children to allow them to take Benjamin to Egypt, he told them: “My son shall not go down with you. His brother (Joseph) is dead, and he is left alone: if any mischief befall him in the land to which you go, you will bring down my gray hairs with sorrows to hell.” (Genesis 42: 38, Douay Version.) Hell here is the grave.
+        
+        Job the prophet of God showed clearly that hell or grave is a place of rest and hiding for both good and wicked people who die. During his troubles which the devil brought upon him he cursed the day of his birth and said that it were better if he had died in the womb because then he would have lain still and quiet in the grave with kings, counsellors and princes. He added: “There (in the grave or hell) the wicked cease from troubling; and there the weary be at rest. There the prisoners rest together; they hear not the voice of the oppressor. The small and great are there; and the servant is free from his master.” – Read Job. 3: 11-19.
+        
+        Furthermore, Job, in the bitterness of his soul, prayed to God: “O that Thou wouldest hide me in the grave (“protect me in hell”- Douay Version), that Thou wouldest keep me secret, until Thy wrath be past, that Thou wouldest appoint me a set time and remember me.” (Job. 14: 13) If hell is a place of torment, why should Job who needed escape or relief from his anguish pray to be hidden there till God’s wrath was over?
+        
+        There is also the instance of Jonah, the prophet of God, who called the belly of a fish, hell. When he was making a desperate attempt to run away from carrying out the Lord’s message, he was thrown from a ship into the sea and was swallowed by a whale. “Then Jonah prayed unto the Lord his God out of the fish’s belly, and said, I cried by reason of mine affliction unto the Lord, and He heard me; out of the belly of hell cried I, and Thou heardest my voice.” (Jonah 2: 1, 2) But was there fire in the fish’s belly? No! Jonah called the fish’s belly, hell because it was like a grave – in fact, there he would have breathed his last and remained buried if God had not been merciful to him.
+        
+        There is no doubt that the wicked will be punished by God. The Bible states that when God will pour out His indignation upon them they would make every effort to escape and would even want to dig into hell for safety but all their efforts will prove abortive. As it is written: “I saw the Lord standing upon the altar: and He said… cut them in the head, all of them; and 1 will slay the last of them with the sword: he that fleeth of them shall not flee away, and he that escape of them shall not be delivered. Though they dig into hell, thence shall mine hand take them; though they climb up to heaven, thence will I bring them down…” – Amos 9: 1-4.
+        
+        The point is that if hell is a place of horrible fire, why should anyone seeking refuge from trouble dig into it? That, of course, will amount to jumping from the frying pan into fire.
+        The Bible shows that all men are subject to death and that no one has the power to save himself from going into the grave. The Psalmist asked: “Who is the man that shall live, and not see death: that shall deliver his soul from the hand of hell?” (Psalm 88: 49, Douay Version) But in the Authorised Version the text is at Psalm 89: 48, and it reads: “What man is he that liveth, and shall not see death? shall he deliver his soul from the hand of the grave?” From this again we see that hell is the grave and there is no fire in it.
+        
+        There is one other striking instance to show that hell means the pit or heart of the ground. In the days of Moses the prophet, there was an occasion when he received stiff opposition from some of the Jews prominent among whom were Korah, Dathan, On and Abiram. They conspired and organised a rebellion against Moses and Aaron. God was not in their favour and they were justly punished. Moses warned the congregation to dissociate themselves from those wicked men. He said that if they died the common death of all men, then the Lord had not sent him but if the ground broke open, and swallowed them then it should be known that they had provoked God.
+        
+        “And it came to pass, as he (Moses) had made an end of speaking all these words, that the ground clave asunder that was under them and the earth opened her mouth, and swallowed them up… They and all that appertained to them, went down alive into the pit (inside the ground) and the earth closed upon them: and they perished from among the congregation.” – Numbers 16: 1-4,25-33.
+        
+        The Douay Version renders the piece as follows: “And immediately as he (Moses) had made an end of speaking, the earth broke asunder under their feet; and opening her mouth, devoured them with their tents and all their substance. And they went down alive into hell, the ground closing upon them.” This again confirms beyond’ doubt that it is a pit or inside the ground that is known as HELL.
+        
+        Gehenna
+        
+        We stated earlier that the Greek word Gehenna also translated hell in the New Testament is a picture word with a historic origin. It has an entirely different meaning from hades.
+        
+        Gehenna is compounded of two Hebrew words, Ge Hinnom-that is, “the valley of Hinnom” or “the valley of the son of Hinnom”. It was a place on the outskirts of Jerusalem in which children we cruelly sacrificed by fire to Molech, the idol of the Ammonites. – 2 Kings 23: 10; 2 Chronicles 28: 1-3; 33: 1, 2, 6.
+        
+        God condemned the Jews who committed the abomination of burning their children in fire. Said He: “And they built high places of Tophet, which is in the valley of the son of Hinnom, to burn their sons and their daughters in the fire; which I commanded them not, neither came it into my heart.” – Jeremiah 7: 30, 31.
+        
+        The valley of Hinnom became a place for depositing refuse. All sorts of rubbish, dead animals and even corpses of criminals were dumped there. Worms were always around to consume the rotten things and there was fire underneath that kept burning, consuming the rubbish. This place was identified with the destruction of undesirables. It was against the background of this notion that Jesus in Mark 9: 43-48, used the word Gehenna translated hell or hell fire to symbolise the everlasting destruction of the wicked.
+        
+        Among other things, he said: “And if thine eye offend thee, pluck it out: it is better for thee to enter into the Kingdom of God with one eye, than having two eyes, to be cast into hell fire: where the worm dieth not, and the fire is not quenched.” (Mark 9: 47-48) It is very wrong to interpret this text literally because it will mean that we should pull out our eyes if they irritate or itch us and so on. Christ used the eye to symbolise anything that is precious to us. So he used the hand, foot, and eye separately to illustrate the value of sacrifices we, his followers, should make in order to prove ourselves worthy of the Kingdom of God.
+        
+        In other words, Christ was saying in effect that if anything very dear to us would cause us to go to everlasting destruction, it will be better to deny ourselves and forsake that thing – even if it is as precious as an eye – so that we may enter God’s Kingdom.
+        
+        The fire therefore is not a literal object but a symbol of the suffering or severe pain -“weeping and gnashing of teeth” – which God would make the wicked taste while alive before they go to perpetual destruction which is also known as the “second death” – that is, the death in which there is no more favour or chance of resurrection. After they have died, they do not suffer pain any more (Isaiah. 66: 15, 16; Romans 2:5,6,8-9; 2 Thessalonians 1:7-9; 2 Peter 3:7, 10; Revelation 21: 8).
+        
+        Concerning the punishment of the wicked in the last days, St. Paul stated: “And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels, in flaming fire taking vengeance on them that know not God and that obey not the gospel of our Lord Jesus Christ: who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power.” – 2 Thessalonians 1: 7-9.
+        
+        We must point out that the punishment of the wicked takes place when they are living – either in this life or at the resurrection of the dead. The Bible makes it abundantly clear that the dead are unconscious and therefore they cannot feel pain. “For the living know that they shall die,” said King Solomon, “but the dead know not anything ” – Ecclesiastes 9: 5, 6.
+        
+        “Apostles’ Creed”
+        
+        On the whole, let no one be deceived that there is a place of literal fire -“red-hot” as Rev. Furness without Scriptural proof said – where the wicked are being tortured forever. In the so-called Apostles’ Creed of the churches it is stated that Jesus Christ suffered under Pontius Pilate, “was crucified, dead, and buried: he descended into hell“. If hell is for the wicked only, Christ would not have “descended” into it. He was not wicked.
+        
+        Of a truth Jesus Christ went to hell in fulfilment of prophecy and God raised him the third day from the grave. He himself said: “For as Jonas was three days and three nights in the whale’s belly; so shall the Son of man be three days and three nights in the heart of the earth.” – Matthew 12: 40.
+        
+        Concerning Christ’s resurrection, David the Psalmist, stated: “For thou wilt not leave my soul in hell (sheol – grave) neither wilt thou suffer thy Holy One to see corruption.”- (Psalm 16: 10) And St. Peter, dilating on the prophecy after it had fulfilled, said: “Men and brethren, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day. Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne; he seeing this before spake of the resurrection of Christ, that his soul was not left in hell (grave) neither his flesh did see corruption. This Jesus hath God raised up whereof we all are witnesses.” – Acts 2: 29-32.
+        
+        Hell, we reiterate, is the grave, and it is from there both good and bad will come back during the resurrection. As it is written: “Wonder not at this; for the hour cometh wherein all that are in the graves (not fire or heaven) shall hear the voice of the Son of God. And they that have done good things shall come forth (from hell or grave, not heaven) unto the resurrection of life; but they that have done evil; unto the resurrection of judgment.” – John 5: 28, 29, Douay Version.
+        
+        What some people call limbo or purgatory exists only in the imagination of some teachers, and not in reality or in the pages of the Holy Bible. We shall go into details on this issue at another time. It is the truth Jesus said will make us free.
+        
+        `, 
+        title:"WHAT IS HELL?"},
+     {key:34, 
+        content:`THE Church of God, wherever it is established in any part of the world, is never divided but one in faith, fellowship, love and in preaching God’s word – the truth. Jesus Christ was fully aware that Christianity, which he founded by the power of God, would in process of time be counterfeited by some people at the instance of Satan, the arch-enemy of God and man. And so, he did not leave his disciples without setting out the marks by which his true Church could be identified.
+
+        THE teaching that baptism is intended to wash away sins has given rise to the question as to why Jesus Christ who did no sin was baptized. Anyone who accepts to follow Christ is required as of faith to be baptized. But any baptism that does not conform to the standard of the example set by him and his early apostles or that is not based on the knowledge of the truth as contained in the Holy Bible, is invalid and, therefore, not recognised by God.
+        
+         
+        
+        Baptism is one of the issues on which the churches are divided. There are those who administer baptism by immersion but some others apply pouring or sprinkling of water. While some baptise infants, others do not. In fact, there are several formalities or ceremonies now associated with baptism in certain religious circles which are questionable.
+        
+         
+        
+        In view of the diversity of beliefs and practices among the church groups, when some people who have received baptism in one denomination are converted to another church group they are re-baptised. The reason is that the latter group considers the baptism by the former to be invalid.
+        
+        A question was asked as to why Catholics re-baptised a person who had been baptised in his own church but had left it to become a Catholic. The answer was given by the Roman Catholic Church as follows: “Three things are necessary for valid baptism, namely, (1) correct intention, i.e. to do what Christ commanded, (2) correct words, i.e. those given in the Scriptures, (3) correct action, i.e. pouring of water on the head of the person while pronouncing the correct formula. The baptism given in many non-Catholic Churches is of extremely doubtful validity because of lack of one or more of these things. For this reason the Catholic Church gives conditional baptism to all persons coming from them.” (Vide The Catholic Voice, issue of November, 1956).
+        
+         
+        
+        The answer to question 256 in The Explanatory Catechism of Christian Doctrine, is this: “Baptism is a Sacrament which cleanses us from original sin, makes us Christians, children of God, and members of the Church.” And in answer to question 257 it is stated that “baptism also forgives actual sins, with all punishment due to them…”
+        
+         
+        
+        Remission
+        
+        We must say quite frankly that the teaching that baptism cleanses one from sin has not the backing of the Scriptures. We hold that if baptism were meant to wash away sin, Jesus Christ would not have been baptised because he was not a sinner. Concerning him, St. Peter wrote: “Who (Jesus) did no sin, neither was guile found in his mouth.” – 1 Peter 2: 21, 22.
+        
+         
+        
+        The Bible shows clearly that it is the blood of Jesus Christ that cleanses one from sin. Christ himself gave his disciples to understand, when he instituted the “Memorial Supper”, that his blood was to be shed for the purpose of remitting the sins of many people. When he took the cup containing the wine made from the fruit of the vine, he gave thanks and gave it to the apostles, saying, “Drink ye all of it; for this is my blood of the new testament, which is shed for many for the remission of sins.” – Matthew 26: 27, 28.
+        
+         
+        
+        Indeed, St. Paul stated: “And almost all things are by the law purged with blood; and without shedding of blood is no remission.” – Hebrews 9: 22.
+        
+         
+        
+        We must point out as well that the blood of Jesus Christ has no effect on anyone who does not believe in him or accept the truth of the gospel. In other words, it is when we have faith in Christ and are guided by the light of his word, according to the Scriptures, that we can receive forgiveness of our sins through his blood. As it is written: “But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ His Son cleanseth us from all sin” – 1 John 1: 7; see also Revelation 1: 5.
+        
+         
+        
+        Let us consider some of the practices of certain churches in the ministration of baptism and compare them with the Bible so as to satisfy ourselves as to where the truth is.
+        
+        As regards how baptism is given The Explanatory Catechism, under question 259, answers thus: “Baptism is given by pouring water on the head of the child…” This method is not peculiar to the Roman Catholic Church; there are other denominations that also baptise their adherents by pouring or sprinkling water.
+        
+         
+        
+        The baptism of infants is one of the issues often discussed by theologians. In the Roman Catholic, the Anglican and some other Protestant Churches, any infant to be baptised must be represented by “godparents” as his sureties. According to the Book of Common Prayer “there shall be for every male child to be baptised two Godfathers and one Godmother; and for every female, one Godfather and two Godmothers”.
+        
+         
+        
+        At a stage during the ceremony the Priest proceeds to ask a series of questions which the godfathers and godmothers answer in the name of the child. For example, the Priest first of all asks: “Dost thou renounce the devil and all his works, the vain pomp and glory of the world….and the carnal desires of the flesh … ?” Answer. “I renounce them all.”
+        
+         
+        
+        Then the Priest further asks: “Dost thou believe in God the Father Almighty, Maker of heaven and earth? And in Jesus Christ His only begotten Son our Lord? ” Answer. “All this I steadfastly believe.”
+        
+         
+        
+        Again, the Priest asks: “Wilt thou then obediently keep God’s holy will and commandments and walk in the same all the days of thy life?” Answer. “I will.”
+        
+         
+        
+        But we have seen from experience that when such a baptised infant became an adult, his character reflected the very converse of the answers given by the godparents. This is so because the child was not converted. He should have attained the age of reasoning and accepted Christ himself before he was baptised. It is very wrong to appoint godfathers and godmothers: there is no precedent in the Scriptures!
+        
+         
+        
+        Ceremonies
+        
+        In the Roman Catholic Church the ceremonies of baptism are more elaborate. The details were published in the Catholic Voice issue of February 1959. Therein it was stated that “without baptism one cannot enter heaven”. This belief accounts for the zeal with which innocent children are rushed by parents into an ordeal of ceremonies of which they know nothing.
+        
+         
+        
+        The Catholic Voice states: “THE CEREMONIES OF BAPTISM BEGIN AT THE ENTRANCE OF THE CHURCH. Why? The newly-born child is not yet a child of God. Unclean by original sin, its soul is displeasing to God. So its father and mother, little brothers and sisters and auntie-sponsor holding the baby, stand at the door of the church to beg for Baptism. The priest meets them at the door and says to the child…. what dost thou ask of the Church of God? And the godmother answers for her: Faith. The priest asks: what doth faith bring thee to? And the sponsor answers: Life everlasting. The priest says: If then thou desireth to enter into life, keep the commandments…”
+        
+         
+        
+        The Voice states that “several times during the ceremonies of baptism the priest orders the devil, by God’s power, to go out”. The priest gently breathes thrice upon the face of the child and says once: “Go out of him (her) thou unclean spirit, and give place unto the Holy Spirit the Paraclete (Comforter).” The priest blesses salt so that it may be “a perfect medicine” and then puts a little into the mouth of the child, saying: ” Receive the salt of wisdom…”
+        
+         
+        
+        The sign of the cross made on the forehead and breast of the child by the priest is said to be “the mark of God’s children”. After the ceremony of exorcising the devil the second time and saying some prayers, “the priest puts the end of his stole (a strip of silk worn round the neck with the ends hanging down in front) on the child, leading her into the Church, saying…Come into the temple of God, that thou mayest have part with Christ unto life everlasting.”
+        
+        This is followed by the opening of the ears of the child to God’s word. “The priest, wetting his thumb with spittle, touches therewith, in the form of a cross, the right and left ear of the child, saying: Ephpheta, that is to say, be opened. Then he touches the nostrils, saying: For a savour of sweetness. But thou, satan, be gone, behold the judgment of God.” All these, dear reader, are not ordered by God and cannot be found in the Bible!
+        
+         
+        
+        Furthermore, A Catholic Dictionary has this to say: “If there is not a probable hope that a child can be baptised after birth, Baptism may be administered in the womb… An aborted foetus must also be baptised, unconditionally or conditionally according to circumstances.” This is sheer nonsense! Modesty prevents us from commenting further on this practice.
+        
+         
+        
+        There is no one who has read the Holy Bible with a good understanding that cannot be weighed down with disgust at certain unscriptural and filthy ceremonies and practices that are done in the name of Christ. It is the introduction into the Church of invented dogmas and ceremonies which have neither the backing of the Scriptures nor the taste of reason, that has caused many people to go astray and even become agnostics.
+        
+         
+        
+        Immersion
+        
+        The truth of the Bible about baptism cannot be covered. The word baptism is derived from the Greek word baptizo or baptizmo, and it means immersion or dipping in water.
+        
+         
+        
+        From this definition, we can get a clear view of the fact outright that the system of pouring or sprinkling water is altogether wrong. There is not a single instance in the Bible where any follower of Jesus Christ was baptised by such a method. Jesus Christ himself was baptised in Jordan River at about the age of 30 – not at all as an infant! Water was not sprinkled on him. Saint Matthew’s record of the occasion reads: “And Jesus, when he was baptized went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him. And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased,” – Matthew 3: 16-17; see also Luke 3: 21-23.
+        
+         
+        
+        This example of Christ’s baptism is the standard all his true followers are bound to follow. It was devoid of unnecessary ceremonies. No one stood as a “godfather” or “godmother” and he licked no salt. His baptism did not take place in a Synagogue but at a river where he could be and was dipped in water. And we must follow the example of our Saviour, and if the meaning of baptism is not to be defeated, all who are to be baptised MUST BE IMMERSED.
+        
+         
+        
+        John the Baptist administered baptism to people where there was enough water. As it is written: “And John also was baptizing in Aenon near to Salim, because there was much water there and they came, and were baptized.” – John 3: 23.
+        
+         
+        
+        Another instance in the Bible is that of the eunuch of Ethiopia who was baptised by Philip, the apostle of Christ. The eunuch was a treasurer under the queen of the Ethiopians. There was an occasion when he went to Jerusalem to worship, and while he was returning he read from the book of Isaiah the prophet. Through the direction of the Spirit of God, Philip wont close to him and asked him: “Understandest thou what thou readest? And he answered quite honestly: “How can I, except some man should guide me?” He then invited Philip to sit with him in his chariot, and Philip preached to him about Jesus Christ.
+        
+         
+        
+        Here is the account of what followed: “And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized? And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God. And he commanded the chariot to stand still; and they went down both into the water, both Philip and the eunuch; and he baptized him. And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing.” – Acts 8: 26-40.
+        
+         
+        
+        Symbol
+        
+        According to the Bible, it is required that a person to be baptised must be immersed and covered by the water as a symbol of burial of one’s sinful desires and also into death. This signifies that he has agreed to do the will of God all the days of his life until, if it pleases God, death. And being raised out of the water is a symbol of resurrection, which is the hope of Christians, and it denotes regeneration or the new life which the person baptised has agreed to lead to the glory of God.
+        
+         
+        
+        Said St. Paul: “Know ye not, that so many of us as were baptized into Jesus Christ were baptized unto his death? Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life. For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection. Knowing this, that our old man is crucified with him, that the body of sin might be destroyed that henceforth we should not serve sin.”-Romans 6: 3-6.
+        
+         
+        
+        Again St. Paul stated: “Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, Who hath raised him from the dead.” – Colossians 2: 12.
+        
+         
+        
+        The fact, which no one can dispute, is that pouring or sprinkling of water does not bear relevance to the significance of burial with Christ into death neither does it give any idea of resurrection, spiritual or otherwise.
+        
+         
+        
+        Baptism of Infants
+        
+        With regard to the baptism of infants the only authority the priests of certain churches cite is the saying of Jesus Christ: “Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.” But what they often lose sight of is the fact that this statement of our Lord has no connection at all with baptism. The children were brought to him and he did no more than that he blessed them. The full account of this is in Matthew 19: 13-15 and Mark 10: 13-16. There is nothing wrong if the pastors or bishops who preach the truth bless children but they have no authority whatsoever to baptise them.
+        
+         
+        
+        Jesus Christ did not baptise any child – not even a single adult. It was his disciples he instructed to baptise the believers. – John 4: 1-3.
+        
+         
+        
+        A person must attain the age of reasoning so that he can repent of his sins and be able to express his belief in Jesus Christ before he is baptised. When the eunuch of Ethiopia asked for baptism, Philip told him: “If thou believest with all thine heart, thou mayest.” And the eunuch answered: “I believe that Jesus Christ is the Son of God.” (Acts 8: 37) It was on the basis of this belief, which the eunuch confessed, that he was baptised. But infants know nothing and so they cannot believe or accept the spiritual responsibility baptism imposes on the person who is baptised. The so-called surety of “godfathers” and “godmothers” is spiritually meaningless.
+        
+         
+        
+        We agree that baptism is necessary for salvation but the innocent children should be left alone until they grow up when they can decide to serve God through Jesus Christ. Anyone who receives baptism but does not believe in Christ cannot be saved. Jesus said: “He that BELIEVETH and is baptised shall be saved; but he that believeth not shall be damned.” –  Mark 16: 16.
+        
+         
+        
+        Baptism, we repeat, does not wash away sin but it is an outward demonstration of one’s conversion and agreement to serve God Almighty faithfully through Jesus Christ all the days of one’s life, in order to obtain salvation. St. Peter stated: “The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh but the answer of a good conscience toward God,) by the resurrection of Jesus Christ.” – 1 Peter 3: 21.
+        
+         
+        
+        It was because of the vital importance of baptism, Jesus Christ commanded his apostles in this wise: “….Go ye into all the world, and preach the gospel to every creature. He that believeth and is baptized shall be saved; but he that believeth not shall be damned.” – Mark 16: 15, 16.
+        
+         
+        
+        We have stated the truth of the matter in this Sermon with the best of intention so that we all may be guided by the light of Jesus Christ and be saved.
+        
+        In the first place, we wish to correct the wrong view of some Christians who refer to a building as a church. One of the definitions given by The Catholic Encyclopedic Dictionary is that a church is “a place of Christian worship”. Very often we come across publications stating that a certain amount of money has been earmarked or contributed for the building of a church. Or that the foundation stone of a new church to be built at a cost of £10,000 or so, has been or is to be laid by such and such reverend gentleman. Also, we find some people pointing at a building and saying, “This is our church.”
+        
+         
+        
+        The Bible does not refer to a house as church. Neither Jesus Christ nor any of his early apostles used the word to mean a building or place of worship. It is because of the continuous wrong usage of the word by priests and theologians that makers of dictionaries have also been biased to misconstrue it in that regard.
+        
+         
+        
+        Christian
+        
+        According to the Scripture, the word church, which was translated from the Greek word ekklesia or ecclesia, means a congregation or body or an assembly of Christians. The word was first used by Jesus Christ as recorded in the eighteenth verse of the sixteenth chapter of the gospel according to St. Matthew. The occasion was when Jesus Christ asked his disciples certain questions, and Peter gave a correct answer. To Peter, he said: “Blessed art thou, Simon Barjona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven. And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.” – Matthew 16: 13-18.
+        
+         
+        
+        That the rock upon which the church is built is not Peter but Jesus Christ who himself is the head of the Church (1 Corinthians 10: 4; Colossians 1: 18) has been proved beyond argument in The Weekly Sermon (Vol. 1, No.9) issue of November 3, 1968. The point we are now making is that Jesus Christ did not use the word church to mean a literal house or place of worship.
+        
+         
+        
+        In the Acts of the Apostles, chapter 14, a lucid account is given about how Paul and Barnabas worked unitedly for the furtherance of the gospel of Christ. When they were come to Antioch as stated in verse 27, “and had gathered the church together, they rehearsed all that God had done with them, and how He had opened the door of faith unto the Gentiles”. The church that was gathered means the Christians, collectively, (not houses) that were assembled! When St. Paul said that “it is a shame for women to speak in the church” (1 Corinthians 14: 34, 35) he was not making reference to a building set aside for worship but to a congregation of Christians
+        
+         
+        
+        Furthermore, St Paul wrote in his epistle to the Romans thus: “Likewise greet the church that is in their house… The churches of Christ salute you.” (Romans 16: 5, 16) Can anybody show that the apostle was asking his fellow Christians to greet a house? how can a sane person do that? it is unthinkable! Or can a house, an inanimate object, salute persons? it cannot, except a demon in it. This is just to show how ridiculous and meaningless it will sound if the word church is reduced to mean a place of worship.
+        
+         
+        
+        By the clause, “the church that is in their house”, St. Paul meant the disciples of Christ that met in their house. And when he stated “the churches of Christ salute you” he was referring to the congregations of Christian believers. See also 1 Corinthians 16: 19.
+        
+         
+        
+        It should be understood, therefore, that our reference to the “true Church” in the caption of this sermon, has to do with a group or body or a society of genuine Christians. The epithet true would have been superfluous if there had not existed groups of professed Christians which are counterfeit.
+        
+         
+        
+        Denominations
+        
+        With regard to the number of church denominations in the world, it is difficult to speak with exactitude. They are very many, and new ones spring up almost everyday. In Nigeria, there were two in particular that did not last long: they were the “Do Me I Do You Church” and “Adam and Eve Church”. The former was founded on the principle of retaliation as enunciated in the laws of Moses. Its members claimed that if they did not return evil for evil, God would be angry in that it was a sin. In the case of “Adam and Eve Church”, nakedness was their doctrine and practice. There is a similar church in England known as “The Guild Church of the Naturian Kindred”. (Vide Sunday Pictorial, May 19, 1957, page 15).
+        
+         
+        
+        Considering the degree of variance among the churches in doctrines and methods of worship, it will be a very silly conclusion to say that all of them belong to Jesus Christ and are serving the one true God.
+        
+         
+        
+        The Roman Catholic Church claims to be the only true Church, and mother of all others. In a pamphlet entitled, Can I Change My Religion? published by the “Catholic Truth Society” in London, it is stated: “Catholics do not want to change their religion, because they are quite sure that their religion is the true one…. You must accept everything that has been defined by her in the past, and be ready to accept without question anything that she may define in the future.” (Pages 3-4).
+        
+         
+        
+        Other church groups do disagree and pooh-pooh the claim of the Roman Catholics which cannot be supported with or proved from the Bible.
+        
+         
+        
+        There are some groups in Nigeria and elsewhere whose members’ activities, rather than turning men’s minds to God, are causing some people to reproach Christianity. In some of the groups almost every other member is either an apostle or a prophet or prophetess. Some take pride in high-sounding appellations such as “Senior Apostle”, “Most Senior Apostle” and so on. They prophesy and see visions almost everyday. The visions do not concern the purpose of God and are not such that tend to lead to righteousness but visions about riches or of the women the “spirit” wants them to marry, or of who is a witch and what not.
+        
+         
+        
+        It is common knowledge that fornication and adultery are perpetrated in some of these mushroom groups where certain prophets can spend a whole day with women in private rooms under the cover of prayer! Some of these prophets take certain deluded women to rivers where they pretend to wash away their sins and to invoke angels through prayer to drive away devils or demons from them. It is frequently alleged that the prophets strip them stark naked and make immoral advances to them in “holy” water!
+        
+         
+        
+        It was during one of their spirit-vision expeditions that some of these prophets killed a certain poor woman in the Western State as published.
+        
+         
+        
+        The other day one of their prophets claimed to have seen a vision that the Western State of Nigeria would sink if the people paid more than 7/6 per head as tax; he actually went out to spread this satan-inspired message. But on investigation, it was discovered that the anti-tax preacher had himself paid tax and kept his receipt quite intact. He was of course, justly convicted for 18 months. (Daily Times, February 1, 1969) Since Jesus Christ and his disciples paid tax in his days, do we still need any more proof before we can know that the anti-tax gospeler is a fake?
+        
+         
+        
+        Variance
+        
+        All the churches cannot be true while they are at variance on several points of doctrine, and divided in their methods of worship, we repeat. St. Paul stated: “Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.” (1 Corinthians 1: 10) The fact that some have deviated from the truth of God in the Bible and do not speak the same thing and are divided leaves no room for doubt that such ones only call the name of Christ in pretence.
+        
+         
+        
+        False Prophets
+        
+        Jesus Christ knew very well that false prophets with their characteristic propensity for fantastic claims would proliferate in this age of the last day, and he warned against them. Said he: “And many false prophets shall rise, and shall deceive many. For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that if it were possible, they shall deceive the very elect. Behold, I have told you before.” (Matthew 24: 11, 24-25.) Bible students are not surprised to see them and hear of them all over the world. It is a proof that the last day is here!
+        
+         
+        
+        Within the past few years the rate at which false Christs sprang up is fantastic. Like a shooting star, they appear suddenly in the mood of sanctimoniousness and, after a short while, fade away into oblivion. Where now is the “Jesus of Oyingbo” (Lagos)? Where is that of France who predicted that the world would end on August 15, 1954? (Vide the Illustrated of May, 1954) and where is that “Jesus of Ogbunike” near Onitsha? One of them claimed to be God and the very Jesus the Son of God, and at the same time he said he was Abraham. Yet some of those who had been stupefied with the strokes of his cane by which he “baptised” his adherents, believed everything he said. God said: “A wonderful and horrible thing is committed in the land; the prophets prophesy falsely, and the priests bear rule by their means; and my people love to have it so: and what will ye do in the end thereof?” – Jeremiah 5: 30, 31.
+        
+         
+        
+        There is no doubt that Nigeria, and the world at large, is in danger of false prophets. They are dangerous because they lead people to destruction. – Isaiah. 9: 16; Matthew 15: 12-14.
+        
+         
+        
+        When we examine the root of the encomium or praise and the credit given to certain churches for their achievements we find that they do not relate to the purity of doctrine or the reformation of character in converted souls. Rather, such a praise or credit is based on the number of schools, colleges or hospitals they have established or on the scholarships they have given to people. These institutions are not bad. But they are no standards or qualities by which genuine Christianity can be distinguished. The most important thing is the preaching of the truth of God’s word – the gospel – to the sheep of God so that they may be free from Satan’s works and be saved in God’s Kingdom. – Mark 16: 15-16, 19-20; John 8: 31, 32, 36.
+        
+         
+        
+        The pride of certain churches is that they have existed for a very long time. Because of this they regard others which are not as old to be false. On this, we also hold the view that it is not how long but how well. Jesus did say: “But many that are first shall be last; and the last shall be first.” – Matthew 19: 30.
+        
+         
+        
+        In order to know which church is true and which is not, we must examine the doctrines and practices of the various groups – using the Holy Bible as our yardstick. Jesus gave this warning: “Beware of false teachers, who come disguised as harmless sheep but are wolves and will tear you apart. You can detect them by the way they act, just as you can identify a tree by its fruit. You need never confuse grapevines with thorn bushes! Or figs with thistles! Different kinds of fruit trees can quickly be identified by examining their fruit. For a variety producing delicious fruit doesn’t produce a kind that is inedible! And a tree producing an inedible variety can’t produce what is good! So the trees having the inedible fruit are chopped down and thrown on the fire. Yes, the way to identify a tree, or a person, is by the kind of fruit produced.” – Matthew 7: 15-20, Living Gospels.
+        
+         
+        
+        The Authorised Version puts verse 20 thus: “Wherefore by their fruits ye shall know them.” Jesus Christ further said: “Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.” -Matthew 7: 21.
+        
+         
+        
+        It is wrong, therefore, to accept every church denomination as true and as belonging to Jesus Christ. We must follow strictly the guidelines given in the Scriptures in order not to be deceived especially in these days when many are claiming to be prophets, apostles and prophetesses who see spirits. John the apostle admonished: “Beloved. believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone on into the world.” (1 John 4: 1) And St. Paul also warned: “Prove all things; hold fast that which is good.” – l Thessalonians 5: 21.
+        
+         
+        
+        To close our eyes to or ignore the reality of the presence of false churches among us is nothing but self-deceit. Said St. Paul; “Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils; speaking lies in hypocrisy; having their conscience seared with a hot iron; forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth…. ” (1 Timothy 4; 1-5.) Just look around, it will not take you any pains to find the church groups that come under the category of the apostle’s predictive description.
+        
+         
+        
+        True Church
+        
+        The fruit by which we can know the true Church is not the doing of wonders, seeing of visions, dreaming of dreams or the saying of many prayers but the preaching of the TRUTH in particular, and the showing of Christian love. (John 13: 34,35) False prophets can do wonders, see visions and do some other things, but they CAN NEVER preach the TRUTH without adulterating it. (Matthew 7: 20-23) Once the doctrine of any religious body is tainted with a lie that group is not a true church. St. John stated “that no lie is of the truth”. (1 John 2: 21) It was on this ground St. Paul wrote to Timothy: “If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness; he is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings, perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.” – 1 Timothy 6: 3-5.
+        
+         
+        
+        The trouble with many people is that they take things for granted. They do not care to ascertain whether what they are taught to believe in the churches are in harmony with the holy scripture. For example, the teaching that St. Peter is the head of the church is not true; JESUS CHRIST IS THE HEAD. (Ephesians 5: 22,23) The teaching that the soul is immortal is wrong; the baptism of infants is unchristian, and the teaching that baptism washes away sins is unscriptural; the teaching that women are ordained by God to preach the gospel is unbiblical. There are a lot of other false doctrines and beliefs which space will not permit us to mention here.
+        
+         
+        
+        Any church denomination, or even an angel from heaven, that teaches any doctrine unsupported in the Scripture, has no right to claim to be the true church. Said St. Paul: “But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed…” – Galatians 1: 8, 9.
+        
+         
+        
+        The true Church, therefore, is the Christian Organisation in any part of the world that preaches the truth, nothing but the whole truth, as contained in the Holy Bible. Jesus said to the Jews who believed on him: “If ye continue in my word, then are ye my disciples indeed; and ye shall know the truth, and the truth shall make you free.” (John 8: 31, 32) It is the truth that will bring us the salvation of God, but the absence of it means the loss of everything good.
+        
+         
+        
+        As we must be honest and true to ourselves and other persons of goodwill toward God, we cannot hide the fact that the God’s Kingdom Society (GKS) is preaching the truth which has enlightened many people and brought them God’s blessings; she is therefore -like any other church organisation preaching the truth-the true Church of Christ. Some may frown upon this claim but the onus of proof rests upon them to show from the Scriptures (not their opinions) that we are not. And where they cannot let them say, as commanded by God, “It is truth.”-Isaiah. 43: 9; see also John 8: 45, 46.
+        
+       
+   `, 
+        title:"If Baptism Washes Away Sins - WHY WAS CHRIST BAPTISED?"},
+     {key:35, 
         content:`nbjdsjndjsdjsdjnjdsjnksjdcscsc ssjsjcskd`, 
         title:"heloo s"},
     

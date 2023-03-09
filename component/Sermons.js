@@ -2540,9 +2540,9 @@ const SermonDetails = [
        
    `, 
         title:"If Baptism Washes Away Sins - WHY WAS CHRIST BAPTISED?"},
-     {key:35, 
-        content:`nbjdsjndjsdjsdjnjdsjnksjdcscsc ssjsjcskd`, 
-        title:"heloo s"},
+   //   {key:35, 
+   //      content:`nbjdsjndjsdjsdjnjdsjnksjdcscsc ssjsjcskd`, 
+   //      title:"heloo s"},
     
    ]
  },

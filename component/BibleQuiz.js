@@ -17,161 +17,285 @@ In the type, the manslayer who is judged by the congregation and found to be wor
 This is a warning that no Christian should for any reason “go out of the city of his refuge” thus exposing himself to danger in the hands of the Avenger of Blood. There can be no excuse or remedy for willful disobedience to the Lord’s instructions. See Luke 13: 23-27; 2 Peter 2:20-22;Jeremiah 22:10
 This is the time therefore for all men of goodwill to demonstrate their faith in God Almighty and Jesus Christ by fleeing to the Lord’s Organisation (the Church organisation where the truth is preached unadulteratedly) and there continue to seek righteousness and meekness as commanded by God so that they may be spared in the great devastation due to take place at Armageddon. – Zephaniah 2:1-3; Isaiah 55:6,7.`,
         BibleQuiz:[
+  
+    
           {
-            key:1,
-            explaination: `Judgment of God (the truth) as expounded by the anointed servants or their companions and the ecclesiastical courts in God’s organization (Psalm 149:5-9; John 5:22,27).   To declare one’s cause is to take one’s stand on the side of God and repent and walk in harmony  with God – Isaiah 26:9, Psalm 119:9- 11.`,
-            Question: `Briefly explain what is meant by judgment by the “congregation” and “declaring one’s cause” in the sermon “Cities of Refuge”.`,
-            options:[
-                {answer: `Judgment of God (the truth) as expounded by the anointed servants or their companions and the ecclesiastical courts in God’s organization (Psalm 149:5-9; John 5:22,27).   To declare one’s cause is to take one’s stand on the side of God and repent and walk in harmony  with God – Isaiah 26:9, Psalm 119:9- 11.`, isCorrect:true, key:1},
-                {answer:"Both of these concepts are mentioned in the sermon as examples of how justice was administered in ancient Israel and how the cities of refuge were part of a larger system of justice and accountability in the community.", isCorrect:false, key:2},
-                {answer:"This was a common practice in ancient Israel and was used in cases where someone was accused of a crime or wrongdoing.", isCorrect:false, key:3},
-                {answer:"none of the above", isCorrect:false, key:4},
-            ]
-
+            explaination: `The Cities of Refuge were set up to protect those who had accidentally or unknowingly killed someone from the strict law of retribution. (Deuteronomy 4:41-43)`,
+            Question: "What is the purpose of the Cities of Refuge? ",
           },
           {
-            key:2,
-            explaination: `i) Jesus Christ - Jeremiah 51:20-21.
-            ii) Ignorant sinners
-            iii) God’s Kingdom now set up in this last days -
-            Matthew 24:15,16; Hebrews 11:8-10.
-             iv) End of the Priestly work on earth.`,
-            Question: `In the sermon on Cities of Refuge what is the Significance of the following: i) The Avenger of Blood ii) The Manslayer iii) The cities of refuge iv) The death of the high priest.`,
-            options:[
-                {answer:" Jesus Christ , Ignorant sinners, End of the Priestly work on earth", isCorrect:false, key:1},
-                {answer:"Jesus Christ,", isCorrect:false, key:2},
-                {answer:" Jesus Christ , Ignorant sinners, God’s Kingdom now set up in this last days, End of the Priestly work on earth", isCorrect:true, key:3},
-                {answer:" all of the above ", isCorrect:false, key:4},
-                {answer:" none of the above ", isCorrect:false, key:5},
-            ]
-
+            explaination: `There were six Cities of Refuge, three on either side of the River Jordan. (Joshua 20:7-9)`,
+            Question: "How many Cities of Refuge were there? ",
           },
           {
-            key:3,
-            explaination: "Because is Create the Heaven and Earth",
-            Question: `The cities of Refuge were cities which God Almighty commanded the Jews to set aside for the benefit of the “manslayer” among the Jews as well as the strangers and sojourners dwelling among them who kills unintentionally so that he may not be overtaken by the strict law of retribution in force at that time.`,
-            options:[
-                {answer:" SonShip one two", isCorrect:false, key:1},
-                {answer:`The cities of Refuge were cities which God Almighty commanded the Jews to set aside for the benefit of the “manslayer” among the Jews as well as the strangers and sojourners dwelling among them who kills unintentionally so that he may not be overtaken by the strict law of retribution in force at that time.`, isCorrect:true, key:2},
-                {answer:" SonShip three two", isCorrect:false, key:3},
-                {answer:" SonShip four two", isCorrect:false, key:4},
-            ]
-
+            explaination: `The Cities of Refuge represent God's Kingdom, which is now set up in this end of the world through the anointed servants of God. (Matthew 24:15-16)`,
+            Question: "What is the spiritual significance of the Cities of Refuge? ",
           },
           {
-            key:4,
-            explaination: `There were six cities of Refuge, three on both sides of Jordan. –Numbers 35:9-34.`,
-            Question: `How many where they and where were they located?`,
-            options:[
-                {answer:`Kedesh in Galilee - located in the north of Israel
-                Shechem - located in the central region of Israel
-                Hebron - located in the south of Israel
-                Bezer - located in the east of the Jordan River, in the territory of the tribe of Reuben
-                Ramoth - located in the east of the Jordan River, in the territory of the tribe of Gad
-                Golan - located in the east of the Jordan River, in the territory of the tribe of Manasseh`, isCorrect:false, key:1},
-                {answer:`There were six cities of Refuge, three on both sides of Jordan. –Numbers 35:9-34.`, isCorrect:true, key:2},
-                {answer:"All of the above" , isCorrect:true, key:3},
-                {answer:"None of the Above", isCorrect:false, key:4},
-            ]
-
+            explaination: `The Cities of Refuge are for the benefit not only of the natural Jews but for strangers and sojourners among them, showing that their application is universal and not limited to the natural Jews. (Deuteronomy 4:41-43)`,
+            Question: "Who can take refuge in the Cities of Refuge? ",
           },
           {
-            key:5,
-            explaination: `It shows that this provision of God was made for the entire human race for their own protection and blessing. – Matthew 24:16; Isaiah 2:2,3. 
-            The fact that the cities of refuge were not only meant for the natural Jews but also for strangers and sojourners dwelling among them has significant implications in terms of the concept of justice and mercy in ancient Israel.
-
-In ancient times, strangers and sojourners were often marginalized and treated unfairly, and they did not have the same legal protections as natural-born citizens. However, God's command to set aside the cities of refuge for both Jews and non-Jews demonstrated his concern for justice and fairness for all people, regardless of their nationality or social status.
-
-This meant that if a non-Jew accidentally killed someone, they could also seek refuge in one of these cities and be protected from retribution until a trial could be held to determine their guilt or innocence. This showed that God's law was not only for the benefit of the Jews but was also intended to benefit all people who lived among them.
-
-The fact that the cities of refuge were open to both Jews and non-Jews demonstrated God's concern for justice and mercy for all people and was a reflection of his character as a just and compassionate God.`,
-            Question: `What is the significance of the fact that the city of refuge was not meant only for the natural Jews but also for strangers?`,
-            options:[
-                {answer:" SonShip one two", isCorrect:false, key:1},
-                {answer:"It shows that this provision of God was made for the entire human race for their own protection and blessing. – Matthew 24:16; Isaiah 2:2,3.", isCorrect:true, key:2},
-                {answer:" SonShip three two", isCorrect:false, key:3},
-                {answer:" SonShip four two", isCorrect:false, key:4},
-            ]
-
+            explaination: `The Cities of Refuge foreshadow matters of great spiritual significance particularly in this age of Christ’s Second Coming. (Romans 15:4)`,
+            Question: "What is the relationship between the Cities of Refuge and the Second Coming of Christ? ",
           },
           {
-            key:6,
-            explaination:``,
-            Question: `In the subject the Cities of Refuge, what roles are played antitypically by Jesus Christ and his body members`,
-            options:[
-                {answer:`They are the elders who judge the ignorant manslayer. - John 5:22,27; Psalm 149:5-9.`, isCorrect:true, key:1},
-                {answer:`sd`, isCorrect:false, key:2},
-                {answer:`sds`, isCorrect:false, key:3},
-                {answer:`none of the above`, isCorrect:false, key:4},
-                {answer:`all of the above`, isCorrect:false, key:5},
-            ]
-
+            explaination: `This shows that the remnant of the anointed Christians are to be chosen from all parts of the world. (Matthew 24:31)`,
+            Question: "What is the significance of the fact that three of the Cities of Refuge were located on one side of the River Jordan and three on the other side? ",
+          },
+          {
+            explaination: `The "birds of the air" are people of goodwill who love to praise Jehovah and who flee to the "Mountains" (Cities of Refuge) for safety and protection. (Isaiah 2:2; Matthew 24:15-16)`,
+            Question: `Who are the "birds of the air" referred to in Matthew 13:31-32?`,
+          },
+          {
+            explaination: ` A "manslayer" is someone who has killed another person unintentionally or accidentally. (Deuteronomy 4:41-43)`,
+            Question: `What is a "manslayer" according to the Bible?`,
+          },
+          {
+            explaination: `The ignorant manslayers are men of goodwill who were breaking the law of God and opposing the truth due to ignorance. (Ezekiel 18:20; Romans 5:10; Ephesians 2:11-12; 1 John 3:15; Galatians 4:8; 1 Timothy 1:9)`,
+            Question: "Who are the ignorant manslayers according to the Bible? ",
+          },
+          {
+            explaination: `The stubborn and disobedient manslayers are those who deliberately oppose the truth and righteousness of God. (Hebrews 10:26-29; Hebrews 6:4-6; Matthew 12:31-32; 2 Peter 2:20-22)`,
+            Question: "Who are the stubborn and disobedient manslayers according to the Bible? ",
+          },
+          {
+            explaination: `The Avenger of Blood is Jesus Christ, who is Jehovah’s Chief Judge, Field Marshall, and Vindicator. (2 Thessalonians 1:7-9; Psalm 145:20; 9:17)`,
+            Question: "Who is the Avenger of Blood according to the Bible? ",
+          },
+          {
+            explaination: `The elders who judge the manslayer are Jesus Christ, his body members, and their companions. (John 5:22,27; Psalm 149:5-9)`,
+            Question: "Who are the elders who judge the manslayer according to the Bible? ",
+          },
+        
+          {
+            explaination: `The Cities of Refuge were six cities set up in Israel to protect anyone who killed another person unknowingly or accidentally, to prevent the strict law of retribution in force at that time from overtaking them.`,
+            Question: "What were the Cities of Refuge, and why were they set up in Israel? (Deuteronomy 4:41-43) ",
+          },
+          {
+            explaination: `The Cities of Refuge foretold the establishment of God's Kingdom in this end of the world through the anointed remnant and the provision of protection against impending doom.`,
+            Question: "What was the spiritual significance of the Cities of Refuge? (Romans 15:4, 1 Corinthians 10:11, Hebrews 10:1) ",
+          },
+          {
+            explaination: `The protection was for the "manslayer" among the Jews, the strangers, and sojourners dwelling among them.`,
+            Question: "Who are the people that are protected by the Cities of Refuge? (Deuteronomy 4:41-43) ",
+          },
+          {
+            explaination: `The location of the Cities of Refuge on both sides of the River Jordan shows that the remnant of anointed Christians are to be chosen from all parts of the world.`,
+            Question: "What is the significance of the location of the Cities of Refuge on both sides of the River Jordan? (Matthew 24:31) ",
+          },
+          {
+            explaination: `In the anti-type, the Cities of Refuge represent God's Kingdom established through the anointed remnant in this end of the world.`,
+            Question: "What do the Cities of Refuge represent in the anti-type? (Matthew 24:15-16, Hebrews 11:10-11) ",
+          },
+          {
+            explaination: `The remnant of the anointed Christians is significant in establishing the Cities of Refuge and "mountains" of protection for the people of goodwill who love to praise Jehovah.`,
+            Question: "What is the significance of the remnant of the anointed Christians? (Isaiah 62:11-12, Isaiah 60:14, Matthew 5:14-15) ",
+          },
+          {
+            explaination: `The "manslayer" or murderer refers to people of the world who were doing things contrary to the will of God and deserved to die by God's law. `,
+            Question: `Who is the "manslayer" referred to in the scripture? (Ezekiel 18:20, Romans 5:10, Ephesians 2:11-12, 1 John 3:15, Galatians 4:8, 1 Timothy 1:9) `,
+          },
+          {
+            explaination: `The ignorant manslayers are men of goodwill who were breaking the law of God and opposing the truth due to ignorance. `,
+            Question: `Who are the ignorant manslayers? (Titus 3:3) `,
+          },
+          {
+            explaination: `The people who are drawn into an undesirable position because of circumstances over which they had no control, and who broke the laws of God in ignorance are given the opportunity for life in exercise of Jehovah's mercy. `,
+            Question: `Who are given the opportunity for life in exercise of Jehovah’s mercy? (Titus 3:3) `,
+          },
+          {
+            explaination: `The stubborn and disobedient ones who deliberately oppose the truth and righteousness of God class themselves as willful manslayers. `,
+            Question: `Who are the stubborn and disobedient ones who deliberately oppose the truth and righteousness of God? (Hebrews 10:26-29) `,
+          },
+          {
+            explaination: `The Avenger of Blood is Jesus Christ, who is Jehovah's Chief Judge, Field Marshall, and Vindicator. `,
+            Question: `Who is the Avenger of Blood? (2 Thessalonians 1:7-9, Psalm 145:20, 9:17) `,
           },
           // {
-          //   key:6,
-          //   explaination:``,
-          //   Question: ``,
-          //   options:[
-          //       {answer:`city one`, isCorrect:false, key:1},
-          //       {answer:``, isCorrect:true, key:2},
-          //       {answer:``, isCorrect:false, key:3},
-          //       {answer:`none of the above`, isCorrect:false, key:4},
-          //       {answer:`all of the above`, isCorrect:false, key:4},
-          //   ]
-
+          //   explaination: ` `,
+          //   Question: ` `,
           // },
           // {
-          //   key:6,
-          //   explaination:``,
-          //   Question: ``,
-          //   options:[
-          //       {answer:`city one`, isCorrect:false, key:1},
-          //       {answer:``, isCorrect:true, key:2},
-          //       {answer:``, isCorrect:false, key:3},
-          //       {answer:`none of the above`, isCorrect:false, key:4},
-          //       {answer:`all of the above`, isCorrect:false, key:4},
-          //   ]
-
+          //   explaination: ` `,
+          //   Question: ` `,
           // },
+        
         ]
 
     },
-// next one
+
 
 
     {
-        key:2,
+   
         Categories:"The brazon sepent",
-        content:`hello`,
+        content:`THE BRAZEN SERPENT
+        THE salvation of God that would come to all repentant sinners through  Jesus Christ as of grace was, since the days of Moses the prophet, typified by a very significant incident when a serpent of brass was set up for the Israelites.
+        The children of Israel were a stubborn people. Because of their faithlessness, in spite of the wonders of the Almighty God they saw in Egypt, they continued to sin. On several occasions while they were journeying to Canaan they provoked God by reason of their abominable deeds, and they were justly punished. But when they repented and turned to God they received mercy.
+        One of such occasions was after the death of Aaron when they journeyed from Mount Hor by way of the Red Sea to the land of Edom. And because they grew impatient over the route they began to open their mouths wide I against Heaven. As a result of this God sent dreadful serpents to assail the camp of Israel and I many people were bitten to death.
+        Here is the Bible record:
+        “And they (the Israelites) journeyed from mount Hor by the way of the Red Sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way. And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, neither is there any  water; and our soul loatheth this light bread. And the Lord sent fiery serpents among the people and they bit the people; and much people of Israel died.”- Numbers 21: 4-6.
+        Following this plague the Israelites came to their senses and realised their faults. They went to Moses their leader to confess that they had sinned for speaking against God and against him (Moses). They pleaded with him to pray to the Most High to take away the- serpents from them.
+        Moses who was well known for his godly disposition and kind-heartedness and humility, acceded to their request and he interceded on their behalf.
+        God heard the prayer of Moses. It was really an easy thing for Him to remove the venomous snakes all at once but He did not. Rather, He commanded Moses, saying, “Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.” – Numbers 21: 8.
+        In obedience to the Lord’s instruction, Moses made a serpent of brass and erected it on a pole, “and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.”- Numbers 21: 9.
+        
+        Significance
+        
+        All diligent students of the Bible do agree that the whole event which culminated in the erection of the brazen serpent was of great spiritual significance. There is quite a lot to learn from the experience of the Israelites and what God did to relieve them of their pains and to save them from death. Yes, it was Saint Paul who stated: “For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.” – Romans 15: 4.
+        Now, let us ask ourselves this question: why was Israel plagued with fiery serpents by the very God of their fathers who had done so much to aid them at the time of their distress and adversity? It is clear from the Bible account that it was because they sinned against God. They were guilty of blasphemy – a very serious offence!
+        Today there are people who behave like the faithless Israelites. For every misfortune that befalls them they blame the cause on God.
+        When they find themselves in any unfavourable situation they turn round to accuse God-notwithstanding the fact that such a situation is of their own making. There is also the class of those, especially among the intellectuals of the world, who take pride in talking glibly and irreverently about God.
+        Men must learn to know that God is not the one responsible for their ills or troubles. The evils or tribulations that often come upon us are either due to our own sins of the devil, taking advantage of our “infirmities being human and especially because of our sensualism, brings them upon us.
+        The temptation of Job is a striking example of how the devil can trouble even the man of God with the aim of making the person to curse God and so fallout of His favour. Under such circumstances, the true worshippers of God are required to maintain their integrity in faith as Job himself did, and then cry to God in prayer for help and deliverance. – Job 2: 3; 27: 4, 6; Proverbs 11: 3; James 5: 10,11.
+        Salvation
+        Speaking in the first person through Isaiah the prophet, God declared: “Look unto me, and be ye saved, all the ends of the earth: for I am God, and there is none else.” – Isaiah 45: 22.
+        In order to fulfil His purpose of saving His people, God had to send His beloved Son, Jesus Christ, to the world not only to serve as a propitiation for the sins of mankind but also to be the Mediator through whom eternal life would be obtained in His glorious Kingdom. – 1 Timothy 2: 4-6; 1 John 2: 1, 2.
+        Thus the brazen serpent, which God caused Moses to set up for snake-bitten Jews to look to and which served as a remedy for the plague of poisonous serpents, fore- shadowed Jesus Christ who would in due time be sent to the world  God for all mankind to look to for the healing of their  wounds and for their salvation.
+        With this understanding at the back of his mind in regard to his mission on earth, Jesus Christ told Nicodemus concerning himself:
+        “And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: that whosoever believeth in him should not perish, but have eternal life.”- John 3: 14, 15.
+        Jesus Christ further explained the reason why the Heavenly Father has made such a grand arrangement for the benefit of sinful mankind when he said: “For God so loved the world, that He gave His only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.” – John 3: 16.
+        We must guard ourselves, by the grace of God, against sin. If the Israelites had not sinned they would not have been plagued. Therefore, sin, which is the transgressing of God’s commandment, is a great danger. “For the wages of sin,” said Saint Paul, “is death: but the gift of God is eternal life through Jesus Christ our Lord.”- Romans 6: 23.
+        
+        Antitypical
+        
+        It could be recalled that when the brazen serpent was erected on a pole in the days of Moses, the rule was that anyone who was bitten by a serpent would live only on the condition that he looked at the serpent of brass.
+        We do know that since the setting up of the brazen serpent was typical, the looking at it was also literal – that is, it was the use of ordinary sight by way of turning the eyes, in the direction of the serpent of brass, of course, with the belief .that by so doing they were carrying out God’s instruction or command. But the case of Jesus Christ being antitypical, we are not expected to see him with our human eyes because he is now invisible being a spirit personality who has been glorified in heaven.
+        Then, how do we look to Jesus Christ as to draw a parallel between the typical and antitypical? Christ himself gave the answer when he said, “That whosoever believeth in him should not perish, but have eternal life.” (John 3: 15) The key-word in this text is BELIEVETH. In other words what is required is belief or faith in Jesus Christ.
+        As a matter of fact, Jesus Christ told Thomas one of his apostles: “Ye believe because you have seen me. Blessed be those who believe though they have never seen me.” (John 20: 29 – Moffatt) What is more, St. Paul stated: “For we walk by “faith, not by sight.” – 2 Corinthians 5: 7.
+        So today, the benefits of Christ’s redemption and his salvation are obtainable]e only on the condition that we BELIEVE in him. “He that believeth on the Son (Jesus) hath everlasting life: and he that believeth not the Son shall not see life: but the wrath of God abideth on him.” John 3: 36.
+        However, we must not deceive ourselves in thinking that our mere belief in Jesus Christ while we wallow in sins, indulging in sinful lusts of the eyes and flesh, or when we worship him loosely, will save us. IT WILL NOT. It is when we have IMPLICIT FAITH in and LOVE for him, which will make us keep his commandments unhesitatingly, accept his true doc- trines and abide in the Church organization which preaches his TRUTH unadulteratedly, that we are qualified to claim to have looked to or accepted Christ. – Matthew 7: 21; Luke 6: 46-49; John 14: 15, 21-25; 8: 31-32, 36.
+        
+        Exalted Jesus
+        
+        The position of Jesus Christ among the creation of God is unique-it is a position of honour, glory and pre-eminence. We must therefore accept him as our Saviour and exercise implicit faith in him as such.
+        Peter the apostle, addressing the council of the Jews, spoke of the greatness of Jesus Christ when he quoted the Hebrew Scriptures which today is called the Old Testament, to wit: “This is the stone which was set at nought of you builders, which is become the head of the corner.” And he added: “Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.”- Acts 4: 10-12.
+        Concerning the exaltation of Jesus Christ, St. Paul also wrote: “Wherefore God also hath highly exalted him (Jesus), and given him a name which is above every name: that at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.”- Philippians 2: 9-11.
+        Furthermore, St. Paul gave an exhortation to the Hebrew Christians, which, in fact, is directed to every true disciple of Jesus Christ throughout the Christian era. He warned that in running the race of life, we as Christians must put away sin and divest ourselves of the burdens of the world that would impede our spiritual progress. He then admonished, “And let us run with patience the race that is set before us, looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.”– Hebrews 12: 1,2.
+        In the light of the Scripture texts clearly explained in this sermon, we are not left in doubt that our salvation is in our hands. Therefore, “work out your own salvation with fear and trembling.” – Philippians 2: 12.`,
         BibleQuiz:[
           {
-            key:1,
-            explaination: "Because is Create the Heaven and Earth according Gen 2 vs 3",
-            Question: "What do we Understand by the The brazon sepent one",
-            options:[
-                {answer:"brazon sepent one", isCorrect:false, key:1},
-                {answer:"brazon sepent two", isCorrect:false, key:2},
-                {answer:"brazon sepent three", isCorrect:true, key:3},
-                {answer:"brazon sepent four", isCorrect:false, key:4},
-            ]
+            explaination: `The story of the Brazen Serpent in the Bible tells of the time when the Israelites were punished by God with deadly snakes because of their faithlessness and blasphemy. After repenting and asking for help, God commanded Moses to create a serpent of brass and set it up on a pole so that those who were bitten by the snakes could look at it and be healed. This story has significant spiritual meaning and is seen as a foreshadowing of the salvation of God that would come to all repentant sinners through Jesus Christ as of grace. It also teaches that men must take responsibility for their own sins and troubles, and look to God for help and deliverance. Ultimately, the story points to Jesus Christ as the ultimate source of salvation and eternal life.`,
+            Question: "What is the significance of the Brazen Serpent story in the Bible?",
+        
 
           },
           {
-            key:2,
-            explaination: "Because is Create the Heaven and Earth",
-            Question: "What do we Understand bysd the The brazon sepent two",
-            options:[
-                {answer:" brazon sepent one", isCorrect:false, key:1},
-                {answer:" brazon sepent two", isCorrect:false, key:2},
-                {answer:" brazon sepent three", isCorrect:true, key:3},
-                {answer:" brazon sepent four", isCorrect:false, key:4},
-            ]
+
+            explaination: ` The incident of the brazen serpent in the Bible refers to the time when God sent poisonous snakes to attack the Israelites who were complaining and speaking against God. When the Israelites repented and asked Moses to pray for them, God instructed Moses to make a serpent of brass and put it on a pole so that whoever looked upon it after being bitten would live.`,
+            Question: "What was the incident of the brazen serpent in the Bible? ",
+        
 
           },
+          {
+
+            explaination: `God sent fiery serpents among the Israelites because they sinned against Him by speaking against Him and against Moses. This was a serious offence, and the serpents were sent as a punishment.`,
+            Question: " Why did God send fiery serpents among the Israelites?",
+        
+
+          },
+          {
+
+            explaination: `The experience of the Israelites and the brazen serpent teaches us several lessons. First, we should not blame God for our troubles, as many of them may be the result of our own sins or the work of the devil. Second, we should repent when we sin and turn to God for forgiveness and mercy. Third, we should look to Jesus Christ as the Mediator through whom we can obtain eternal life in God's Kingdom.`,
+            Question: "What can we learn from the experience of the Israelites and the brazen serpent? ",
+
+          },
+          {
+            
+            explaination: `Moses was a prophet and leader of the Israelites. His role in the incident of the brazen serpent was to pray for the Israelites and to make the serpent of brass and put it on a pole as instructed by God. He was known for his godly disposition, kind-heartedness, and humility.`,
+            Question: "Who was Moses and what was his role in the incident of the brazen serpent? ",
+        
+
+          },
+          {
+          
+            explaination: `The brazen serpent was a type or symbol of Jesus Christ, who would be lifted up on the cross as a propitiation for the sins of mankind. Just as those who looked upon the brazen serpent were healed of their snake bites, so those who believe in Jesus Christ will be saved from sin and death. The brazen serpent also teaches us about the mercy and grace of God, who provided a way for the Israelites to be saved despite their sin and rebellion.`,
+            Question: "What is the significance of the brazen serpent? ",
+        
+
+          },
+          {
+            explaination: `The Israelites went to Moses and confessed their sin of speaking against God and asked him to pray to God to take away the serpents from them.`,
+            Question: "What did the Israelites do after they were bitten by the serpents? ",
+          },
+          {
+            explaination: `God instructed Moses to make a fiery serpent of brass and set it upon a pole. Whoever was bitten by a serpent and looked at the serpent of brass would live.`,
+            Question: "What did God instruct Moses to do to save the people from the venomous snakes? ",
+          },
+          {
+            explaination: `According to the text, some people blame God for their troubles and misfortunes despite the fact that such situations may be of their own making. This could be due to a lack of understanding of the true nature of God and His role in their lives. Additionally, the devil may take advantage of human weaknesses and bring tribulations upon us, which some may mistakenly attribute to God.`,
+            Question: "Why do some people blame God for their troubles and misfortunes? ",
+          },
+          {
+            explaination: `Moses played a crucial role in the Brazen Serpent incident. He interceded on behalf of the Israelites when they repented and asked him to pray for them. He also obeyed God's instruction to make a serpent of brass and set it on a pole so that whoever looked at it would live.`,
+            Question: "What was Moses' role in the Brazen Serpent incident? ",
+          },
+          {
+            explaination: `God could have easily removed the serpents from the Israelites, but He chose not to. Instead, He made the serpent of brass as a symbol of His power to heal and save. This was to remind the Israelites of their sin and also to teach them to look to God for salvation in times of trouble.`,
+            Question: "Why did God not just remove the serpents from the Israelites instead of making the serpent of brass? ",
+          },
+          {
+            explaination: `Our troubles and tribulations are often due to our own sins or the devil taking advantage of our weaknesses. We should not blame God for our problems but should seek His help and guidance in overcoming them.`,
+            Question: "Who is responsible for our troubles and tribulations? ",
+          },
+          {
+            explaination: `Isaiah 45:22 says, "Look unto me, and be ye saved, all the ends of the earth: for I am God, and there is none else." The message of this verse is that we should look to God for salvation and trust in Him alone. He is the only true God, and there is no other.`,
+            Question: "What is the message of Isaiah 45:22? ",
+          },
+          {
+            explaination: `Propitiation refers to the act of appeasing or satisfying the wrath of God. Jesus Christ's`,
+            Question: "What is propitiation? ",
+          },
+          {
+            explaination: `The Israelites spoke against God and against Moses, complaining about their conditions and expressing their lack of faith.`,
+            Question: "What was the sin of the Israelites that led to the plague of serpents? ",
+          },
+          {
+            explaination: `We should repent of our sins and turn to God in faith and obedience, trusting in Jesus Christ for our salvation.`,
+            Question: "What lesson can we learn from the Israelites' experience with the brazen serpent? ",
+          },
+          {
+            explaination: `The brazen serpent was a symbol of God's grace and mercy, as the Israelites did not deserve to be saved from the serpents but were saved through faith in God's provision.`,
+            Question: "How does the story of the brazen serpent relate to the concept of grace? ",
+          },
+          {
+            explaination: `The serpent was a symbol of sin and death, and the brass serpent represented the defeat of sin and death through faith in God's provision.`,
+            Question: "Why did God choose a serpent as the symbol for the brass sculpture? ",
+          },
+          {
+            explaination: `The brass serpent was a type of Christ, pointing forward to his death on the tree as the means of salvation for all who believe.`,
+            Question: "How does the story of the brazen serpent relate to other Old Testament prophecies of the Messiah? ",
+          },
+          {
+            explaination: `The serpent bites were a consequence of their sin and rebellion, and God used this punishment to bring them to repentance and faith.`,
+            Question: "Why did God allow the Israelites to suffer from the serpent bites? ",
+          },
+          {
+            explaination: `The serpent bites represent the deadly effects of sin, and the brass serpent represents the salvation that comes through faith in God's provision.`,
+            Question: "How does the story of the brazen serpent illustrate the nature of sin and salvation? ",
+          },
+          {
+            explaination: `Faith was required for the Israelites to be healed from the serpent bites, and faith in Jesus Christ is required for salvation from sin and death.`,
+            Question: "What is the importance of faith in the story of the brazen serpent? ",
+          },
+          // {
+          //   explaination: ``,
+          //   Question: " ",
+          // },
+          // {
+          //   explaination: ``,
+          //   Question: " ",
+          // },
+          // {
+          //   explaination: ``,
+          //   Question: " ",
+          // },
+       
         ]
 
     },
-// next two
+
 
 ]
 

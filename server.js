@@ -23,6 +23,9 @@ connectDB()
 app.use(express.json())
 
 
+
+
+
 app.use('/', DailyDevotional)
 app.use('/', BibleQuiz)
 app.use('/', MelodyRouter)
@@ -41,6 +44,15 @@ app.get('/state',(req,res)=>{
     
 })
 
+
+app.get('/testing',(req,res)=>{
+    axios.get('https://6270020422c706a0ae70b72c.mockapi.io/lendsqr/api/v1/users')
+.then((response)=>{
+    res.send(response.data[0])
+})
+.catch((err)=>{ console.log(err)})
+
+})
 
 app.get('*',(req,res)=>{
     res.send('page was not found')

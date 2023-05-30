@@ -1,7 +1,7 @@
 const BibleQuiz = [
   {
     key: 1,
-    Categories: `CAN CHRISTIANS JUDGE ONE ANOTHER?`,
+    Categories: `CAN CHRISTIANS JUDGE ONE ANOTHER??`,
     content: `THAT it is virtually impossible to preach the truth of the gospel of Christ without condemning evil or exposing falsehood is an indisputable fact. Any preaching, therefore, that does not come in conflict with the works of error is not the gospel of Jesus Christ.
     In any issue on which opinions of men differ from one another the reasonable thing to do in order to resolve it is to resort to an authority upon which all can safely rely. If it is a matter in a court of justice and a point of law is involved, a legal authority must be found in order to decide as to which of the divergent views is right. So too if it is a matter about the Christian faith, doctrine or principle, we must depend on the Holy Bible for a solution.
     The mistake many people make is that they are too prone to rush into conclusions on spiritual matters about which personal opinions are of no consequence. They do not care to ascertain as to whether the view they hold is in accord with the Word of God. It was King Solomon who said: “Trust in the Lord with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths. Be not wise in thine own eyes…” – Proverbs 3:5-7.

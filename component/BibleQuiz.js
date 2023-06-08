@@ -244,9 +244,6 @@ This is the time therefore for all men of goodwill to demonstrate their faith in
     ]
 
   },
-
-
-
   {
 
     Categories: "The brazon sepent",
@@ -402,6 +399,150 @@ This is the time therefore for all men of goodwill to demonstrate their faith in
       // {
       //   explaination: ``,
       //   Question: " ",
+      // },
+      // {
+      //   explaination: ``,
+      //   Question: " ",
+      // },
+      // {
+      //   explaination: ``,
+      //   Question: " ",
+      // },
+
+    ]
+
+  },
+  {
+
+    Categories: "RESURRECTION",
+    content: `AMONG the promises of God Almighty, that of the resurrection of the dead is one of the most outstanding showing the greatness of His power and His good purpose towards mankind. It is the pivot upon which rests the hope of Christians concerning the dead, and if not for this hope man cannot count himself as anything better than a beast.
+    Resurrection means a rising from the dead, or the act of bringing back to life. It is one of the fundamental doctrines of the Christian faith in the Holy Bible.
+    When Adam sinned the sentence of death was passed u p o n him by God. Consequently, his offspring having been born in sin were declared guilty and thus death, which is the penalty of sin, was brought upon the entire human race.-Gen. 3: 17-19; Rom. 5: 12-19; 6- 23.
+    To think that this world will continue in sin under the wicked overlordship of the devil forever, is ignorance of the divine purpose. God had promised to set up a new order of things both in heaven and earth-the New World now in the making -in which there shall be nothing evil. Concerning this grand arrangement of God, St. Peter declared: "Nevertheless we, according to His promise, look for new heavens and a new earth, wherein dwell- eth righteousness."'- 2 Peter 3: 13.
+    The Lord's Promise
+    In order that His faithful worshippers who have died may have the golden opportunity of enjoying the bliss of that New World-THE WORLD WITHOUT END- as a reward of their loyalty and services, God promised not only to redeem man from the power of the grave by the resurrection of the dead but also to bring death to an end. He declared: "I will ransom them from the power of the grave: I will redeem them from death: 0 death, I wilI be thy plagues; 0 grave, I will be thy destruction: repentance shall be hid from mine eyes."- Hosea 13: 14.
+    The ancient faithful before Christ built their hope upon the Lord's promise. They knew that death was just a temporal state which could not bar them from coming back to receive their reward from God at His appointed time.
+    Job, a prophet of God, who underwent fiery temptations at the instance of the devil, spoke of the g r a v c as a biding place and hoped earnestly for the time when God would being about his change at the resurrection. He said: "O that Thou wouldest bide me in the grave, that Thou wouldest keep me secret, until Thy wrath be past, that Thou wouldest appoint me a set time, and remember me!" (Job 14. 13) He asked, "If a man die, shall he live again?" Yes, of course. He then went on, "All the days of my appointed time will I wait, (in the grave) till my change come. Thou (God) shalt call, and I will answer Thee: Thou wilt have desire to the work of Thine hands." (Verses 14 and 15)
+    Job did not stop at this, for the Spirit of God further moved him into a more positive, prophetic declaration of his belief, thus: "For I know that my redeemer iiveth, and that he shall stand at the latter day upon the earth: and though after my skin worms destroy this body, yet in my flesh shall I see God ...... -Job 19: 25-27.
+    There is also the instance of the Prophecy of Isaiah concerning the resurrection of the dead. He said: "Thy dead men shall live, together with my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew is as the dew of herbs, and the earth shall cast out the dead."- Isa. 26-19.
+    That children are also among those to be raised from the dead is a fact having concrete support of the Scriptures. When Herod, the wicked king, massacred innocent children in Bethlehem in his attempt to kill the infant, Jesus, God comforted the bereaved with the assurance that their children would come to life again from the grave termed "the land of the enemy" in fulfilment of His prophecy re- corded in Jeremiah 31: 15-17. See also Matt. 2: 13-18.
+    When Jesus Christ came to this earth he confirmed in his teachings that resurrection is a reality. There was an occasion when he crossed swords with the Sadducces on the question of resurrection and defeated them. The Sadducces did not believe in resurrection, and so they asked him: "Master, Mosses said, 'If a man should die childless, his brother shall marry the widow and carry on his brother's family.' Now we knew of seven brothers. The first married and died, and as he was without issue his wife was left to his brother. The same thing; happened with the second, and the third, and so on with all
+    
+    seven. Last of all the woman died. At the resurrection, then, whose wife will she be, for they had all married her?"-Matt. 22: 23-28; New English Bible
+    In his answer, Jesus told them point- blank: "You are mistaken, because you know neither the scriptures nor the power of God. At the resurrection men and women do not marry, but are like angels in heaven.'@-Matt. 22: 29, 30, N. k. B.
+    Keys of Hell
+    Jesus Christ even made it known that he is the one whom the Heavenly Father had vested with the power to raise the dead. He said: "For as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom be 'Will. Verily, verily, I say unto you, the hour is coming, and now is, when the dead shall bear the voice of the Son of you: and they that bear shall live." (John 5- 21, 25-27) -A hat was why he told Martha: "I am the resurrection, and the life: be that believeth in me, though he were dead, yet shall he live." -John 11: 25.
+    He showed an example of the power when Lazarus who had died and had already been four days in the tomb, was raised to life by him.-John 11: 32-45.
+    The devil caused Jesus Christ to be killed by wicked men with the intent, no doubt, to defeat the all-important purpose of God. But the Most High, in exercise of His infinite power, raised him from the dead the third day and crowned him with power, glory and honour. Jesus himself declared: "I am he that liveth, and was dead; and, behold, I am alive for ever- more, Amen, and have the keys of bell and of death." (Rev. 1: 18) The "keys" in this context are, symbolic of the power or authority to release the dead from "hell", that is, the grave; and put an end to death.
+    The resurrection of Jesus Christ was a clear demonstration of the certainty of God's promise as regards the rising again of the dead, and has strongly enlivened the hope of all Christians.-I Pet. 1: 3.
+    In defense of the Christian faith, the early apostles preached the resurrection from the dead. (Acts 4: 1-4; 17: 18) Because of St. Paul's belief and teaching about it, he suffered persecutions and prosecutions at the hands of the unbelieving J e w a - When he was indicted before king Agrippa he declared: "And now I stand and am judged for the hope of the promise made of God unto our fathers; u n to which promise our twelve tribes,
+    
+    instantly serving God day and night, hope to come. For which hope's sake, King Agrippa, I am accused of the Jews." He then asked, "Why should it be thought a thing in- credible with you, that God should raise the dead?"-Acts 26: 6-8.
+    Indisputable Fact
+    St. Paul, in his first epistle to the Corinthians, stated that if there was no resurrection then all the preaching and sufferings of Christians were vain. He added: "For if the dead rise not, then is not Christ raised. If Christ be not raised, your faith is vain; ye are yet in your sin..., If in this life only we have hope in Christ, we are of all men most miserable." He proved clearly that resurrection is an indisputable fact. - I Cor. 15: 12-33.
+    For anyone, therefore, to have doubt about the possibility of resurrection is an evidence of lack of faith. It was from the dust of the ground God made man, and if man turns, to dust again there is no reason why it should be considered an impossibility for God to bring him back to life.
+    But some may ask, "How are the dead raised? And what kind of body will they have?" To such questions St. Paul gave an illustrative answer to the effect that the seed you sow in the ground does not grow into a plant unless it "dies" first. And when the green shoot comes up out of the seed, it is very different from the seed you first planted. For what you sow is just a dry little seed, perhaps of wheat, or some other kind. "But God giveth it a body as it bath pleased Him, and to every seed his own body ... So also is the resurrection of the dead", said St. Paul. "It is sown in dishonor; it is raised in glory: it is sown in weakness; it is raised in power.' I Cor. 15: 35-43.
+    One salient point which some people seldom consider is that it is not only the righteous that will be resurrected but the wicked as well. And everyone will be rewarded by God according to his works good or bad. It is an understanding of these Scriptural facts that leave always made the true worshippers of God to be zealous and steadfast in their faith not- withstanding the threats of death by the wicked. They know that even if they are killed because of their conviction God will raise them from the dead to glory in due course. So, too, a wicked man who escapes punishment in this life will come again to face the consequences of his actions.
+    While some at the resurrection, will be rewarded abundantly with everlasting blessings, others will be punished and covered with shame. Concerning this Daniel, under the
+    
+    inspiration of the Al- mighty God, prophesied: "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt."-Dan. 12: 2.
+    First Resurrection
+    The order and classification of resurrection are shown in the Scriptures. St. Paul stated: "But every man in his own order: Christ the firstfruits; after-ward they that are Christ's at his coming." (I Cor. 15: 23)
+    There is the first resurrection which is that of Jesus Christ and the Saints who the Anointed Christians are numbering 144,000. Among the disciples of Jesus the anointed ones are the first class. They constitute the "Little Flock" of which the twelve apostles were foundation members. (Luke 12: 32; Jas. 1: 18) They die in the flesh but they are raised as spirits like Jesus to dwell in heaven-the New Heaven-and reign with Christ in his glorious Kingdom.-I Pet. 3: 18; 2 Car. 5: 1-4.
+    When St. Paul stated, "It is sown a natural body; it is raised a spiritual body" (I Car. 15: 44) he was referring to the death and resurrection of those of the "Little Flock" of which he is one. And he added; "And as we have borne the image of the earthy, we shall also bear the image of the heavenly. Now this I say, brethren, that flesh and blood cannot inherit the Kingdom of God; neither doth corruption inherit incorruption."- I Car. 15: 49, 50.
+    The Scriptures show vividly that it -is at the second presence of Jesus Christ in the last days that the first resurrection would take place. (John 14: 1-3; I Cor. 15: 44-57; 2 Tim. 4: 6-8; Phil. 3: 20; 1 Them. 4: 16; Rev. 20: 4-6, etc.) This is already fulfilling but being events of a spiritual nature -many people including religious leaders and theologians do not know.
+    Better Resurrection
+    
+    The faithful men and women of old before Christ will have their part in what St. Paul described as a "better resurrection". (Heb. 11: 4-40) They will all be raised from the dead to dwell on this earth, not in heaven, to receive their reward. Concerning them, St. Paul wrote: "Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions, quenched the violence of fire, escaped the edge of the sword, ,out of weakness were made strong, waxed valiant in fight, turned to fight the armies of the aliens. Women received their dead raised to life again: and others were tortured, not accepting deliverance; that they might obtain a better resurrection." -Heb. 11: 33-35.
+    What a wonderful, glorious and happy occasion it will be when those great just men and women will come back from "the land of the enemy" and team up with the faithful Christians on earth! But with the enemies of truth and righteousness, shame, wailing and torment will be their portion. Jesus Christ, knowing this, spoke of how there would be weeping and gnashing of teeth when those who falsely claim God's Kingdom would be driven out of it while the true Christians from all comers of the earth would be in it with Abraham and other ancient worthies who shall have then been resurrected.-Matt. 8: 11, 12; Luke 13: 28, 29.
+    General Resurrection
+    Finally, there will be a general resurrection during which all the remaining good people as well as bad ones will find their feet on earth again. The good will be rewarded with everlasting life in perfect peace and happiness in paradise on earth while the bad ones will be judged and punished according to their sins, Concerning this Jesus said: "Wonder not at this; for the hour is coming in the all that are in the grave shall hear the voice of the Son of God. And they that have done good things shall come forth onto the resurrection of life; but they that have done evil, unto the resurrection of judgment."-John 5: 28, 29, (Douay Version)
+    What is more, St. Paul confessed his faith about resurrection before Felix and said among other things: "But this I confess unto thee, that after the way which they call heresy, so worship I the God of my fathers, believing all things which are written in the law and in the prophets: And have hope toward God, which they themselves also allow, that there shall be a resurrection of the dead, both of the just and unjust."- Acts 24: 14, 15.
+    Great Comfort
+    It is because of this glorious hope of the resurrection of the dead, which is a great comfort to those having its understanding, true Christians do not mourn for the dead like the pagans who have no hope. To this end Paul the apostle, gave this exhortation: "But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope. For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him. Wherefore comfort one another with these words."-l Thess. 4: 13, 14, 18.`,
+    BibleQuiz: [
+      {
+        explaination: `And as we have borne the image of the earthy, we shall also bear the image of the heavenly." - 1 Corinthians 15:49`,
+        Question: "What is the fate of the anointed ones in the first resurrection?",
+      },
+
+
+      {
+        explaination: `Nevertheless we, according to His promise, look for new heavens and a new earth, wherein dwelleth righteousness." - 2 Peter 3:13`,
+        Question: `What is the significance of the resurrection in Christianity?`,
+      },
+
+      {
+        explaination: `Therefore, just as sin entered the world through one man, and death through sin, and in this way death came to all people, because all sinned." - Romans 5:12`,
+        Question: `What was the consequence of Adam's sin for humanity?`,
+      },
+
+      {
+        explaination: `For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth: and though after my skin worms destroy this body, yet in my flesh shall I see God." - Job 19:25-26`,
+        Question: `What did Job hope for in relation to the resurrection? `,
+      },
+
+      {
+        explaination: `You are mistaken because you do not know the Scriptures or the power of God. At the resurrection, people will neither marry nor be given in marriage; they will be like the angels in heaven." - Matthew 22:29-30`,
+        Question: `How did Jesus defeat the Sadducees' disbelief in the resurrection? `,
+      },
+
+      {
+        explaination: `For as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom he will." - John 5:21`,
+        Question: `By whose power was Jesus raised from the dead? `,
+      },
+      {
+        explaination: `Praise be to the God and Father of our Lord Jesus Christ! In his great mercy, he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead." - 1 Peter 1:3`,
+        Question: `What is the significance of Jesus' resurrection for Christians? `,
+      },
+      {
+        explaination: `Why should it be thought a thing incredible with you, that God should raise the dead?" - Acts 26:8`,
+        Question: `How did Paul defend the hope of resurrection? `,
+      },
+      {
+        explaination: `And if Christ has not been raised, your faith is futile; you are still in your sins. If only for this life we have hope in Christ, we are of all people most to be pitied." - 1 Corinthians 15:17-19`,
+        Question: `What did Paul say about the necessity of resurrection for Christian faith? `,
+      },
+      {
+        explaination: `It is sown a natural body; it is raised a spiritual body." - 1 Corinthians 15:44`,
+        Question: `How does Paul describe the transformation of bodies in the resurrection? `,
+      },
+      {
+        explaination: `Bible quotation: "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt." - Daniel 12:2
+        `,
+        Question: `Will both the righteous and the wicked be resurrected? `,
+      },
+      {
+        explaination: `Bible quotation: "But every man in his own order: Christ the firstfruits; afterward they that are Christ's at his coming." - 1 Corinthians 15:23`,
+        Question: `What is the order of resurrection mentioned by Paul? `,
+      },
+      {
+        explaination: `Bible quotation: "And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand, having his Father's name written in their foreheads." - Revelation 14:1`,
+        Question: `Who are the participants in the first resurrection? `,
+      },
+      {
+        explaination: `Bible quotation: "And as we have borne the image of the earthy, we shall also bear the image of the heavenly." - 1 Corinthians 15:49`,
+        Question: `What is the fate of the anointed ones in the first resurrection? `,
+      },
+      {
+        explaination: `Bible quotation: "That they might obtain a better resurrection." - Hebrews 11.`,
+        Question: `How does the resurrection affect the faithful men and women of old? `,
+      },
+      {
+        explaination: `The resurrection of Jesus is primarily attested through the accounts in the New Testament Gospels (Matthew, Mark, Luke, and John). These accounts describe Jesus appearing to his disciples after his crucifixion and burial. Additionally, early Christian writings, such as the letters of Paul and other apostles, also mention the resurrection and the eyewitnesses who saw Jesus alive. The transformation of the disciples from fearful and discouraged to bold proclaimers of the resurrected Christ is considered by many as evidence for the reality of the resurrection.`,
+        Question: `What evidence is there for the resurrection of Jesus? `,
+      },
+      // {
+      //   explaination: ``,
+      //   Question: ` `,
+      // },
+      // {
+      //   explaination: ``,
+      //   Question: ` `,
+      // },
+      // {
+      //   explaination: ``,
+      //   Question: ` `,
       // },
       // {
       //   explaination: ``,

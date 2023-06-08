@@ -245,7 +245,7 @@ This is the time therefore for all men of goodwill to demonstrate their faith in
 
   },
   {
-
+    key: 3,
     Categories: "The brazon sepent",
     content: `THE BRAZEN SERPENT
         THE salvation of God that would come to all repentant sinners through  Jesus Christ as of grace was, since the days of Moses the prophet, typified by a very significant incident when a serpent of brass was set up for the Israelites.
@@ -413,7 +413,7 @@ This is the time therefore for all men of goodwill to demonstrate their faith in
 
   },
   {
-
+    key: 4,
     Categories: "RESURRECTION",
     content: `AMONG the promises of God Almighty, that of the resurrection of the dead is one of the most outstanding showing the greatness of His power and His good purpose towards mankind. It is the pivot upon which rests the hope of Christians concerning the dead, and if not for this hope man cannot count himself as anything better than a beast.
     Resurrection means a rising from the dead, or the act of bringing back to life. It is one of the fundamental doctrines of the Christian faith in the Holy Bible.
@@ -552,6 +552,111 @@ This is the time therefore for all men of goodwill to demonstrate their faith in
       //   explaination: ``,
       //   Question: " ",
       // },
+
+    ]
+
+  },
+  {
+    key: 5,
+    Categories: "THE LAST DAY",
+    content: `NO period in all the history of the world is an eventful as the age known in the Holy Scriptures as “the last day”. It is a time or period of transition from the old order of things of this evil world to the new in God's purpose. And because of the vital importance of the time or period a signified in prophecy, the ancient faithful as the early disciples of Jesus Christ looked forward to “the last day” in earnest.
+    According to the Bible the last day is the last period or age of Satan's wicked rule over the earth. Job referred to it as "the latter day" when he declared: "For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth."-Job. 19: 25.
+    The Kingdom of God symbolically called Mountain, which Christ taught his disciples to pray for, had been scheduled to be set up in the last days. As it is written: "And it shall come to pass in the last days, that the mountain of the LORD'S house shall be established in the top of the mountains, and it shall be exalted above the hills; and all nations shall flow unto it” -------- Isa. 2:2.
+    The same period was termed "the time of the end" in Daniel 12: 9. And Jesus Christ spoke of it as "the end of the world." (Matt. 13: 39) After Lazarus, the brother of Martha and Mary, had died and had already been laid in the grave four day", Jesus went to Bethany and assured Martha that her brother would rise again. But Martha in answer said: "I know that he shall rise again in the resurrection at the last day."
+    (John 11: 11-24) However, the raising of Lazarus to life by the Messiah on that very occasion has become a historical reality of his mirac1es on earth.
+    And Jesus said: "He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him m the last day."-John 12: 48.
+    An Age
+    Some people have a very wrong notion of the last day. They say that it is one particular day of a few hours in which Christ will come to take all the righteous to heaven and punish the wicked.
+    As we have already indicated, the last day is not a day of 24 hours but an age-a period, according to the Scriptures, of about 1,000 years. That a thousand years are taken to be a day by God should not be a surprise to anyone who understands that He lives from eternity to eternity. The Psalmist declared:” A thousand years in Thy sight are but as yesterday when it is past, and as a watch in the night."-Ps. 90: 1-4.
+    Moreover, St. Peter wrote: "But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day."- 2 Peter 3: 8.
+    The next point we wish to touch upon is the question whether we are now in the last day or end of the world. There are many professed Christians who are of the view that the last day has not come and so they are waiting for it. Some others think that the day is already here but for fear of committing themselves or of being stigmatised as date-setters, they equivocate.
+    Rev. Billy Graham of America is an evangelist whose activities have captured the headlines of world press. But we had an occasion, when he visited Nigeria in 1960, to draw his attention, in an open letter, to certain questionable points in his teachings. In one of his hour-of-decision pamphlets, titled, The Second Coming A Glorious Truth, he wrote: "And I sincerely believe, if I can study the Scriptures aright and read current events and keep up with my current reading, that we are living in the latter days... In Ezekiel 38 and 39 we have an indication that it is speaking of Russia and the rise of Russia in the latter days; and this tremendous spiritual power called Communism, such as the world has never seen in all of history, seems to me to be an indication from Scripture that we may be in the latter days. And then there is the atomic bomb which I believe is predicted in 2 Peter, the third chapter. The entire chapter has to do with the destructive power of the bomb giving indication that it may be the latter days."
+    After stating the foregoing as his interpretation of the prophecies he referred to he added: "I am not saying these are the latter days-don't misunderstand me, I am setting no dates. I say these signs indicate that it may be the latter days in which we are living."
+    We cannot appreciate why the reverend gentleman could not be categorical on an issue in which fulfillment of prophecies confirmed his conviction. The Christian principle in relation to the propagation of the gospel is one that disfavors an ambiguous blend of yes and no. Forth-rightness and unequivocation are among the qualities exhibited by the early Christians. - 2 Cor. 1: 18-21.
+    Signs of the Times
+    Having carefully and prayerfully studied the signs of the times, which have fulfilled prophecies of the Holy Bible, we have no doubt in our minds that we are in the last day otherwise known as the
+    
+    end of the world. The increase of knowledge and travel is but a sign of the last day. God said to Daniel: "But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased."-Dan. 12: 4.
+    That knowledge-both the knowledge of good and that of evil-has for the past few decades increased tremendously no one can dispute. By reason of the advance in science and technology man is said to have become an "intellectual giant". Travelling is a frequent and common practice in the modern world. Not only has it been made easy but it has also been made exceedingly fast.
+    The prophet Daniel further stated: "And I heard, but I understood not: then said I, O my Lord, what shall be the end of these things? And He (God) said, Go thy way, Daniel: for the words are closed up and sealed till the time of the end. Many shall be purified, and made white, and tried; but the wicked shall do wickedly: and none of the wicked shall understand; but the wise shall understand."-Dan. 12: 8-10.
+    We have seen in this our age men who give themselves to righteousness and whose works prove clearly that they are the vessels of God. Their understanding of the purpose of God has been manifest in their preaching of the truth of the gospel without adulteration. On the other hand, the wicked continue to intensify their onslaught on virtues of faith, charity, chastity, obedience and honour. And because of their evil disposition they are blind to the divine purpose. The fulfilment of God's prophecy as stated by Daniel clearly leads to the conclusion that these are "the latter days".
+    When Jesus Christ was on earth he told his disciples many things in regard to the last days. On one occasion when he sat on the Mount of Olives, they went to him privately and asked: "Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?
+    Jesus Christ began his answer with a warning: "Take heed that no man deceive you. For many shall come in my name, saying, I am Christ; and shall deceive many. And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet."-Matt.
+    24: 3-6.
+    Here Jesus Christ clearly indicated that false prophets would be in the world even before the end of the world though he showed in other verses later that they would be on the increase in the last days. We bring this point to view so that people may not think that long existence is the mark of the true Church.
+    Now, in giving the answer as to what signs would mark the end of the world, Jesus Christ said: "For nation shall rise against nation, and kingdom against kingdom: and there shall be famines,
+    
+    and pestilences, and earthquakes, in divers places. All these are the beginning of sorrows. " -Matt. 24: 7, 8.
+    This prophecy of Jesus Christ began to be fulfilled in 1914 when nation rose against nation, and kingdom against kingdom in World War I. This was a remarkable event which marked a turning- point in world history. Before this time as Christ truly foretold, there had been wars-the Hundred Years' War, the Wars of the Roses, the Thirty Years' Religious War, and so On. But none of them was comparable to the war of 1914-1918, though some of the previous ones took longer periods.
+    It is on record that the global war was immediately followed by an unprecedented epidemic-the Spanish Influenza-and also by a time of hunger while earthquakes ravaged different parts of the world. Jesus said that all those were "the beginning of sorrows". In fact, since that time the world at large has known no peace. All the efforts of men to establish peace on earth have always proved a failure. Yes, God's word is true. Jesus himself said: "Heaven and earth shall pass away, but my words shall not pass away."-Matt. 24: 35. The fulfilment of the prophecy of Jesus Christ as herein explained is an indisputable proof that we are now in the last days or end of the world. The devil is very active these days and he is using men to foster his cause of unrighteousness. This is evident from the turbulent state of the world.
+    Dangerous Time
+    St. Paul described the last day as a dangerous time and showed how evil will be rampant in confirmation of previous prophecies. He stated: "This know also, that in the last days perilous times shall come. For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy, without natural affection, truce-breakers, false accusers, incontinent, fierce, despisers of those that are good, traitors, heady, high minded, lovers of pleasures more than lovers of God; having a form of godliness, but denying the power thereof: from such turn away."- 2 Tim. 3: 1-5.
+    Today, men all over the world are living in fear. They are uncertain as to what the future would bring. Through what the world acclaims as "science" the devil has placed in the hands of men lethal weapons by which they can exterminate not only all that civilisation has built but also themselves.
+    Mr. Butler, Britain's one-time Home Secretary, was once reported as saying: "The nuclear bomb hung like a terrible threat over everyone. I think that compared to the danger of the nuclear bomb these journeys to the moon are of no importance whatever. I do not go to the moon or round the sun. All I want is peace on this planet." (Vide the Daily Telegraph, Feb. 2, 1959.)
+    
+    Indeed, the "perilous times" are now here. And what again do we see in the characters of men? Selfishness-with the result that there are many people whose love centres only on themselves and their money; many people are swollen with self-importance and there are those who even boast of what they are unable to attain; blasphemies are the stock-in-trade of godless idiots; and the disobedience of children to parents has become a common feature of the modern world.
+    When one shows kindness to certain people the only reward one gets from them is ingratitude. Many people have grown hard-hearted, having no feeling for their neighbours. There are those who are constant liars, bearing false witness against their fellowmen without any prick of conscience; there are also troublemakers who have not the knack to observe the terms of any written agreement.
+    As a matter of fact, every word of St. Paul's description of the behaviours of men is being fulfilled even to the letter in these days. The tide of immorality continues to rise higher and hi8her, and men put pleasure in the place of God. They consider two hours for worship in the church house to be too long and boring, but they can spend a whole night-from dusk to dawn-in giving vent to their wayward impulses. And though they look dejected the following morning, they do not complain. Yes, all these are the signs of the times. And St, Paul truly added: "But evil men and seducers shall wax Worse and worse, deceiving, and being deceived.” -2 Tim. 3: 13.
+    In the face of all the physical facts in fulfilment of prophecies, as shown in this Sermon, it is only the sceptic that will still be in doubt of or speak contemptuously about the truth of God's word that we are living in the last days. The fact that such doubtful men or unbelievers are found among men today is also an evidence of the last days. Said St. Peter: "Knowing this first, that there shall come in the last days scoffers, walking after their own lusts, and saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation,"-2 Peter 3: 3,4.
+    Important Events
+    A number of important events are purposed to take place in the last days. They include the Second Presence of Jesus Christ, the resurrection of dead saints, the establishment of God's Kingdom, the preaching of the everlasting gospel, the judgment of the living and the gathering of the Lord's sheep into God's Kingdom Fold! But the final end of the age would be marked by the Battle of the Great Day of God Almighty in which Satan the devil and all that answer to wickedness, visible and invisible, will be completely destroyed.
+    Any form of nuclear warfare is nothing to be compared to the battle of the Lord, Zephaniah the prophet described it as the "great day of the Lord, a day of wrath, a day of trouble and distress, a day of wasteness and desolation" when "the mighty man shall cry bitterly", Read about what God shall do at that time: "And I will bring distress upon men, that they shall walk like blind men,
+    
+    because they have sinned against the LORD: and their blood shall be poured out as dust, and their flesh as the dung. Neither their silver nor their gold shall be able to deliver them in the day of the LORD'S wrath; but the whole land shall be devoured by the fire of His jealousy: for He shall make even a Speedy riddance of all them that dwell in the land."-Zeph. 1: 14-18.
+    Concerning the Lord's anger that shall be poured On the wicked, Jesus Christ said' "For then shall be great tribulation, such as was not since the beginning of the World to this time, no, nor ever shall be."-Matt. 24: 21.
+    Every Christian that wants to be saved must be equipped with a good understanding of the signs of the times" and of the will of God; for it will certainly inspire his determination to meet the Lord's requirements. And St. Paul exhorted: "See then that ye walk circumspectly, not as fools, but as wise, redeeming the time, because the days are evil. Wherefore be ye not unwise, but understanding what the will of the Lord is. And be not drunk with wine, wherein is excess; but be filled with the Spirit."-Eph. 5: 15-18.
+    Many people are not thinking of or working towards their spiritual well-being. All they are concerned with are material possessions, money and the pleasures of sin which lead to death. But Jesus Christ warned: "And take heed to yourselves, lest at any time your hearts be over- charged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares. For as a snare shall it come on all them that dwell on the face of the whole earth. Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man."-Luke 21:34-36.
+    What is more, St. Peter admonished: "But the end of all things is at hand: be ye therefore sober, and watch unto prayer. "-1 Peter 4; 7.`,
+    BibleQuiz: [
+      {
+        explaination: `The last day is the last period or age of Satan's wicked rule over the earth.`,
+        Question: "What is the Last Day?",
+      },
+      {
+        explaination: `The last days, The end of the world, The latter day, Perilious time. The time of the end.`,
+        Question: `What are the other names the last day is called? `,
+      },
+      {
+        explaination: `The bibles says  that one day before God is as a thousand years  and a thousand years is as a day in the sight of God. Psalm 90:1-4, 2 Peter 3:8.`,
+        Question: `How do you Show from the Bible that the last day is not a day of 24 hours but a period or age? `,
+      },
+      {
+        explaination: `The global war of 1914-1918, where all the nations in the world where involved in the war as prophesied by Christ in Matt. 24:3,7,8. `,
+        Question: `What mark the beginning of this period called the Last Day? `,
+      },
+      {
+        explaination: `1. The first world war of 1914-1918. Matt. 24:3,7,8
+
+        2. Increase in knowledge and movements of people from one place to another. Dan. 12:4.
+        
+        3. The bad attitudes of man that will be in the increase as listed by St. Paul in 2 Tim. 3:1-5,13.
+        
+        4. People who make jest about God and things about God, including the coming of Christ. 2 Peter 3: 3,4.`,
+        Question: `What are the signs that we are now in the last day?`,
+      },
+      {
+        explaination: `1. The second presence of Christ
+        2. The resurrection of the dead Saints.
+        3. The establishment of God's Kingdom
+        4. The preaching of the everlasting gospel.
+        5. The judgement of the living.
+        6. The gathering of God's sheep into His Kingdom fold.
+        7. The Battle of of the great day of God Almighty.`,
+        Question: `What are the events God promised to do in this last days, being a period of time?`,
+      },
+      {
+        explaination: `The Battle of the great day of God Almighty.`,
+        Question: `What event will mark the end of this evil world called the last day?`,
+      },
+      // {
+      //   explaination: ``,
+      //   Question: ``,
+      // },
+      // {
+      //   explaination: ``,
+      //   Question: ``,
+      // },
+
 
     ]
 

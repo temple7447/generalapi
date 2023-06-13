@@ -411,6 +411,58 @@ This is the time therefore for all men of goodwill to demonstrate their faith in
         In the light of the Scripture texts clearly explained in this sermon, we are not left in doubt that our salvation is in our hands. Therefore, “work out your own salvation with fear and trembling.” – Philippians 2: 12.`,
     BibleQuiz: [
       {
+        explaination: `The Isrealites were plagued by God because they sinned against him by their abominable deeds and blasphemous words against God and Moses their leader. Numb. 21: 4-9.`,
+        Question: "Why were the Isrealites plagued with fiery serpents by God who brought them out of Egypt? ",
+      },
+      {
+        explaination: `God Almighty instructed Moses to make a serpent of brass and erected it on a pole for every bitten  by the snakes to look out , which signifies or fore-shadowed Jesus Christ whom God Almighty will send into the world for mankind to look to for Healing and Salvation. John 3:14,15,16.`,
+        Question: `Explain what did God instructed Moses to do when the Israelites repented of their sins and what does that signify or fore-shadowed? back your answer with Bible text.   `,
+      },
+      {
+        explaination: `The temptation of Job is a striking example of how the devil afflicts the worshipper of God with the aim of making the person to curse God and fallout of His favour. Job 1:6-22; 2:3-10;`,
+        Question: `With cogent Bible text, Show from the Holy Bible that God is not responsible for man's ills or troubles. but the devil?`,
+      },
+      {
+        explaination: `SAVED; THE ENDS OF THE EARTH; GOD.
+        Isaiah 45:22.`,
+        Question: `Fill in the blank spaces below and cite the Bible text. " Look unto me, and be ye ___. All ____: For I am __ and there is none else." `,
+      },
+      {
+        explaination: `People of God are saved when they believe or have faith in Jesus Christ, the Saviour of the world. John 3:15, 36; 20:29.`,
+        Question: `If the literal looking at the brazen serpent delivered those bitten by the serpents, explain with bible texts, how the people of God can be saved by looking at Jesus Christ.`,
+      },
+      {
+        explaination: `Believe in the Truth of God's word, rather than falsehood and repentance of one's sins are pre-conditions for Salvation. John 8:31,32; 1 Tim. 2:3,4; 2 Thess. 2:10-12. Heb. 12:1-3.`,
+        Question: `Prove from the Holy Bible that mere believe in Jesus Christ, while people indulge in Sin and Falsehood can not saved, except they repent.`,
+      },
+      {
+        explaination: `a, St. Paul. Phil. 2:12
+        b, St. Peter Acts 4:11
+        c, St. Peter Acts 4:12
+        d, St. Paul. 2 Cor. 5:7
+        e, St. Paul. Romans 6:23`,
+        Question: `Who made the following statements and cite where it is recorded?
+
+        a, Work out your own Salvation with fear and trembling.
+        
+        b, This is the stone which was set at nought of you builders, which is become the head of the corner.
+        
+        c, Neither is there Salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.
+        
+        d, For we walk by faith and not by sight. 
+        
+        e, For the wages of sin is death: but the gift of God is eternal life through Jesus Christ our Lord.`,
+      },
+      {
+        explaination: `John 3:16; Acts 4:10-12; Romans 6:23; John 3:36, etc`,
+        Question: `With four appropriate Bible texts to back, prove that Salvation can be obtained through Jesus Christ.`,
+      },
+      //     {
+      //   explaination: ``,
+      //   Question: ``,
+      // },
+
+      {
         explaination: `The story of the Brazen Serpent in the Bible tells of the time when the Israelites were punished by God with deadly snakes because of their faithlessness and blasphemy. After repenting and asking for help, God commanded Moses to create a serpent of brass and set it up on a pole so that those who were bitten by the snakes could look at it and be healed. This story has significant spiritual meaning and is seen as a foreshadowing of the salvation of God that would come to all repentant sinners through Jesus Christ as of grace. It also teaches that men must take responsibility for their own sins and troubles, and look to God for help and deliverance. Ultimately, the story points to Jesus Christ as the ultimate source of salvation and eternal life.`,
         Question: "What is the significance of the Brazen Serpent story in the Bible?",
 
@@ -514,10 +566,7 @@ This is the time therefore for all men of goodwill to demonstrate their faith in
         explaination: `Faith was required for the Israelites to be healed from the serpent bites, and faith in Jesus Christ is required for salvation from sin and death.`,
         Question: "What is the importance of faith in the story of the brazen serpent? ",
       },
-      // {
-      //   explaination: ``,
-      //   Question: " ",
-      // },
+
       // {
       //   explaination: ``,
       //   Question: " ",
